@@ -1,0 +1,2838 @@
+<course>
+ <id>{83107ad5-ecb2-4bb7-a166-f32a23c2076f}</id>
+ <title>Englisches Mine</title>
+ <description>Adaptiert vom Kurs "Deutsches Neo 2" mit einem Script von Joerg H. Mueller,
+Original von Carsten MISCHKE &amp;lt;Carsten,Mischke@gmail.com&gt;, Hanno Behrens und Hans Meine.
+Homepage: http://neo-layout.org</description>
+ <keyboardLayout>de(mine)</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{ec2c5ed7-1260-481a-97b4-16032741afd5}</id>
+   <title>Zeigefinger: e und n</title>
+   <newCharacters>en</newCharacters>
+   <text>ee ee ee eeee ee eeee ee eeee ee ee ee eeee ee eeee ee eeee
+nn nn nn nnnn nn nnnn nn nnnn nn nn nn nnnn nn nnnn nn nnnn
+en en en eenn en eenn en eenn en en en eenn en eenn en eenn
+en en en eenn en eenn en eenn en en en eenn en eenn en eenn
+ne ne ne nnee ne nnee ne nnee ne ne ne nnee ne nnee ne nnee
+ne ne ne nnee ne nnee ne nnee ne ne ne nnee ne nnee ne nnee
+en ne en ne en ne en en ne en en ne ne en nennen nennen ne
+en ne en ne en ne ne en ne ne en en ne nennen nennen nennen
+eeen nnne eene nnen enee nenn eeen nnne eene nnen enee nenn
+eeen nnne eene nnen enee nenn eeen nnne eene nnen enee nenn</text>
+  </lesson>
+  <lesson>
+   <id>{f194f102-9d5f-404b-900b-d86c08ce17c8}</id>
+   <title>Mittelfinger: i und t</title>
+   <newCharacters>it</newCharacters>
+   <text>ii ii ii iiii ii iiii ii iiii ii ii ii iiii ii iiii ii iiii
+tt tt tt tttt tt tttt tt tttt tt tt tt tttt tt tttt tt tttt
+it it it iitt it iitt it iitt it it it iitt it iitt it iitt
+it it it iitt it iitt it iitt it it it iitt it iitt it iitt
+ti ti ti ttii ti ttii ti ttii ti ti ti ttii ti ttii ti ttii
+ti ti ti ttii ti ttii ti ttii ti ti ti ttii ti ttii ti ttii
+it ti it ti it ti it it ti it it ti it it ti tennen tennen
+ti it ti it ti it ti ti it ti ti it ti ti it tennen tennen
+et et in in tinn tinn tit tit iti iti itne itne tennen
+tennen te in tinn tit iti itne tennen iiit ttti iiti ttit
+itii titt iiit ttti iiti ttit itii titt iiit ttti iiti ttit
+itii titt iiit ttti iiti ttit itii titt iiee iinn iitt ient
+ttnn ttee ttii tnei iiee iinn iitt ient ttnn ttee ttii tnei
+iiee iinn iitt ient ttnn ttee ttii tnei</text>
+  </lesson>
+  <lesson>
+   <id>{3f2f50c7-b3a5-40a9-a043-97fbfac58ff7}</id>
+   <title>kleine Finger: c und h</title>
+   <newCharacters>ch</newCharacters>
+   <text>cc cc cc cccc cc cccc cc cccc cc cc cc cccc cc cccc cc cccc
+cc cc cc cccc cc cccc cc cccc cc cc cc cccc cc cccc cc cccc
+hh hh hh hhhh hh hhhh hh hhhh hh hh hh hhhh hh hhhh hh hhhh
+hh hh hh hhhh hh hhhh hh hhhh hh hh hh hhhh hh hhhh hh hhhh
+ch ch ch cchh ch cchh ch cchh ch ch ch cchh ch cchh ch cchh
+ch ch ch cchh ch cchh ch cchh ch ch ch cchh ch cchh ch cchh
+hc hc hc hhcc hc hhcc hc hhcc hc hc hc hhcc hc hhcc hc hhcc
+hc hc hc hhcc hc hhcc hc hhcc hc hc hc hhcc hc hhcc hc hhcc
+ccch hhhc cchc hhch chcc hchh ccch hhhc cchc hhch chcc hchh
+ccch hhhc cchc hhch chcc hchh ccch hhhc cchc hhch chcc hchh
+ccii ccee ccnn cctt cchh hhtt hhnn hhee hhii hhcc ccii ccee
+ccnn cctt cchh hhtt hhnn hhee hhii hhcc ccii eenn tthh ccii
+eenn tthh hhtt nnee iicc cie htn cie htn cie htn cie nth cie
+nth cie nth htn eic htn eic htn nth cie nth htn eic htn eic</text>
+  </lesson>
+  <lesson>
+   <id>{89f399c2-a0ae-4835-a6f7-431c38d48ceb}</id>
+   <title>Ringfinger: r und s</title>
+   <newCharacters>rs</newCharacters>
+   <text>rr rr rr rrrr rr rrrr rr rrrr rr rr rr rrrr rr rrrr rr rrrr
+rr rr rr rrrr rr rrrr rr rrrr rr rr rr rrrr rr rrrr rr rrrr
+ss ss ss ssss ss ssss ss ssss ss ss ss ssss ss ssss ss ssss
+ss ss ss ssss ss ssss ss ssss ss ss ss ssss ss ssss ss ssss
+rs rs rs rrss rs rrss rs rrss rs rs rs rrss rs rrss rs rrss
+rs rs rs rrss rs rrss rs rrss rs rs rs rrss rs rrss rs rrss
+sr sr sr ssrr sr ssrr sr ssrr sr sr sr ssrr sr ssrr sr ssrr
+sr sr sr ssrr sr ssrr sr ssrr sr sr sr ssrr sr ssrr sr ssrr
+rrrs sssr rrsr ssrs rsrr srss rrrs sssr rrsr ssrs rsrr srss
+rrrs sssr rrsr ssrs rsrr srss rrrs sssr rrsr ssrs rsrr srss
+rrnn rrtt rrss rrhh ssee ssii ssrr sscc rrhh rrss rrtt rrnn
+sscc ssrr ssii ssee crie hstn crie hstn crie hstn eirc ntsh
+eirc ntsh eirc ntsh crie ntsh crie ntsh crie ntsh hstn eirc
+hstn eirc hstn eirc</text>
+  </lesson>
+  <lesson>
+   <id>{5b5070d7-3439-46d3-b49e-9ce0a84660e1}</id>
+   <title>Grundstellung crie ntsh</title>
+   <newCharacters />
+   <text>crie ntsh crie ntsh crie ntsh crie ntsh crie ntsh crie ntsh
+crie ntsh crie ntsh crie ntsh crie ntsh crie ntsh crie ntsh
+crie ntsh hstn eirc hstn eirc hstn eirc hstn eirc hstn eirc
+hstn eirc hstn eirc hstn eirc hstn eirc hstn eirc hstn eirc
+hstn eirc hstn eirc crie hstn crie hstn crie hstn crie hstn
+crie hstn crie hstn eirc ntsh eirc ntsh eirc ntsh eirc ntsh
+eirc ntsh eirc ntsh eirc ntsh crie hstn crie hstn crie hstn
+crie hstn crie hstn crie hstn eirc ntsh eirc ntsh eirc ntsh
+eirc ntsh eirc ntsh eirc ntsh eirc ntsh crie ntsh crie hstn
+eirc hstn eirc ntsh crie ntsh crie hstn eirc hstn eirc ntsh
+crie ntsh crie hstn eirc hstn eirc ntsh crie ntsh crie hstn
+eirc hstn eirc ntsh crie ntsh crie hstn eirc hstn eirc ntsh
+crie ntsh crie hstn eirc hstn eirc ntsh</text>
+  </lesson>
+  <lesson>
+   <id>{05d7a8be-271f-45a0-b7d4-14a0f65fdf7f}</id>
+   <title>Sicherheitstest Grundstellung</title>
+   <newCharacters />
+   <text>eee nnn iii ttt rrr sss ccc hhh nnn eee ttt iii sss rrr hhh
+ccc eee nnn iii ttt rrr sss ccc hhh nnn eee ttt iii sss rrr
+hhh ccc ene ene nen nen iti iti tit tit rsr rsr srs srs chc
+chc hch hch ene ene nen nen iti iti tit tit rsr rsr srs srs
+chc chc hch hch hch srs tit nen ene iti rsr chc nen tit srs
+hch chc rsr iti ene hch srs tit nen ene iti rsr chc nen tit
+srs hch chc rsr iti ene ene ene nen nen iti iti tit tit rsr
+rsr srs srs chc chc hch hch ene ene nen nen iti iti tit tit
+rsr rsr srs srs chc chc hch hch hch srs tit nen ene iti rsr
+chc nen tit srs hch chc rsr iti ene hch srs tit nen ene iti
+rsr chc nen tit srs hch chc rsr iti ene enit enit etin etin
+rsch rsch rhcs rhcs chrs chrs csrh csrh iten iten inet inet
+enit enit etin etin rsch rsch rhcs rhcs neti neti nite nite
+srhc srhc schr schr hcsr hcsr hrsc hrsc tine tine teni teni
+neti neti nite nite srhc srhc schr schr chrs chrs csrh csrh
+iten iten inet inet enit enit etin etin rsch rsch rhcs rhcs
+chrs chrs csrh csrh iten iten inet inet hcsr hcsr hrsc hrsc
+tine tine teni teni neti neti nite nite srhc srhc schr schr
+hcsr hcsr hrsc hrsc tine tine teni teni ene ene nen nen iti
+iti tit tit rsr rsr srs srs chc chc hch hch ene ene nen nen
+iti iti tit tit rsr rsr srs srs chc chc hch hch hch srs tit
+nen ene iti rsr chc nen tit srs hch chc rsr iti ene hch srs
+tit nen ene iti rsr chc nen tit srs hch chc rsr iti ene ene
+ene nen nen iti iti tit tit rsr rsr srs srs chc chc hch hch
+ene ene nen nen iti iti tit tit rsr rsr srs srs chc chc hch
+hch hch srs tit nen ene iti rsr chc nen tit srs hch chc rsr
+iti ene hch srs tit nen ene iti rsr chc nen tit srs hch chc</text>
+  </lesson>
+  <lesson>
+   <id>{6428fa17-2153-48b9-8a0a-6df09b7a599b}</id>
+   <title>Silben aus zwei Buchstaben</title>
+   <newCharacters />
+   <text>er er er er er er er er er es es es es es es es es es en en
+en en en en en en en ec ec ec ec ec ec ec ec ec he he he he
+he he he he he hi hi hi hi hi hi hi hi hi ht ht ht ht ht ht
+ht ht ht hr hr hr hr hr hr hr hr hr in in in in in in in in
+in is is is is is is is is is it it it it it it it it it ic
+ic ic ic ic ic ic ic ic st st st st st st st st st se se se
+se se se se se se si si si si si si si si si sh sh sh sh sh
+sh sh sh sh re re re re re re re re re ri ri ri ri ri ri ri
+ri ri rs rs rs rs rs rs rs rs rs rt rt rt rt rt rt rt rt rt
+th th th th th th th th th te te te te te te te te te ti ti
+ti ti ti ti ti ti ti tr tr tr tr tr tr tr tr tr nt nt nt nt
+nt nt nt nt nt ne ne ne ne ne ne ne ne ne ns ns ns ns ns ns
+ns ns ns ni ni ni ni ni ni ni ni ni ch ch ch ch ch ch ch ch
+ch ce ce ce ce ce ce ce ce ce ct ct ct ct ct ct ct ct ct ci
+ci ci ci ci ci ci ci ci er er er er er er er er er es es es
+es es es es es es en en en en en en en en en ec ec ec ec ec
+ec ec ec ec he he he he he he he he he hi hi hi hi hi hi hi
+hi hi ht ht ht ht ht ht ht ht ht hr hr hr hr hr hr hr hr hr
+in in in in in in in in in is is is is is is is is is it it
+it it it it it it it ic ic ic ic ic ic ic ic ic st st st st
+st st st st st se se se se se se se se se si si si si si si
+si si si sh sh sh sh sh sh sh sh sh re re re re re re re re
+re ri ri ri ri ri ri ri ri ri rs rs rs rs rs rs rs rs rs rt
+rt rt rt rt rt rt rt rt th th th th th th th th th te te te
+te te te te te te ti ti ti ti ti ti ti ti ti tr tr tr tr tr
+tr tr tr tr nt nt nt nt nt nt nt nt nt ne ne ne ne ne ne ne
+ne ne ns ns ns ns ns ns ns ns ns ni ni ni ni ni ni ni ni ni
+ch ch ch ch ch ch ch ch ch ce ce ce ce ce ce ce ce ce ct ct
+ct ct ct ct ct ct ct ci ci ci ci ci ci ci ci ci er er er er</text>
+  </lesson>
+  <lesson>
+   <id>{23fdaf8e-2401-49d5-8369-7a6071b80f8c}</id>
+   <title>Silben aus drei Buchstaben</title>
+   <newCharacters />
+   <text>the the the the the the the the the the the the his his his
+his his his his his his his his his her her her her her her
+her her her her her her she she she she she she she she she
+she she she its its its its its its its its its its its its
+see see see see see see see see see see see see set set set
+set set set set set set set set set hit hit hit hit hit hit
+hit hit hit hit hit hit ten ten ten ten ten ten ten ten ten
+ten ten ten ice ice ice ice ice ice ice ice ice ice ice ice
+sir sir sir sir sir sir sir sir sir sir sir sir sri sri sri
+sri sri sri sri sri sri sri sri sri sit sit sit sit sit sit
+sit sit sit sit sit sit net net net net net net net net net
+net net net etc etc etc etc etc etc etc etc etc etc etc etc
+tie tie tie tie tie tie tie tie tie tie tie tie inn inn inn
+inn inn inn inn inn inn inn inn inn inc inc inc inc inc inc
+inc inc inc inc inc inc sin sin sin sin sin sin sin sin sin</text>
+  </lesson>
+  <lesson>
+   <id>{3c4fab9f-2944-47ad-96a4-1d4a92be08e1}</id>
+   <title>Wir sichern die Grundstellung</title>
+   <newCharacters />
+   <text>eeee nnnn iiii tttt rrrr ssss cccc hhhh eeee nnnn iiii tttt
+rrrr ssss cccc hhhh cccc hhhh rrrr ssss iiii tttt eeee nnnn
+cccc hhhh rrrr ssss iiii tttt eeee nnnn nnnn eeee tttt iiii
+ssss rrrr hhhh cccc nnnn eeee tttt iiii ssss rrrr hhhh cccc
+hhhh cccc ssss rrrr tttt iiii nnnn eeee hhhh cccc ssss rrrr
+tttt iiii nnnn eeee crie ntsh crie ntsh crie ntsh crie ntsh
+crie ntsh crie ntsh crie ntsh crie ntsh hstn eirc hstn eirc
+hstn eirc hstn eirc hstn eirc hstn eirc hstn eirc hstn eirc
+crie hstn crie hstn crie hstn crie hstn crie hstn crie hstn
+crie hstn crie hstn eirc ntsh eirc ntsh eirc ntsh eirc ntsh
+eirc ntsh eirc ntsh eirc ntsh eirc ntsh cins reth cins reth
+cins reth cins reth nsre thci nsre thci nsre thci nsre thci
+cnrt iseh cnrt iseh cnrt iseh cnrt iseh hesi trnc hesi trnc
+hesi trnc hesi trnc ehis rtcn ehis rtcn ehis rtcn ehis rtcn
+neti srhc neti srhc neti srhc neti srhc crnt iesh crnt iesh
+crnt iesh crnt iesh ient crsh ient crsh ient crsh ient crsh
+hsei tnrc hsei tnrc hsei tnrc hsei tnrc tnei hsrc tnei hsrc
+tnei hsrc tnei hsrc eirc ntsh eirc ntsh eirc ntsh eirc ntsh</text>
+  </lesson>
+  <lesson>
+   <id>{8640dbde-6a19-4224-9eb7-1bb91bb52dfc}</id>
+   <title>Sicherheitstest der Grundstellung</title>
+   <newCharacters />
+   <text>the in is he it his this their her she there its then three
+these series since see s set seen sent either chinese hit
+center rest cities ten site here science tree street sister
+ice recent trees nine centre test rich entire interest tries
+scientists critics sense scene irish secret hits screen
+teeth enter st sir sets tests sites rise internet sees
+insects inches chris sciences thin streets sentence sri et
+chess nest scenes christ sit inner neither rice chest net
+sisters eric stress enters centers tennis scientist ethnic
+crisis tennessee critic cheese n interests richest strict</text>
+  </lesson>
+  <lesson>
+   <id>{94bc807f-28c4-4467-8153-a1c776f16171}</id>
+   <title>Die Mittelfinger: u und d</title>
+   <newCharacters>ud</newCharacters>
+   <text>iui iui iui iui iui iui iun iun iun iun iun iun iui iui iun
+iun iui iui iun iun iui iui iun iun tdt tdt tdt tdt tdt tdt
+tde tde tde tde tde tde tdt tdt tde tde tdt tdt tde tde tdt
+tdt tde tde iut iut iut iut iut iut tdi tdi tdi tdi tdi tdi
+iut iut tdi tdi iut iut tdi tdi iut iut tdi tdi ius ius ius
+ius ius ius tdr tdr tdr tdr tdr tdr ius ius tdr tdr ius ius
+tdr tdr ius ius tdr tdr iue iue iue iue iue iue tdn tdn tdn
+tdn tdn tdn iue iue tdn tdn iue iue tdn tdn tdn tdn tdn tdn
+iur iur iur iur iur iur tds tds tds tds tds tds iur iur tds
+tds iur iur tds tds iur iur tds tds iuc iuc iuc iuc iuc iuc
+tdh tdh tdh tdh tdh tdh iuc iuc tdh tdh iuc iuc tdh tdh iuc
+iuc tdh tdh iui iue iui iur iui iuc iui iue iui iur iui iuc
+iui iue iui iur iui iuc iui iue iui iur iui iuc tdt tdn tdt
+tds tdt tdh tdt tdn tdt tds tdt tdh tdt tdn tdt tds tdt tdh
+tdt tdn tdt tds tdt tdh uiu ucu uiu uru uiu ueu dtd dth dtd
+dsd dtd dnd uiu ucu uiu uru uiu ueu dtd dth dtd dsd dtd dnd
+heu heu heu heu heu heu cnd cnd cnd cnd cnd cnd heu heu heu
+cnd cnd cnd heu heu heu cnd cnd cnd ued ued ued ued ued ued
+den den den den den den ued ued ued den den den ued ued ued
+den den den iud iud iud iud iud iud uid uid uid uid uid uid
+iud iud iud uid uid uid iud iud iud uid uid uid deu deu deu
+deu deu deu end end end end end end deu deu deu end end end
+deu deu deu end end end deu deu deu end end end deu deu deu</text>
+  </lesson>
+  <lesson>
+   <id>{fcaa647c-a6ba-43a3-a703-b3c8421c49a2}</id>
+   <title>Wir üben: u und d</title>
+   <newCharacters />
+   <text>did did did did did did use use use use use use end end end
+end end end due due due due due due run run run run run run
+red red red red red red cut cut cut cut cut cut die die die
+die die die sun sun sun sun sun sun des des des des des des
+rid rid rid rid rid rid eds eds eds eds eds eds dee dee dee
+dee dee dee der der der der der der ted ted ted ted ted ted
+und und und und und und sur sur sur sur sur sur ned ned ned
+ned ned ned hid hid hid hid hid hid cue cue cue cue cue cue
+did did use use end end due due run run red red cut cut die
+die sun sun des des rid rid eds eds dee dee der der ted ted
+und und sur sur ned ned hid hid cue cue sue sue dre dre cds
+used used used used died died died died such such such such
+side side side side need need need need uses uses uses uses
+true true true true turn turn turn turn runs runs runs runs
+ends ends ends ends sure sure sure sure user user user user
+unit unit unit unit thus thus thus thus hurt hurt hurt hurt
+send send send send dies dies dies dies ride ride ride ride
+tend tend tend tend diet diet diet diet tune tune tune tune
+under under under third third third ended ended ended tried
+tried tried needs needs needs units units units dutch dutch
+dutch sides sides sides issue issue issue users users users</text>
+  </lesson>
+  <lesson>
+   <id>{c4466fe4-2994-4d4b-bb74-2e47267b4578}</id>
+   <title>Sicherheitstest für u und d </title>
+   <newCharacters />
+   <text>tdt tdt tdn tdn tdt tdt tds tds tdt tdt tdh tdh tdt tdt tde
+tdt tdt tdi tdt tdr tdt tdt tdc tdt tdt iui iui iue iue iui
+iui iur iur iui iui iuc iuc iui iui iun iui iui iut iui ius
+iui iui iuh iui iui dcdr dide dndt dsdh dedi drdc dhds dtdn
+dndt dsdh dcdr dide dhds dtdn dedi drdc uhus utun ueui uruc
+unut usuh ucur uiue ueui uruc uhus utun ucur uiue unut usuh
+dcdr dide dndt dsdh dedi drdc dhds dtdn dndt dsdh dcdr dide
+dhds dtdn dedi drdc uhus utun ueui uruc unut usuh ucur uiue
+ueui uruc uhus utun ucur uiue unut usuh nru nru iuu iuu ctu
+did did use use end end due due run run red red cut cut die
+die sun sun des des rid rid eds eds dee dee der der ted ted
+und und sur sur ned ned hid hid cue cue sue sue dre dre cds
+cds did did use use end end due due run run red red cut cut
+used used died died such such side side need need uses uses
+true true turn turn runs runs ends ends sure sure user user
+unit unit thus thus hurt hurt send send dies dies ride ride
+tend tend diet diet tune tune hide hide tied tied hunt hunt
+united united under under third third ended ended inside
+inside tried tried needed needed census census church church
+return return needs needs turned turned units units dutch
+dutch sides sides issues issues issue issue users users
+decide decide turns turns direct direct reduce reduce truth
+truth seeds seeds issued issued rescue rescue hidden hidden
+hindu hindu hired hired edited edited credit credit dress
+dress desert desert hunter hunter tested tested trust trust
+sends sends duties duties turner turner dried dried desire
+desire dense dense rides rides sudden sudden tired tired</text>
+  </lesson>
+  <lesson>
+   <id>{492e246a-6b07-49c3-a1e8-ede457cae216}</id>
+   <title>Die Zeigefinger: a und b</title>
+   <newCharacters>ab</newCharacters>
+   <text>eae eae eae eae eae eae nbn nbn nbn nbn nbn nbn eae eae nbn
+nbn eae eae nbn nbn eae eae nbn nbn ean ean ean nbe nbe nbe
+eat eat eat nbi nbi nbi eas eas eas nbr nbr nbr eah eah eah
+nbc nbc nbc eac ear eai eae nbh nbs nbt nbn eae eai ear eac
+nbn nbt nbs nbh eae eai ear eac nbn nbt nbs nbh bnb bnb bnb
+bnb bnb bnb aea aea aea aea aea aea bnb bnb aea aea bnb bnb
+aea aea bnb bnb aea aea bne bne bne aen aen aen bni bni bni
+aet aet aet bnr bnr bnr aes aes aes bnc bnc bnc aeh aeh aeh
+aca ara aia aea bhb bsb btb bnb aea aia ara aca bnb btb bsb
+bhb eae eae cab cab cab bec bec bec icab icab icab icab ecab
+that that that that been been been been than than than than
+each each each each area area area area said said said said
+best best best best band band band band near near near near
+head head head head race race race race hard hard hard hard
+east east east east case case case case data data data data
+idea idea idea idea hand hand hand hand read read read read</text>
+  </lesson>
+  <lesson>
+   <id>{99df50c1-70f5-4ec7-a5a1-7bfed2a7bae9}</id>
+   <title>Wir üben: a und b </title>
+   <newCharacters />
+   <text>and a are as at be an but been because area best british
+band based areas air better bad added art business birth
+ancient birds actress behind base act artist artists britain
+brain buried asia arrested asian basic bands aired accident
+arts access beat bus bird bit austrian add branch b acted
+architecture acts audience bar austria attached acid arthur
+address bass anne burned businesses brand attended beach ben
+assistant branches anna ahead banned accused arab bruce
+basis accurate bacteria babies breed aid austin bread bed
+arabic barbara burn bases abuse artistic ann audiences
+attend bars attract arrest architect abstract brian bear
+attracted athens bureau ate annabeth acres arena beer breast
+buddhist aside accidents adds bite bits besides bush bears
+airbus breathe breath beaten addresses accent abused arabian
+bat beats burns buses andrea arctic buddha bend ants absence
+beaches bath batteries barrier bernard austen anastasia
+acids assistance basin archie beans attitude bees bid burnt
+beneath ash arabia bach airs abundant assets assisted burst
+beds assist accessed absent bin bet beside ban aunt arteries</text>
+  </lesson>
+  <lesson>
+   <id>{2b1ee6d2-897e-4667-803d-47455f2e8d5a}</id>
+   <title>Sicherheitstest für a und b </title>
+   <newCharacters />
+   <text>and a that are as at be has an had can but been than because
+started each area said death states best created state
+british band career based near head areas start air better
+caused race india sea instead character car hard bad added
+certain east characters case indian data cause idea art
+reached china cases eat hand business rather earth research
+birth ideas read dead canada ancient described care date
+causes heart stars birds russian actress christian create
+husband san behind base reach train disease dance ran act
+richard artist starts nature debut artists senate britain
+brain cars hair canadian standard understand buried star
+seat status rate increase eastern trade heard distance asia
+trains russia easier teacher hurricane arrested heat deaths
+describe asian inhabitants increased hands basic raised
+earned era bands carried rare stands starred aired accident
+seats saint chance candidate search cards arts access share
+theatre stand stated cancer beat chart bus treated tribe
+bird bit austrian add rain branch b tribes catch acted
+architecture acts audience races cast bar trained austria
+shared santa attached cat acid arthur crash dated eaten</text>
+  </lesson>
+  <lesson>
+   <id>{395919c3-d454-47d8-a4e6-4ba12701fa33}</id>
+   <title>Mehr Zeigefinger: o und m</title>
+   <newCharacters>om</newCharacters>
+   <text>eoe eoe eoe eoe eoe eoe nmn nmn nmn nmn nmn nmn eoe eoe nmn
+nmn eoe eoe nmn nmn eoe eoe nmn nmn eom eom eom eon eon eon
+eob eob eob eot eot eot eod eod eod eos eos eos eoh eoh eoh
+nmo nmo nmo nme nme nme nma nma nma nmi nmi nmi nmu nmu nmu
+nmr nmr nmr nmc nmc nmc oeo oeo oeo oeo oeo oeo mnm mnm mnm
+mnm mnm mnm oeo oeo mnm mnm oeo oeo mnm mnm oeo oeo mnm mnm
+oem oem oem oen oen oen oeb oeb oeb oet oet oet oed oed oed
+oes oes oes oeh oeh oeh mno mno mno mne mne mne mna mna mna
+mni mni mni mnu mnu mnu mnr mnr mnr mnc mnc mnc eoe eoe oeo
+oeo nmn nmn mnm mnm eoa eoa oea oea nmb nmb mnb mnb eoi eoi
+oei oei nmt nmt mnt mnt eou eou oeu oeu nmd nmd mnd mnd eor
+eor oer oer nms nms mns mns eoc eoc oec oec nmh nmh mnh mnh
+more more more more time time time time made made made made
+into into into into most most most most them them them them
+some some some some name name name name born born born born
+same same same same both both both both team team team team
+main main main main much much much much does does does does
+not not not not one one one one him him him him out out out
+out son son son son men men men men too too too too man man
+man man met met met met our our our our hot hot hot hot tom
+other other other other about about about about more more
+more more time time time time made made made made into into
+into into most most most most them them them them became
+became became became some some some some name name name name
+born born born born same same same same second second second
+second music music music music number number number number
+around around around around both both both both named named</text>
+  </lesson>
+  <lesson>
+   <id>{dbd5fa2b-da9a-4d70-8518-6b0827d0ad1c}</id>
+   <title>Wir üben: o und m</title>
+   <newCharacters />
+   <text>to to to on on on not not not or or or one one one other
+other other about about about more more more time time time
+made made made into into into most most most them them them
+him him him became became became some some some name name
+name out out out so so so citation citation citation
+american american american do do do born born born same same
+same no no no second second second music music music number
+number number around around around both both both named
+named named married married married means means means team
+team team main main main much much much season season season
+october october october does does does member member member
+another another another march march march december december
+december become become become times times times countries
+countries countries home home home sometimes sometimes
+sometimes came came came members members members must must
+must south south south north north north common common
+common son son son men men men too too too those those those
+man man man done done done mother mother mother short short
+short term term term order order order america america
+america others others others station station station come
+come come modern modern modern months months months cannot
+cannot cannot record record record house house house comes</text>
+  </lesson>
+  <lesson>
+   <id>{707efe63-b93f-4874-ac8e-3e2020d1b413}</id>
+   <title>Sicherheitstest für o und m</title>
+   <newCharacters />
+   <text>to on not or one other about more time made into most them
+him became some name out so citation american do born same
+no second music number around both named married means team
+main much season october does member another march december
+become times countries home sometimes came members must
+south north common son men too those man done mother short
+term order america others station come modern months cannot
+record house comes teams considered human once match names
+union amount outside continued recorded across minister soon
+brother actor numbers announced sound stories director round
+becomes court hours someone robert meant mean road reason
+matches roman met minutes board our radio summer education
+terms scored cm southern addition thomas introduced source
+action storm shot association contains humans museum seasons
+studio meters machine remains room stations ones m hot
+remained mass americans edition code mountain houses
+nominated host conditions border coast author decision
+method score records northern month reasons tour continue
+meet arrondissement section cost democratic smith chosen</text>
+  </lesson>
+  <lesson>
+   <id>{76cf9ff4-fd89-4d75-ac16-daf5062d7a1d}</id>
+   <title>Wichtige Buchstaben: q und w</title>
+   <newCharacters>qw</newCharacters>
+   <text>eae eqe eqe eqe eae eqe eae eqe eae eqe eqe eqe eae eqe eae
+nbn nwn nwn nwn nbn nwn nbn nwn nbn nwn nwn nwn nbn nwn nbn
+eqc eqr eqi eqe eqo eqc eqr eqi eqe eqo eqc eqr eqi eqe eqo
+nwh nws nwt nwn nwm nwh nws nwt nwn nwm nwh nws nwt nwn nwm
+eqm eqw eqn eqb eqt eqd eqs eqh eqm eqw eqn eqb eqt eqd eqs
+eqh nwo nwq nwe nwa nwi nwu nwr nwc nwo nwq nwe nwa nwi nwu
+nwr nwc qoq qeq qaq qiq quq qrq qcq qoq qeq qaq qiq quq qrq
+qcq wmw wnw wbw wtw wdw wsw whw wmw wnw wbw wtw wdw wsw whw
+qmq qwq qnq qbq qtq qdq qsq qhq qmq qwq qnq qbq qtq qdq qsq
+qhq wow wqw wew waw wiw wuw wrw wcw wow wqw wew waw wiw wuw
+wrw wcw qeh qes qet qen qeh qes qet qen qeh qes qet qen qeh
+qes qet qet qet qet qim qim qim qet qet qet qim qim qim qet
+qet qet qre qre qre qcs qcs qcs qre qre qre qcs qcs qcs qre
+qre qre qet qim qre qcs qcs qre qim qet qet qim qre qcs qcs
+qre qim nbn nwn nwn nwn nbn nwn nbn nwn nbn nwn nwn nwn nbn
+nwn nbn nwh nws nwt nwh nws nwt nwh nws nwt nwh nws nwt nwh
+nws nwt wnh wns wnt wne wni wnr wnc wnh wns wnt wne wni wnr
+wnc wnh iaw iaw iaw wis wis wis iaw wis iaw wis iaw wis iaw
+wis iaw</text>
+  </lesson>
+  <lesson>
+   <id>{8bba1e8e-2735-4326-86e3-d236ff1e36ce}</id>
+   <title>Wir üben: q und w</title>
+   <newCharacters />
+   <text>was was with with were were which which who who when when
+where where won won what what water water wrote wrote went
+went written written word word without without war war
+wanted wanted we we white white women women words words want
+want within within woman woman west west win win writer
+writer write write quite quite western western wide wide
+whether whether queen queen whose whose wants wants weather
+weather winner winner wind wind winter winter whom whom wood
+wood wear wear warm warm question question website website
+wins wins windows windows writers writers winds winds
+wounded wounded window window worse worse questions
+questions watch watch web web quit quit waters waters worth
+worth wet wet writes writes wars wars worn worn winners
+winners worried worried wider wider wire wire worst worst
+wooden wooden waste waste wait wait wii wii wine wine ward
+ward winters winters wore wore watson watson watched watched</text>
+  </lesson>
+  <lesson>
+   <id>{693bc2b3-98b9-474d-bbc7-64a503a9a8f5}</id>
+   <title>Sicherheitstest für q und w</title>
+   <newCharacters />
+   <text>was with were which who two when new between where won what
+water how show now down own wrote went written town word
+without war wanted we white women words shows want within
+woman award shown west win writer saw write awarded square
+quite western wide awards owned towards whether showed queen
+news twice whose wants towns brown weather edward winner
+wind winter crew required whom wood wear warm question
+website answer unique wins windows swedish writers sweden
+owner winds tower wounded narrow window headquarters worse
+row questions watch web moscow quit sequence require snow
+drawn toward techniques waters worth requires sword wet
+owners writes crowd otherwise thrown andrew wars worn draw
+twin winners worried wider technique swim matthew northwest
+wire howard worst somewhat conquered acquired taiwan wooden
+waste wait throw wii wine crown ward switch sweet winters
+owns iraq wore swiss mosque aquatics watson watched threw
+width widow screenwriter reward request wish switched
+underwater southwest quiet withdrew quarter requirements
+newer whereas hebrew aware downtown drew equation hawaii
+warren equations wishes quantum wisconsin raw edwards quebec
+westminster towers squares subsequent warmer websites
+consequences stewart witch wears twins sequences darwin
+conquest hardware hometown woods wisdom somewhere rows bow
+crowned wheat renewed cows edwin wound warrior questioned
+quest answers swimmer throws worms watches washed warn</text>
+  </lesson>
+  <lesson>
+   <id>{7a431945-2d2c-46d7-a591-794be006659d}</id>
+   <title>Neue Buchstaben: ä und f</title>
+   <newCharacters>äf</newCharacters>
+   <text>eae eäe eäe eäe eae eäe eäe eäe eae eäe eäe eäe nbn nfn nfn
+nfn nbn nfn nfn nfn nbn nfn nfn nfn eäe eäh eäs eät eän eäm
+nfn nfc nfr nfi nfe nfo eäe eäh eäs eät eän eäm nfn nfc nfr
+nfi nfe nfo eän eät eäd eäb eäw eäm nfe nfi nfu nfa nfq nfo
+eän eät eäd eäb eäw eäm nfe nfi nfu nfa nfq nfo aea äeä äeä
+äeä aea äeä äeä äeä aea äeä äeä äeä bnb fnf fnf fnf bnb fnf
+fnf fnf bnb fnf fnf fnf äeä äeh äes äet äen äem fnf fnc fnr
+fni fne fno äeä äeh äes äet äen äem fnf fnc fnr fni fne fno
+äen äet äed äeb äew äem fne fni fnu fna fnq fno äen äet äed
+äeb äew äem fne fni fnu fna fnq fno ääb ääw ääm ään ffa ffq
+ffo ffe ääa ääq ääo ääe ffb ffw ffm ffn ääb ääw ääm ään ffa
+ffq ffo ffe ääa ääq ääo ääe ffb ffw ffm ffn äiufqeheu
+for for from from first first found found four four few few
+father father famous famous form form french french food
+food founded founded find find france france formed formed
+former former fire fire friends friends free free feet feet
+finished finished force force far far forces forces front
+front fourth fourth features features forms forms forced
+forced friend friend fact fact fast fast fish fish further
+further future future face face function function finds
+finds feature feature faster faster fans fans forest forest
+featured featured fifth fifth founder founder finish finish
+foot foot fit fit fame fame focus focus fired fired
+foundation foundation fiction fiction forward forward fort
+fort fun fun farm farm factors factors format format ft ft
+fruit fruit francisco francisco freedom freedom functions
+functions feed feed fashion fashion federation federation
+formation formation forests forests ford ford francis</text>
+  </lesson>
+  <lesson>
+   <id>{cbcd6dc5-2586-4105-b2d2-1d20c35a5ee0}</id>
+   <title>Wir üben: ä und f</title>
+   <newCharacters />
+   <text>of of for for from from first first after after different
+different often often before before if if found found four
+four few few father father famous famous form form off off
+french french food food founded founded find find wife wife
+france france formed formed former former office office fire
+fire friends friends information information free free feet
+feet finished finished force force surface surface far far
+forces forces front front fourth fourth features features
+forms forms forced forced friend friend fact fact fast fast
+fish fish africa africa further further future future effect
+effect defeated defeated face face african african referred
+referred aircraft aircraft effects effects function function
+finds finds feature feature difference difference faster
+faster fans fans chief chief forest forest refers refers
+scientific scientific featured featured officer officer
+fifth fifth founder founder finish finish refused refused
+identified identified staff staff foot foot defeat defeat
+confirmed confirmed fit fit fame fame therefore therefore
+focus focus refer refer safe safe fired fired foundation
+foundation fiction fiction affected affected officers
+officers forward forward traffic traffic differences
+differences fort fort offered offered fun fun software
+software farm farm factors factors format format soft soft
+ft ft fruit fruit francisco francisco freedom freedom
+functions functions offices offices offer offer suffered
+suffered feed feed reference reference fashion fashion</text>
+  </lesson>
+  <lesson>
+   <id>{789bbfca-c3a7-4a02-9eee-bdfcde88a1ea}</id>
+   <title>Sicherheitstest für ä und f</title>
+   <newCharacters />
+   <text>of for from first after different often before if found four
+few father famous form off french food founded find wife
+france formed former office fire friends information free
+feet finished force surface far forces front fourth features
+forms forced friend fact fast fish africa further future
+effect defeated face african referred aircraft effects
+function finds feature difference faster fans chief forest
+refers scientific featured officer fifth founder finish
+refused identified staff foot defeat confirmed fit fame
+therefore focus refer safe fired foundation fiction affected
+officers forward traffic differences fort offered fun
+software farm factors format soft ft fruit francisco freedom
+functions offices offer suffered feed reference fashion
+defined federation affect defense conference transfer
+transferred formation forests microsoft offers ford francis
+definition efforts farmers fine firm affairs afterwards fair
+coffee confederate foods infection focused faces factor roof
+defend afraid farms fur feathers effort affects fires fat
+fewer fastest fear fresh brief reform defence franchise
+fifteen focuses infected frame faith fourteen facts confused
+fan interface faced infections founders affair fed uniform
+shift foster finnish fisher benefits infinite efficient
+farther afternoon benefit infant fate finest fruits surfaces
+defended confusion deaf freed frequencies suffer draft
+certified manufacturer factories farmer fee fins fred
+defeats feared frequent funds refuses drafted finn afford
+forbidden transformation uniforms reforms fried ferdinand
+beef fees francesco definitions furniture fountain fitted
+references furthermore forum forth confident craft define
+unified defendant finance feast transform referendum
+fernando amersfoort identifies manufactured manufacturers
+fusion conferences funded fishermen finishes enforce safer
+friedrich fund frances dwarf fin feminist feminists fewest</text>
+  </lesson>
+  <lesson>
+   <id>{34cc9ac4-a96d-4582-a2c0-e2d6df72b859}</id>
+   <title>Neue Buchstaben: ö und p</title>
+   <newCharacters>öp</newCharacters>
+   <text>eäe eöe eöe eöe eäe eöe eöe eöe eäe eöe eöe eöe nfn npn npn
+npn nfn npn npn npn nfn npn npn npn eäe eöe eoe eöe eäe eöe
+eoe nfn npn nmn npn nfn npn nnm eöe npn eöe npn eöe npn eöe
+npn eöe npn eöb eöw eöm eöp eöf eön npa npq npo npö npä npe
+eöf eöp eöm eöw eöb eön npä npö npo npq npa npe äeä öeö öeö
+öeö äeä öeö öeö öeö äeä öeö öeö öeö fnf pnp pnp pnp fnf pnp
+pnp pnp fnf pnp pnp pnp äeä öeö oeo öeö äeä öeö oeo fnf pnp
+mnm pnp fnf pnp mnm öeö pnp öeö pnp öeö pnp öeö pnp öeö pnp
+öeb öew öem öep öef öen pna pnq pno pnö pnä pne öef öep öem
+öew öeb öen pnä pnö pno pnq pna pne crie eoöä hstn nmpf crie
+oöäe hstn mpfn crie eäöo hstn nfpm crie äöoe hstn fpmn eöe
+part part part person person person power power power parts
+parts parts put put put president president president point
+point point period period period produced produced produced
+per per per points points points parents parents parents
+position position position press press press performed
+performed performed process process process production
+production production present present present past past past
+prison prison prison poor poor poor pieces pieces pieces
+paris paris paris passed passed passed performance
+performance performance piece piece piece producer producer
+producer paid paid paid produce produce produce paper paper
+paper peter peter peter prime prime prime prince prince
+prince protect protect protect products products products
+pressure pressure pressure perform perform perform picture
+picture picture pass pass pass purpose purpose purpose
+painted painted painted pacific pacific pacific piano piano
+piano product product product powers powers powers pair pair
+pair post post post practice practice practice parties
+parties parties port port port price price price pictures
+pictures pictures path path path peace peace peace presented
+presented presented professor professor professor percent
+percent percent positions positions positions protected
+protected protected permanent permanent permanent prisoners
+prisoners prisoners promoted promoted promoted proposed</text>
+  </lesson>
+  <lesson>
+   <id>{c2e618b1-03ba-4a8f-a941-8185455a4313}</id>
+   <title>Wir üben: ö und p</title>
+   <newCharacters />
+   <text>up up up part part part person person person september
+september september important important important power
+power power parts parts parts species species species top
+top top put put put president president president point
+point point period period period produced produced produced
+opened opened opened europe europe europe european european
+european support support support appeared appeared appeared
+per per per open open open points points points parents
+parents parents position position position press press press
+stop stop stop cup cup cup performed performed performed
+space space space process process process production
+production production computer computer computer spanish
+spanish spanish stopped stopped stopped episode episode
+episode championship championship championship present
+present present past past past sports sports sports prison
+prison prison happened happened happened department
+department department poor poor poor pieces pieces pieces
+separate separate separate temperature temperature
+temperature paris paris paris companies companies companies
+independent independent independent spent spent spent
+happens happens happens shape shape shape passed passed
+passed ship ship ship performance performance performance
+piece piece piece producer producer producer speed speed
+speed copies copies copies episodes episodes episodes paid
+paid paid appear appear appear happen happen happen
+competition competition competition troops troops troops
+produce produce produce spread spread spread paper paper
+paper appears appears appears peter peter peter upon upon
+upon specific specific specific prime prime prime supported
+supported supported reported reported reported prince prince
+prince championships championships championships protect
+protect protect empire empire empire products products
+products appearance appearance appearance pressure pressure
+pressure composed composed composed deep deep deep spain</text>
+  </lesson>
+  <lesson>
+   <id>{e04af63e-4c13-4948-be6c-01f7dbd5cf34}</id>
+   <title>Sicherheitstest für ö und p</title>
+   <newCharacters />
+   <text>up part person september important power parts species top
+put president point period produced opened europe european
+support appeared per open points parents position press stop
+cup performed space process production computer spanish
+stopped episode championship present past sports prison
+happened department poor pieces separate temperature paris
+companies independent spent happens shape passed ship
+performance piece producer speed copies episodes paid appear
+happen competition troops produce spread paper appears peter
+upon specific prime supported reported prince championships
+protect empire products appearance pressure composed deep
+spain super perform picture ships pass opera captured
+adopted separated purpose painted pacific camp piano
+appointed newspaper weapons product escape powers compared
+map accepted upper despite champion supreme pair operation
+post practice equipment airport parties independence attempt
+port price pictures composer apart opposite speech emperor
+path dropped depends peace presented professor report
+percent positions step protected represents sport concept
+permanent represented represent prisoners depression
+promoted computers proposed capture patients spot bishop
+compete competed response captain properties partner pattern
+supposed persons corporation printed opponent approach
+impact phrase temperatures stops poet performances
+operations steps operated pure reports spend appearances
+spots passes pain patient presence camps tape spirit trip
+poems poem phase perhaps protection pop weapon importance
+drop permission periods transport corps attempted compounds
+composers champions parent cape operas participated phone
+proper purposes shop copper parish premiered produces spin
+respect script shapes accept hope spaces pronounced attempts
+princess inspired occupied pounds adapted stephen persian
+opposed papers paint promote pope campus pet incorporated
+print pushed shaped departments patterns painter tip
+competitions processes priest input sharp depth premier maps
+newspapers escaped pointed promised supports output perfect</text>
+  </lesson>
+  <lesson>
+   <id>{fb0f8fc4-03c4-4cad-af86-11a267c6f06d}</id>
+   <title>Wir wiederholen viele Wörter</title>
+   <newCharacters />
+   <text>the of and in to a is was for on that are as with he from it
+his at be not were or has an this had first can which one
+their but other her she about who two more used there time
+been made its when into most than after them him because
+became up some name different new out so citation part then
+american between do where did use three born often same no
+these started each won area before said second died music
+number such united around if both named found married what
+means water team series person how main much season four
+death september states show now important since end october
+does member under another march december become down own
+best times created state british wrote went countries
+written de band home sometimes town few came members word
+father career power famous form parts must species see s top
+based put near south without north war common wanted third
+off son men set side seen too those man french head we white
+done mother food short term founded women words president
+find order america areas others station come point shows
+modern wife start air france due period need better ended
+produced months cannot record house comes teams returned
+current want caused formed within considered race india run
+woman sea human once sent former opened europe office
+instead decided district uses match names european character
+car hard union bad support inside either appeared students
+fire added certain east characters friends directed case
+amount per outside award shown red open information
+continued indian recorded points free parents west across
+data minister cause position chinese soon press idea studied
+stop art feet brother actor tried hit finished needed
+reached force numbers cup performed announced china space
+sound stories process win surface retired center cases
+director eat round far production rest cities computer
+census church ten forces hand becomes business court return
+spanish front rather hours stopped episode someone
+championship earth site research birth success robert fourth
+writer present ideas saw read needs meant here features dead
+mean past road canada forms sports reason matches roman true
+prison ancient described happened met minutes board our
+science care tree date forced causes friend radio department
+summer education poor heart pieces separate terms write
+awarded square scored turn stars quite cut street
+temperature western paris companies birds russian fact
+actress runs cm wide christian create husband san behind
+independent southern base reach addition thomas train
+introduced awards owned source spent institute action</text>
+  </lesson>
+  <lesson>
+   <id>{fd9e0cd3-a1db-4089-93b5-06a4593a797c}</id>
+   <title>Wir wiederholen alle Buchstaben</title>
+   <newCharacters />
+   <text>eee aaa qqq ooo ööö äää nnn bbb www mmm ppp fff äää ööö ooo
+qqq aaa eee fff ppp mmm www bbb nnn eea eeq eeo eeö eeä nnb
+nnw nnm nnp nnf eeä eeö eeo eeq eea nnf nnp nnm nnw nnb
+eaqoöäe nbwmpfn aae qqe ooe ööe ääe bbn wwn mmn ppn ffn ääe
+ööe ooe qqe aae ffn ppn mmn wwn bbn eäöoqae nfpmwbn eae eqe
+eoe eöe eäe nbn nwn nmn npn nfn eäe eöe eoe eqe eae nfn npn
+nmn nwn nbn eaqoöäe nbwmpfn eae eqe eoe eöe eäe nbn nwn nmn
+npn nfn eäe eöe eoe eqe eae nfn npn nmn nwn nbn eaqoöäe
+nbwmpfn eee aaa qqq ooo ööö äää nnn bbb www mmm ppp fff äää
+ööö ooo qqq aaa eee fff ppp mmm www bbb nnn eae eqe eoe eöe
+eäe nbn nwn nmn npn nfn eäe eöe eoe eqe eae nfn npn nmn nwn
+nbn eaqoöäe nbwmpfn crieouaqäö hstndbwfp crieouaqäö
+hstndbwfp criuaqoöäeirc hstdbwmpfntsh crieäöoqauirc
+hstnfpmwbdtsh öäoeircqau pfmntshwbd uaqcrieoäö dbwhstnmfp
+qauoeircöä wbdmntshpf äöcrieouaq fphstnmdbw</text>
+  </lesson>
+  <lesson>
+   <id>{758144c9-83e5-46e3-a36e-0d8c31f1f2da}</id>
+   <title>Neues Satzzeichen: , das Komma</title>
+   <newCharacters>,</newCharacters>
+   <text>nfn t,t t,t t,t t,t t,t t,t t,c t,r t,i t,e t,h t,s t,t t,n
+t,c t,r t,i t,e t,h t,s t,t t,n t,n t,t t,s t,h t,e t,i t,r
+t,c t,n t,t t,s t,h t,e t,i t,r t,c t,t t,t t,t t,t t,t t,t
+the, the, the, the, of, of, of, of, and, and, and, and, in,
+in, in, in, to, to, to, to, is, is, is, is, was, was, was,
+was, for, for, for, for, on, on, on, on, that, that, that,
+that, are, are, are, are, as, as, as, as, with, with, with,
+with, he, he, he, he, from, from, from, from, it, it, it, it
+his, his, his, his, at, at, at, at, be, be, be, be, not, not
+not, not, were, were, were, were, or, or, or, or, has, has,
+the, of, and, in, to, a, is, was, for, on, that, are, as,
+with, he, from, it, his, at, be, not, were, or, has, an,
+this, had, first, can, which, one, their, but, other, her,
+she, about, who, two, more, used, there, time, been, made,
+its, when, into, most, than, after, them, him, because,
+became, up, some, name, different, new, out, so, citation,
+part, then, american, between, do, where, did, use, three,
+born, often, same, no, these, started, each, won, area,
+before, said, second, died, music, number, such, united,
+around, if, both, named, found, married, what, means, water,
+team, series, person, how, main, much, season, four, death,
+september, states, show, now, important, since, end, october</text>
+  </lesson>
+  <lesson>
+   <id>{79b82514-357f-40b8-be5c-e14ef26f3e02}</id>
+   <title>Wir üben das Komma</title>
+   <newCharacters />
+   <text>person, how, main, much, season, four, death, september,
+states, show, now, important, since, end, october, does,
+member, under, another, march, december, become, down, own,
+best, times, created, state, british, wrote, went, countries
+written, de, band, home, sometimes, town, few, came, members
+word, father, career, power, famous, form, parts, must,
+species, see, s, top, based, put, near, south, without,
+north, war, common, wanted, third, off, son, men, set, side,
+seen, too, those, man, french, head, we, white, done, mother
+food, short, term, founded, women, words, president, find,
+order, america, areas, others, station, come, point, shows,
+modern, wife, start, air, france, due, period, need, better,
+ended, produced, months, cannot, record, house, comes, teams
+returned, current, want, caused, formed, within, considered,
+race, india, run, woman, sea, human, once, sent, former,
+opened, europe, office, instead, decided, district, uses,
+match, names, european, character, car, hard, union, bad,
+support, inside, either, appeared, students, fire, added,
+certain, east, characters, friends, directed, case, amount,
+per, outside, award, shown, red, open, information,
+continued, indian, recorded, points, free, parents, west,
+across, data, minister, cause, position, chinese, soon,
+press, idea, studied, stop, art, feet, brother, actor, tried
+hit, finished, needed, reached, force, numbers, cup,
+performed, announced, china, space, sound, stories, process,
+win, surface, retired, center, cases, director, eat, round,
+far, production, rest, cities, computer, census, church, ten
+forces, hand, becomes, business, court, return, spanish,
+front, rather, hours, stopped, episode, someone,
+championship, earth, site, research, birth, success, robert,
+fourth, writer, present, ideas, saw, read, needs, meant,
+here, features, dead, mean, past, road, canada, forms,
+sports, reason, matches, roman, true, prison, ancient,
+described, happened, met, minutes, board, our, science, care
+tree, date, forced, causes, friend, radio, department,
+summer, education, poor, heart, pieces, separate, terms,
+write, awarded, square, scored, turn, stars, quite, cut,
+street, temperature, western, paris, companies, birds,
+russian, fact, actress, runs, cm, wide, christian, create,
+husband, san, behind, independent, southern, base, reach,
+addition, thomas, train, introduced, awards, owned, source,</text>
+  </lesson>
+  <lesson>
+   <id>{1092b653-499a-4e3e-afda-ce2da859bde3}</id>
+   <title>Neues Satzzeichen: . der Punkt</title>
+   <newCharacters>.</newCharacters>
+   <text>nfn t,t s.s s.s s.s s.s s.s s.s s.c s.r s.i s.e s.h s.s s.n
+s.t s.c s.r s.i s.e s.h s.s s.t s.n fnf ,t, .s. nfn t,t s.s
+s.e s.i s.r s.c s.n s.t s.s s.h s.e s.i s.r s.c s.n s.t s.s
+sun. sun. sun. sun. rate. rate. rate. rate. deep. deep. deep
+deep. cost. cost. cost. cost. asia. asia. asia. asia. fans.
+fans. fans. fans. pass. pass. pass. pass. user. user. user.
+user. mind. mind. mind. mind. mr.. mr.. mr.. mr.. heat. heat
+heat. heat. camp. camp. camp. camp. me. me. me. me. onto.
+onto. onto. onto. wind. wind. wind. wind. pp.. pp.. pp.. pp.
+us. us. us. us. dr.. dr.. dr.. dr.. crew. crew. crew. crew.
+due. period. need. better. ended. produced. months. cannot.
+record. house. comes. teams. returned. current. want. caused
+formed. within. considered. race. india. run. woman. sea.
+human. once. sent. former. opened. europe. office. instead.</text>
+  </lesson>
+  <lesson>
+   <id>{87ffcf12-cc72-423e-8445-a7e9347502da}</id>
+   <title>Wir üben den Punkt</title>
+   <newCharacters />
+   <text>process. win. surface. retired. center. cases. director. eat
+round. far. production. rest. cities. computer. census.
+church. ten. forces. hand. becomes. business. court. return.
+spanish. front. rather. hours. stopped. episode. someone.
+championship. earth. site. research. st.. birth. success.
+robert. fourth. writer. present. ideas. saw. read. needs.
+meant. here. features. dead. mean. past. road. canada. forms
+sports. reason. matches. roman. true. prison. ancient.
+described. happened. met. minutes. board. our. science. care
+tree. date. forced. causes. friend. radio. department.
+summer. education. poor. heart. pieces. separate. terms.
+write. awarded. square. scored. turn. stars. quite. cut.
+street. temperature. western. paris. companies. birds.
+russian. fact. actress. runs. cm. wide. christian. create.
+husband. san. behind. independent. southern. base. reach.
+addition. thomas. train. introduced. awards. owned. source.
+spent. institute. action. disease. dance. ran. storm. act.
+happens. richard. shot. sister. shape. passed. artist.
+association. contains. fast. humans. ship. fish. museum.
+starts. towards. seasons. ice. africa. turned. whether.
+studio. further. performance. piece. structure. meters.
+future. machine. producer. remains. speed. effect. copies.
+room. stations. episodes. ones. recent. studies. m. units.
+trees. paid. nature. hot. appear. defeated. remained. face.</text>
+  </lesson>
+  <lesson>
+   <id>{8e4f66d3-dfa0-4186-8b93-ba3be8783647}</id>
+   <title>Sicherheitstest</title>
+   <newCharacters />
+   <text>runs, cm, wide, christian, create. husband. san, behind,
+independent. southern, base, reach, addition. thomas. train.
+introduced, awards, owned, source, spent, institute. action,
+disease. dance, ran, storm. act. happens, richard, shot,
+sister, shape, passed. artist. association, contains. fast,
+humans, ship, fish. museum, starts. towards, seasons, ice.
+africa, turned. whether. studio, further, performance, piece
+structure, meters. future. machine. producer. remains. speed
+effect, copies. room, stations, episodes, ones. recent.
+studies, m, units, trees, paid. nature. hot. appear,
+defeated, remained. face, debut, mass, americans. african,
+referred. happen, edition, dutch, competition, code. troops.
+mountain. produce, student, nine. spread. centre, artists.
+aircraft, senate, britain, showed, houses, nominated. brain,
+effects, paper, test, cars, host, hair, conditions, queen,
+canadian. appears. peter, border. upon, standard, coast,
+function. author. decision, rich. method. score, understand,
+records. buried. northern. month, news. finds. reasons.
+sides, specific, star. twice, prime. tour, supported, seat.
+reported. ends. die. prince, entire, championships, continue
+sure. meet. sun. protect, empire. products. entered,
+arrondissement, appearance, whose. status. rate, wants,
+pressure, interest, increase, composed, section. tries,
+feature. deep. cost, spain, difference, eastern, towns,
+super. perform, trade, democratic. heard. distance, asia,
+smith. chosen. coach. trains, contract. faster. course.
+russia. picture, brown. fans, ships, committee. methods,
+pass, scientists, tournament, media, chief, bottom. easier,
+forest. user. weather, edward. estimated. stone. teacher.
+drama. hurricane. mind. opera, refers, scientific, captured,
+mr., adopted, separated, arrested. stadium, purpose, painted
+heat. economic, winner. treatment. thousands, issues,</text>
+  </lesson>
+  <lesson>
+   <id>{81ebcbc7-b753-42e1-934a-1f58b5fe0013}</id>
+   <title>Wir wiederholen</title>
+   <newCharacters />
+   <text>iui tdt eae nbn eqe nwn eoe nmn eäe nfn eöe npn t,t s.s iui
+eqeöe nwnpn eqeöe nwnpn eqeöe nwnpn eqeöe nwnpn eqeöe nwnpn
+iui tdt eae nbn eqe nwn eoe nmn eäe nfn eöe npn t,t s.s iui
+eqeöe nwnpn eqeöe nwnpn eqeöe nwnpn eqeöe nwnpn eqeöe nwnpn
+the of and, in to a, is was for on that are as. with he from
+it his at be not were or has an. this had first can which
+one, their but other her she about who two more used there
+time been made its when into most than, after them him
+because became up some name different. new out so citation
+part then american between do. where did use three born
+often same, no these started each won area. before said
+second, died music number such united around if both named
+found. married what means water team series person how main
+much season four death september states show now important,
+since end october does member under another march december.
+become down own best times created. state british wrote went
+countries. written de band home sometimes town few came
+members word father career power famous form parts must
+species see s top based put near south without north war
+common. wanted third off son men set side, seen too those
+man p. french, head we. white done mother food short term
+founded. women words president find order america areas
+others station come point shows modern wife start air france
+due period need better ended produced months cannot record
+house comes teams returned current want caused formed within
+considered race india run woman sea human, once. sent.
+former opened europe office instead decided district uses
+match names european character car hard union bad support.
+inside either appeared students fire added certain east
+characters friends directed case amount per outside award
+shown red open information continued indian recorded points
+free parents west across data minister cause position
+chinese soon press idea studied stop art feet brother actor
+tried hit finished needed reached. force numbers, cup
+performed announced china space sound stories process win.
+surface retired center, cases director eat round far
+production rest, cities. computer, census church ten forces
+hand becomes, business court. return spanish front rather,
+hours stopped episode someone championship earth site
+research st. birth success robert fourth writer present
+ideas saw read needs meant here features dead. mean past
+road canada forms sports reason matches roman true prison
+ancient described happened met minutes board our science
+care tree date forced causes friend radio department summer
+education, poor heart pieces separate terms write awarded
+square scored turn stars quite cut street temperature
+western paris companies birds russian fact actress runs cm
+wide christian create husband san behind independent
+southern base reach addition thomas, train introduced.
+awards owned source. spent institute action disease dance
+ran storm act happens richard shot sister shape passed
+artist association contains. fast humans ship fish museum
+starts towards seasons ice africa turned whether studio
+further performance piece structure meters future machine
+producer remains speed effect copies room stations, episodes
+ones recent studies m units trees paid nature hot. appear
+defeated remained face debut mass americans african referred
+happen edition dutch competition code troops mountain
+produce student nine spread centre artists aircraft senate
+britain showed houses nominated brain effects, paper test
+cars host hair conditions queen canadian appears peter
+border upon standard coast function author, decision rich
+method score understand records buried northern. month news
+finds. reasons, sides specific star twice. prime tour
+supported seat reported ends die prince entire championships
+continue sure meet sun protect empire products entered
+arrondissement appearance. whose status. rate wants pressure
+interest increase composed section tries feature deep cost
+spain difference eastern towns super perform trade
+democratic heard distance asia smith chosen coach trains
+contract, faster course. russia picture brown fans ships
+committee methods pass scientists, tournament. media chief
+bottom. easier forest user weather edward estimated stone
+teacher drama. hurricane mind opera refers scientific
+captured mr. adopted separated arrested stadium purpose</text>
+  </lesson>
+  <lesson>
+   <id>{ce37e405-b9b5-4a41-8bcf-c9faf3b4b1d0}</id>
+   <title>Linker Umschalter</title>
+   <newCharacters>MTWHDFBSNP</newCharacters>
+   <text>Nen Nin Nrn Ncn Non Nqn Nan Nun Nön Nän Nen Nin Nrn Ncn Non
+Nqn Nan Nun Nön Nän Tet Tit Trt Tct Tot Tqt Tat Tut Töt Tät
+Tet Tit Trt Tct Tot Tqt Tat Tut Töt Tät Ses Sis Srs Scs Sos
+Sqs Sas Sus Sös Säs Ses Sis Srs Scs Sos Sqs Sas Sus Sös Säs
+Heh Hih Hrh Hch Hoh Hqh Hah Huh Höh Häh Heh Hih Hrh Hch Hoh
+Hqh Hah Huh Höh Häh Mem Mim Mrm Mcm Mom Mqm Mam Mum Möm Mäm
+Mem Mim Mrm Mcm Mom Mqm Mam Mum Möm Mäm Pep Pip Prp Pcp Pop
+Pqp Pap Pup Pöp Päp Pep Pip Prp Pcp Pop Pqp Pap Pup Pöp Päp
+Fef Fif Frf Fcf Fqf Faf Fuf Föf Fäf Fef Fif Frf Fcf Fqf Faf
+Fuf Föf Fäf Wew Wiw Wrw Wcw Wow Wqw Waw Wuw Wöw Wäw Wew Wiw
+Wrw Wcw Wow Wqw Waw Wuw Wöw Wäw Beb Bib Brb Bcb Bob Bqb Bab
+Bub Böb Bäb Beb Bib Brb Bcb Bob Bqb Bab Bub Böb Bäb Ded Did
+Drd Dcd Dod Dqd Dad Dud Död Däd Ded Did Drd Dcd Dod Dqd Dad
+The The The The He He He He This This This This She She She
+She There There There There His His His His When When When
+When These These These These New New New New Some Some Some
+Some September September September September States States
+States States For For For For March March March March
+December December December December British British British
+British But But But But Most Most Most Most Her Her Her Her
+South South South South North North North North From From
+From From French French French French Because Because
+Because Because State State State State President President
+President President Since Since Since Since War War War War
+France France France France Their Their Their Their That
+That That That House House House House Then Then Then Then
+To To To To So So So So With With With With West West West</text>
+  </lesson>
+  <lesson>
+   <id>{36b4f68c-875f-4c99-a2bf-59112dee1f3c}</id>
+   <title>Wir üben rechts GROẞ und klein im Wechsel</title>
+   <newCharacters />
+   <text>happen edition Dutch competition code troops mountain
+produce student nine spread centre artists aircraft Senate
+Britain championship showed houses nominated brain effects
+paper test cars host hair conditions appears Peter border
+upon standard coast function author decision rich method
+score understand records buried Northern Department awards
+month news finds reasons sides specific star twice Prime
+tour supported seat reported ends die Prince entire continue
+sure meet Three Not Sun protect products northern entered
+arrondissement appearance whose status rate wants pressure
+interest increase composed section tries feature deep cost
+Spain difference eastern towns Super perform trade
+Democratic heard distance Time Smith chosen coach trains
+contract faster course picture brown fans ships methods
+Second pass scientists tournament What media Between bottom
+easier forest user weather estimated stone teacher drama
+hurricane mind opera refers scientific captured Mr. adopted
+separated arrested Man stadium purpose painted heat economic
+winner treatment thousands issues featured Pacific Sea
+bodies camp construction deaths describe direction items
+earth me officer piano appointed serious renamed onto minor
+inhabitants increased wind connected critics hands issue
+basic museum pp. raised sense mountains winter consists
+fifth newspaper weapons us product escape Science Dr.
+ordered founder districts crime store scene powers musician
+metres Force compared crew earned era map required bands
+carried finish hundred matter rare sons stands starred unit
+accepted aired chief Now refused sources upper Despite
+accident doctor seats Saint secret thus whom wood identified
+actions champion chance hits staff street Supreme pair foot
+medicine occur operation post enemies practice route screen
+situation equipment defeat attention airport wear parties
+warm sounds hour brothers Tour Series reaction confirmed
+independence question roads teeth website condition Team</text>
+  </lesson>
+  <lesson>
+   <id>{98f591fd-a918-4759-aaa7-c88d26280b4f}</id>
+   <title>Kurze Trainingssätze</title>
+   <newCharacters />
+   <text>Brown and his men escaped.
+The effort did not succeed.
+BDD is a somatoform disorder.
+The near and far points are the apsides.
+Dad becomes obsessed with his new car.
+Their common names are boas or boids.
+She reunited with her father afterwards.
+His first wife was his niece.
+She was born with Spina bifida.
+The website is in Spanish.
+Butch Hartman, creator of the series.
+This is the nomination record.
+There is a chorus of terror.
+The pact had two parts.
+Most swans are white.
+Documents from current directors.
+That idea is hard to understand.
+British street fashion.
+But some are different.
+The ship was renamed twice.
+He is the former head priest.
+He was President pro tempore four times.
+Most acids can be found in nature.
+This shows how wide the head is.
+She christened the ship.
+Department of State.
+This is an error.
+Bihaan tries to stop her.
+Behind The Music.
+The head is broad with a wide mouth.
+She recorded often with her husband.
+Simmons had admitted to the murder.
+This branch owns the ship.
+The snout is narrow, with a pointed tip.
+The bipod can be used as a wire cutter.
+This episode features three stories.
+This is for two reasons.
+Deo has three brothers and one sister.
+She was shot, with the other prisoners.
+He was buried at Wimborne Minster.
+He put the shirt on.
+His parents are Mamu and Papu.
+This part has not been found.
+The British responded.
+He was the second born son.
+This is now a rare use of the word.
+The stadium inside.</text>
+  </lesson>
+  <lesson>
+   <id>{2c6c8dd8-f8b2-44a3-9ed5-e7be25a4ddcd}</id>
+   <title>Rechter Umschalter</title>
+   <newCharacters>EÄUROÖAQIC</newCharacters>
+   <text>Ene Ete Ese Ehe Eme Ewe Ebe Ede Epe Efe Ene Ete Ese Ehe Eme
+Ewe Ebe Ede Epe Efe Ini Iti Isi Ihi Imi Iwi Ibi Idi Ipi Ifi
+Ini Iti Isi Ihi Imi Iwi Ibi Idi Ipi Ifi Rnr Rtr Rsr Rhr Rmr
+Rwr Rbr Rdr Rpr Rfr Rnr Rtr Rsr Rhr Rmr Rwr Rbr Rdr Rpr Rfr
+Cnc Ctc Csc Chc Cmc Cwc Cbc Cdc Cpc Cfc Cnc Ctc Csc Chc Cmc
+Cwc Cbc Cdc Cpc Cfc Ono Oto Oso Oho Omo Owo Obo Odo Opo Ofo
+Ono Oto Oso Oho Omo Owo Obo Odo Opo Ofo Önö Ötö Ösö Öhö Ömö
+Öwö Öbö Ödö Öpö Öfö Önö Ötö Ösö Öhö Ömö Öwö Öbö Ödö Öpö Öfö
+Änä Ätä Äsä Ähä Ämä Äwä Äbä Ädä Äpä Äfä Änä Ätä Äsä Ähä Ämä
+Äwä Äbä Ädä Äpä Äfä Qnq Qtq Qsq Qhq Qmq Qwq Qbq Qdq Qpq Qfq
+Qnq Qtq Qsq Qhq Qmq Qwq Qbq Qdq Qpq Qfq Ana Ata Asa Aha Ama
+Awa Abe Ade Apa Afa Ana Ata Asa Aha Ama Awa Abe Ade Apa Afa
+Unu Utu Usu Uhu Umu Ubu Udu Upu Ufu Unu Utu Usu Uhu Umu Ubu
+It It It It In In In In American American American American
+On On On On After After After After United United United
+United At At At At As As As As October October October
+October If If If If One One One One An An An An Its Its Its
+Its America America America America India India India India
+Other Other Other Other Europe Europe Europe Europe European
+European European European Union Union Union Union East East
+East East Each Each Each Each Award Award Award Award Indian
+Indian Indian Indian Chinese Chinese Chinese Chinese Cup Cup
+Cup Cup China China China China Another Another Another
+Another Championship Championship Championship Championship
+Earth Earth Earth Earth Robert Robert Robert Robert Canada
+Canada Canada Canada Roman Roman Roman Roman Russian Russian
+Russian Russian About About About About Christian Christian</text>
+  </lesson>
+  <lesson>
+   <id>{2ecf2e67-4858-478d-84e6-190dcff2642d}</id>
+   <title>Wir üben links GROẞ und klein im Wechsel</title>
+   <newCharacters />
+   <text>Of bottom easier forest user weather Edward estimated stone
+teacher drama hurricane mind opera refers scientific
+captured adopted separated arrested stadium purpose painted
+heat economic winner treatment thousands issues featured
+bodies camp construction deaths describe direction items
+earth Records me officer piano appointed Asian serious
+renamed onto minor inhabitants increased Eastern wind
+connected critics hands issue basic museum pp. raised sense
+mountains winter consists fifth newspaper weapons Art us
+product escape ordered founder districts Instead crime store
+scene powers musician metres compared crew earned era map
+required bands Irish carried finish hundred matter rare sons
+stands starred unit accepted Constitution aired chief
+refused sources upper accident doctor seats secret thus whom
+wood Rome identified actions champion chance hits staff
+street pair foot medicine occur operation post enemies
+practice route screen situation equipment defeat attention
+airport wear parties warm sounds hour brothers reaction
+confirmed independence question roads teeth website
+condition attempt candidate remain search hurt answer Office
+Christmas broadcast cards choose content fit users Arts
+mouth cross decide access musicians port price share unique
+wins pictures composer focus mentioned stand stated apart
+centuries opposite speech Emperor path enter dropped depends
+churches cancer beat arms chart nation peace presented
+professor report retirement choice Airport notes editor bus
+percent refer safe sets tests treated tribe bird bit
+Austrian Education contact positions step stores add rain
+note protected represents branch send sport fired b
+instruments concept permanent combined represented represent
+seconds theatre tribes catch acted income therefore
+architecture acts horse chairman communities fiction
+audience occurs prisoners races affected officers forward
+honor motion depression promoted tradition turns meter</text>
+  </lesson>
+  <lesson>
+   <id>{9f467a7a-c2e9-4c84-b330-c89d0ff7e7b7}</id>
+   <title>Kurze Trainingssätze</title>
+   <newCharacters />
+   <text>He is often represented with a harp.
+He had a brother, named Robert Picard.
+It is in a campus of the Futuroscope.
+In most stories the hero has to succeed.
+Therefore he had an operation.
+One of the CIPM members must be French.
+The Seasons is different.
+It is written as h.
+His parents are Mamu and Papu.
+The warmest are at the Adriatic coast.
+The was another church there beforehand.
+He became a UEI board director.
+This branch owns the ship.
+She added her own notes to it.
+She was born with Spina bifida.
+It was required for it to function.
+He is married to Anna Squires.
+It means the hometown of education.
+Most acids can be found in nature.
+It is set across Canada.
+The immediate coast saw rain.
+The town is named after him.
+Burn their homes and churches.
+Music I can dance to.
+It can be made from different fruits.
+It has a bad odor.
+The first is addition.
+There are two main processes.
+Paint protects and beautifies the wood.
+Heat as a mode of motion.
+It had short time constraints.
+Bihaan tries to stop her.
+The date is uncertain.
+It was now eaten in the afternoon.
+This causes the birds to drown.
+Behind The Music.
+The stadium from the stands.
+Merced was a proof of concept.
+This is what this cat is named for.
+That stands for Master of Ceremonies.
+He is married to Christina Frost.
+The routine was a success.
+She became his northern queen.
+These were about his past.
+It has three different stories.
+Ira, the writer, was quiet and serious.
+Tribes on the tip of the Horn of Africa.</text>
+  </lesson>
+  <lesson>
+   <id>{9b0c550e-7dd5-409d-bb7d-f48e5ad112e0}</id>
+   <title>Unser Sicherheitstest</title>
+   <newCharacters />
+   <text>The He It In This She A There American His On When After
+These New Some United At As September States I October For
+March December If One British But Most Her South North An
+From French Its Because State President Since War America
+France Their India That Other House Europe Then European
+U.S. To Union So East Each Award Indian With West Minister
+Chinese Press II Sometimes US Cup China Another Both Best
+Spanish Championship Before Earth St. Robert Two Canada We
+First Roman Music BC No District Street Western Paris
+Russian About Christian And San Church Thomas Awards
+Institute Center Richard Court Association Museum Africa
+White More Red Americans African Dutch Senate Britain Air
+Queen Once Canadian Peter Northern Department Road Prime
+Prince Championships Three Not Sun Empire Act Research Spain
+Super Democratic Time Asia Smith Russia Committee Second
+What Chief Between Of Edward Mr. Man Pacific Sea Records
+The important part is what we do with this information.
+Tim runs into Dean.
+It did not win either award.
+This started a period of unrest.
+In the end the ones that are copied are a memetic success.
+It cuts traffic accident rates.
+This episode features three stories.
+There are two different forms.
+The snout is narrow, with a pointed tip.
+The effort did not succeed.
+It was a header.
+It has three bus routes.
+The epidermis has more than one function.
+It means the hometown of education.
+There are tubes underneath each bar.
+The website is in Spanish.
+She recorded often with her husband.
+Amma Mai and her son are arrested.
+It is here that oceanic trenches form.
+His name comes from the word herma.</text>
+  </lesson>
+  <lesson>
+   <id>{3abc2d35-0617-40e6-9168-63ac73912818}</id>
+   <title>Neue Buchstaben: l und g</title>
+   <newCharacters>lgLG</newCharacters>
+   <text>eae iui rlr rlr rlr iui rlr rlr eae rlr rlr rlr iui rlr rlr
+rlr eae nbn tdt sgs sgs sgs tdt sgs sgs nbn sgs sgs sgs tdt
+sgs sgs sgs nbn rlr rlh rls rlt rln rle rli rlr rlc sgs sgc
+sgr sgi sge sgn sgt sgs sgh rlr rlh rls rlt rln rle rli rlr
+rlc sgs sgc sgr sgi sge sgn sgt sgs sgh lrl lrn lrt lrs lrh
+lrf lrp gsg gse gsi gsr gsc gsä gsö lel lil lrl lcl lul läl
+lal löl lql lol gng gtg gsg ghg gdg gfg gbg gpg gwg gmg clr
+rlr ilr elr olr ulr älr alr qlr olr hgs sgs tgs ngs mgs dgs
+fgs bgs pgs wgs olr elr ilr clr mgs ngs tgs hgs rlr iui eae
+later later later long long long get get get group group
+group life life life game game game left left left last last
+last large large large good good good go go go games games
+games land land land got got got lot lot lot largest largest
+largest less less less line line line language language
+language groups groups groups great great great late late
+late lost lost lost light light light local local local
+little little little law law law list list list led led led
+longer longer longer general general general gets gets gets
+least least least going going going leader leader leader
+goes goes goes located located located ground ground ground</text>
+  </lesson>
+  <lesson>
+   <id>{1a672cf2-c2c7-4211-973c-0c41700d2241}</id>
+   <title>Wir üben l und g</title>
+   <newCharacters />
+   <text>later long get group, life, game. left last large good go
+games land got lot largest less line language. groups great
+late lost light local little law list. led longer, general
+gets least going leader goes located ground languages lead,
+length larger gold, grow. lower grew green learn low. lines
+goals league, laws getting goal legs letter let location
+girl letters lasted legal gas listed leading lots launched
+leaders greatest. learned growth generation growing limited
+gun graduated loss guitar label girls. grown guns longest.
+greater lose learning gained gods lang guide la liquid glass
+god literature lies launch lands gain giant gone genus,
+garden limit leg grows. lists goods, leads leadership
+granted lets losing latest global lowest landed lighter
+golden lifetime guest graduate grass legend, laid guitarist.
+gender guards. learns goddess girlfriend losses gene landing
+limits lights latter lasts lungs lessons guess graphics
+landscape logo. legislature labor, generations genetic
+locations, leagues genre. genes load loud gardens guard
+grounds. liberal loop grade graph, grand. lift gift gather
+leaf logic genera loses grandfather. gathered. gang. lasting
+linear labels license gate, genres guests listen lie loan
+geographical generate grouped, letting gentle. genetics
+gates geological gases lit libraries lawsuit grandson. golf</text>
+  </lesson>
+  <lesson>
+   <id>{176f20b7-f06f-42ee-ad2a-f76bf498c291}</id>
+   <title>Sicherheitstest für l und g</title>
+   <newCharacters />
+   <text>later. long. get. group. life. game. left, last, large, good
+go. games, land. got. lot. largest. less. line, language.
+groups. great. late, lost, light. local, little, law, list,
+led, longer, general, gets. least. going, leader. goes,
+located. ground. languages. lead, length, larger. gold. grow
+lower, grew, green. learn, low, lines, goals. league. laws.
+getting. goal. legs, letter. let. location, girl. letters,
+lasted. legal. gas. listed, leading. lots, launched, leaders
+Miller studied at San Francisco State College.
+The managing director is Peter Birtles.
+He wrestled on occasions.
+The House of Commons is the most powerful part.
+Face, gender and class can be chosen from a series of menus.
+Its capital is Pereira.
+The cities near the airport are Erding and Freising.
+Both of these can be accessed with special portals.
+There were no names retired from the northeast Pacific list.
+Dee Dee is interested in ballet.
+There was much hardship and suffering on this route.
+This causes the nuclear reaction to stop.
+So the discussions below are informal.
+She was married to Richard Gregson for a short time.
+Then, the British controlled Boston.
+A landscape means an area of land as one can see it.
+It holds most of the Death Eaters in prison.
+In some states, barbers color, highlight or bleach hair.
+No cause of death was released.
+It starred Hermann Litt as Luther.
+According to Starwars.</text>
+  </lesson>
+  <lesson>
+   <id>{a280a9fb-7d84-42dc-bdf5-7fcf60f3592b}</id>
+   <title>Die Buchstaben: x und ü </title>
+   <newCharacters>xüXÜ</newCharacters>
+   <text>iui ixi iui ixi iui ixi ixc ixr ixi ixe ixo ixu ixa ixq ixä
+ixö rlr rür rlr rür rlr rür rüc rür rüi rüe rüo rüu rüa rüq
+rüä rüö xhi xsi xti xni xmi xgi xdi xbi xwi x.i x,i xfi xpi
+ühr üsr ütr ünr ümr ügr üdr übr üwr ü.r ü,r üfr üpr uiu xix
+uiu xix uiu xix xci xri xii xei xoi xui xai xqi xäi xöi lrl
+ürü lrl ürü lrl ürü ücr ürr üir üer üor üur üar üqr üär üör
+iui ixi rlr rür iui ixi rlr rür iui ixi rlr rür uiu xix lrl
+ürü iui xix rlr ürü ixe rüc ixe rüc exi cür exi cür exi cür
+example next six except exist sex mixed Mexico sexual text
+complex box extra experience Oxford Texas expected sixth
+examples maximum extended exact Prix Alexander fixed exists
+existed Mexican experiment exchange Fox extreme tax
+existence explain Max x explained existing executed Six
+expanded extinct toxic mix experienced exposed mixture
+express explosion explains experiments taxes expert texts
+galaxies experiences exercise excellent external Express
+execution exhibition Orthodox Examples Next index
+explanation context exam expansion expressed expression fix
+sixteen experimental extension Phoenix boxes dioxide Wessex
+matrix Explorer experts mixing excited flexible exhibitions
+Nixon Alex expanding exposure exams exception exciting
+extent explored explore extends expand exceptions axis
+expedition exit Luxembourg boxing Experience Linux Complex
+extinction expectations exploration expect exile exhibit
+texture Exchange Alexandra Maximus explode exceptional
+examined textile relaxed homosexual flux exhibited expelled
+explaining explodes extensions taxonomic oxide Index Example</text>
+  </lesson>
+  <lesson>
+   <id>{36cb9a92-0684-4d51-957f-f085da5bacf2}</id>
+   <title>Wir üben x und ü</title>
+   <newCharacters />
+   <text>example. next. six. except, exist, sex. mixed, Mexico,
+sexual, text. complex, box, extra. experience. Oxford, Texas
+expected, sixth. examples. maximum. extended, exact. Prix,
+Alexander, fixed. exists, existed. Mexican. experiment.
+exchange. Fox, extreme. tax. existence. explain, Max. x.
+explained. existing, executed. Six. expanded. extinct. toxic
+mix. experienced. exposed, mixture, express, explosion,
+explains. experiments, taxes. expert, texts, galaxies.
+experiences. exercise, excellent, external. Express,
+execution, exhibition, Orthodox, Examples. Next, index.
+explanation. context. exam. expansion. expressed. expression
+fix, sixteen, experimental, extension. Phoenix. boxes.
+dioxide, Wessex. matrix, Explorer. experts, mixing, excited,
+flexible. exhibitions, Nixon. Alex. expanding, exposure.
+exams. exception, exciting. extent. explored. explore.
+extends. expand, exceptions, axis, expedition. exit,
+Luxembourg. boxing. Experience, Linux, Complex, extinction,
+expectations, exploration, expect. exile. exhibit. texture,
+Moments later, the antenna outpost explodes.
+The six abodes of Murugan are all in Tamil Nadu.
+He was born in Granger, Texas.
+McLuhan pointed to the light bulb as an example.
+One example of such information was named.
+No human is exempt from it.
+The dam explodes and a ton of water comes down.
+Leonese language is taught in sixteen schools.
+The Oxford exam tests writing and reading.
+Lois gets fired for teaching about safe sex.
+Below are some examples.
+Next, the numbers are counted, as shown.
+Sponges are capable of both asexual and sexual reproduction.
+It is now called the Mexican Optical.
+For example, water that is clean would be called pure water.
+Max alerts the nurse.</text>
+  </lesson>
+  <lesson>
+   <id>{fa7707a0-b133-43be-9cc8-eaf747329105}</id>
+   <title>Sicherheitstest für x und ü</title>
+   <newCharacters />
+   <text>Oxford Music Online.
+Lenin was not what Stalin had expected.
+That is the point of the exercise.
+Since her abdication, she is called Princess Beatrix.
+The bullet then exited the right upper chest.
+This would reduce the members of the group from six to four.
+Exile on Main St.
+Translation fixes for Hungarian and Chinese.
+Instead, prefixes are added to the beginning of words.
+The area shows classic examples of Swahili architecture.
+Homosexual sex between adults is not a crime.
+He did not expect Hannibal to cross the Alps.
+The next bridge upstream is the London Millennium Bridge.
+Communication with extraterrestrial intelligence.
+This is called fixed excitation.
+This oxidising number is quite unusual.
+It is also sometimes called the Quetelet index.
+Each Church excommunicated the other.
+It is also toxic because of barium ions.
+His name was Alexander.
+The Extended IPA is used to write down other sounds.</text>
+  </lesson>
+  <lesson>
+   <id>{da2a1310-da65-4f35-a1bb-2b9b03a73820}</id>
+   <title>Neue Buchstaben: v und k</title>
+   <newCharacters>vkVK</newCharacters>
+   <text>eäe ixi rür cvc cvc cvc rür cvc cvc cvc ixi cvc cvc cvc nfn
+t,t s.s hkh hkh hkh s.s hkh hkh hkh t,t hkh hkh hkh cvc rvr
+ivi eve ovo lvl uvu ava qvq övö ävä xvx üvü hkh sks tkt nkn
+mkm gkg dkd bkb wkw pkp fkf ,k, .k. cvc cvr cvi cve cvo cvu
+cva cvq cvü cvl cvx cvä cvö hkh hks hkt hkn hkm hkg hkd hkb
+hkw hk. hk, hkf hkp vcc vrc vic vec voc vöc väc vxc vüc vqc
+vac vuc vlc khh ksh kth knh kmh kph kfh k,h k.h kwh kbh kdh
+have have have known known known over over over make make
+make like like like movie movie movie work work work back
+back back several several several convert convert convert
+government government government lived lived lived live live
+live book book book even even even killed killed killed take
+take take given given given took took took living living
+living five five five makes makes makes worked worked worked</text>
+  </lesson>
+  <lesson>
+   <id>{a2c8fcd7-5ec8-4da0-9065-119c7e96f4da}</id>
+   <title>Wir üben v und k</title>
+   <newCharacters />
+   <text>have known over make like movie work However back several
+convert government November lived live book even killed take
+given took living five makes worked making television books
+moved never version move works received gave served level
+taken black River King give above movies think attack look
+river having king working however love know video takes
+event service various keep ever average themselves events
+village developed kind divided lives seven believed
+available believe movement Park leave development rock kill
+asked gives km David Soviet novel active Black kinds Kingdom
+services province discovered kept leaves vote park Even
+involved break dark weeks skin track taking covered travel
+Greek private moving levels Over reviews individual giving
+Like Division Government leaving positive talk Lake value
+voice view workers versions division Love evidence Korea
+removed provide speak rivers looks previous killing broke
+network Pakistan activities week looking environment Kansas
+unknown divorced attacked cover attacks lake serve knowledge</text>
+  </lesson>
+  <lesson>
+   <id>{623f0674-b2e3-4a6a-bcfc-4d3d74f4cc92}</id>
+   <title>Sicherheitstest für v und k</title>
+   <newCharacters />
+   <text>Mein Kampf also made Hitler popular.
+Fear not the vicious Iberians.
+His wife and children, Peter and Kellie, outlived him.
+As a personal interest, Akihito studies fish.
+He wants to divide his kingdom between his three daughters.
+The districts are divided into territories.
+The average annual rainfall is convert.
+Each state can also have a phase.
+He also wrote some scripts for movies.
+The Complete Guide to the Soviet Union.
+He is most famous for his emblem books.
+During the sixth hour, Saldivar agreed to give herself up.
+This is sometimes called a cocktail or AIDS cocktail.
+The prince does not know this.
+Takeshi Kitano is the director.
+Ten venues will be used for the tournament.
+Our star is an average star.
+The right to cast a vote that counts.
+Karuta is the most popular game.
+The CIA itself denies Barris ever worked for them.
+Linden is known for his role as Cpt.
+The plantation house was later known as Rolleston Hall.
+This slowed down arrival of the rescue troops.
+Common while working.
+It also has the most World Cup titles, with five.
+Both the stars are variables.
+People came from all over England to help build the castle.
+There are two basic steps in making soap.
+But after two weeks of negotiations, it was passed.
+Rainbow in the evening sun at The Remarkables.</text>
+  </lesson>
+  <lesson>
+   <id>{0dceb5c8-29e8-4bb5-83c1-9ac9b1809689}</id>
+   <title>Wir wiederholen</title>
+   <newCharacters />
+   <text>cäcrlriuieae hkhsgstdtnbn cäcrlriuieae hkhsgstdtnbn cäcrlri
+eäeixinfnt,t eäeixinfnt,t eäeixinfnt,t eäeixinfnt,t eäeixin
+that with from were also have this more used time been made
+Both Best Book Blue Bank Bill Bell Back Band Ball Bird Bull</text>
+  </lesson>
+  <lesson>
+   <id>{a167bd3c-e1fc-4f89-bed0-fd925e564f27}</id>
+   <title>Neue Buchstaben: j und y</title>
+   <newCharacters>jyJY</newCharacters>
+   <text>nhk njk nhk njk nhk njk nhk nhy nhk nhy nhk nhy nhk hkh hjh
+hyh hkh hjh hyh hkh hjh hyh kjy kjy kjy hkh hjh hyh yjk yjk
+yjk eoe hjh hjh hjh eoe hjh hjh hjh eoe hjm hjn hjt hjs hjh
+eqe hyh hyh hyh eqe hyh hyh hyh eqe hym hyn hyt hys hyh eoe
+hjh hjh hjh eoe hjh hjh hjh eoe hjf hj, hj. hjk eqe hyh hyh
+hyh eqe hyh yh hyh eqe hyf hy, hy. hyk mjm mjm tbj tbj öju
+öju pij pij sjä sjä bjd bjd mjf mjf äbj äbj cyh ryh iyh eyh
+oyh cye rye iye eye oye mjm mjm tbj tbj öju öju pij pij sjä
+sjä bjd bjd mjf mjf äbj äbj cyh ryh iyh eyh oyh cye rye iye
+by by by they they they many many many very very very years
+years years only only only may may may played played played
+city city city year year year usually usually usually way
+way way any any any family family family early early early
+century century century play play play day day day you you
+you body body body country country country just just just
+system system system player player player history history
+history away away away every every every story story story
+money money money company company company days days days
+young young young major major major type type type say say</text>
+  </lesson>
+  <lesson>
+   <id>{c96662bf-be7b-420b-9d90-a3fb5799ee10}</id>
+   <title>Wir üben j und y</title>
+   <newCharacters />
+   <text>by, they, They. many, very, years. only. may, played, city.
+year. usually. way. any, family. January. May. University,
+July, Many, early, century. play, day, February. you. June.
+body. country. just. system, player, history. away, every,
+story. money, John, company. days, Japan. young. York, major
+City, By. type, say. Japanese. playing, players. always,
+types. party. says. military. Germany. joined, style, mostly
+today. army, Party, energy, You. County, study, job,
+category, ways. plays. James. quickly. especially. Academy.
+History, currently. why, destroyed, try. Society. Army,
+originally. your, county. already, community, Henry. Royal,
+mainly, Today. generally. systems, theory, Company, really.
+probably. stay, nearly. eventually. commonly, trying,
+university, pay, Mary, actually. simply. ability. easily, My
+industry, eyes. project. key. dry. likely. anything, object.</text>
+  </lesson>
+  <lesson>
+   <id>{fa08ad83-c6ce-4463-b0e1-71f644ad6d6b}</id>
+   <title>Sicherheitstest für j und y</title>
+   <newCharacters />
+   <text>They are not trained in any special task.
+In its infancy, the PLO was not associated with violence.
+But they cannot live on their own.
+The story is not true.
+This made it easy and relatively inexpensive to make.
+They agreed to meet at a local park.
+The city has a subway system.
+Many of his works belong to private collections.
+Adding a thirteenth month in a year is called intercalation.
+One Piece is currently the most popular manga series.
+The animals that the predator hunts are called prey.
+They had a hard time in the cold winter weather.
+The artwork remains copyright protected.
+Boys loved the books.
+When made into jams and jellies the result is normally pink.
+The mayor, John Drury, was killed in this raid.
+The energy can be in any form.
+He remained in Belgium, where he had preached, to study art.
+The chart week runs starts on Sunday and goes to Saturday.
+They all gathered at the site and worshipped her.
+Vietnamese also uses one syllable as a word.
+In the center of this region is town of Doboj.
+But it is more closely related to the larger wood turtle.
+This is usually whatever is most popular at the moment.
+These became unitary authorities in all but name.
+He was not convicted of any hate crime.
+Doctors did not understand syphilis.
+Alfried Krupp was part of the Krupp family.
+This lasted for two years.
+In some species, the polyps can also reproduce sexually.</text>
+  </lesson>
+  <lesson>
+   <id>{4fb2c85d-101c-4303-8f63-0e7fe4cfda6b}</id>
+   <title>Neue Buchstaben: z und ß</title>
+   <newCharacters>zßZ</newCharacters>
+   <text>ccc vvv ccc zzz cvc czc vcv zcz ccc zzz ccc zzz hhh kkk hhh
+ßßß hkh hßh khk ßhß hhh ßßß hhh ßßß eae iui rlr czc czc czc
+czo cze czi czr czc czq cza czu czl czz czö czä czx czü czv
+nbn tdt sgs hßh hßh hßh hßm hßn hßt hßs hßh hhßw hßb hßd hßg
+hßß hßy hßp hßf hß, hß. hßk hßj zco zce zci zcr zcz zcq zca
+zcu zcl zcz zcö zcä zcx zcü zcv ßhm ßhn ßht ßhs ßhß ßhj ßhw
+ßhb ßhd ßhg ßhß ßhy ßhb ßhd ßhg ßhß ßhy ßhp ßhf ßh, ßh. ßh.k
+size size size organization organization organization
+magazine magazine magazine recognized recognized recognized
+Zealand Zealand Zealand Prize Prize Prize Elizabeth
+Elizabeth Elizabeth citizens citizens citizens organized
+organized organized sizes sizes sizes prize prize prize
+Switzerland Switzerland Switzerland Brazil Brazil Brazil
+zero zero zero jazz jazz jazz bronze bronze bronze
+organizations organizations organizations zone zone zone
+citizen citizen citizen Magazine Magazine Magazine
+criticized criticized criticized Czech Czech Czech Nazis
+Nazis Nazis Nazi Nazi Nazi magazines magazines magazines
+Azerbaijan Azerbaijan Azerbaijan recognize recognize
+recognize Brazilian Brazilian Brazilian realized realized
+realized realizes realizes realizes Salzburg Salzburg</text>
+  </lesson>
+  <lesson>
+   <id>{7c391ed6-9adf-4cdb-92fc-331473a9f451}</id>
+   <title>Wir üben z und ß</title>
+   <newCharacters />
+   <text>size, organization magazine recognized. Zealand Prize
+Elizabeth citizens organized sizes prize Switzerland Brazil,
+zero, jazz, bronze organizations zone citizen Magazine
+criticized Czech, Nazis Nazi magazines Azerbaijan recognize
+Brazilian realized realizes Salzburg Organization horizontal
+Arizona prizes, characterized Zh Zeus Zoo zoo specialized
+citizenship Organizations dozen Cruz Zone realize Crazy.
+civilization zinc Mozart Frieza Leipzig Bronze freezing
+zones puzzle Jazz crazy organize, Heinz Venezuela Zack
+Tarzan. Belize Zamasu Zero freeze lizards. dozens.
+organizing Gazette Eliza Amazon amazing, horizon
+horizontally authorized. lizard Fritz Aztec Lopez Zhang
+Plaza, Pulitzer size, organization magazine recognized
+Zealand Prize, Elizabeth citizens organized sizes prize,
+Japan beat Brazil in their first game.
+Barry, John M. The Great Influenza.
+His telescope was vandalized by PKK.
+Her daughter Azucena vowed revenge.
+Gurnemanz is now very old.
+It is the capital of Capiz province.</text>
+  </lesson>
+  <lesson>
+   <id>{1ccaa29b-0a2e-445c-9e60-0bbca318ae67}</id>
+   <title>Sicherheitstest für z und ß</title>
+   <newCharacters />
+   <text>The Zapper does not actually plug into the Wii Remote.
+Each city is analyzed by an evaluation group.
+Crumb founded an animal organization for rescued animals.
+Bablu is a lawyer and president of Muktagachha Upazila BNP.
+The statue was made by Ventura Rodriguez.
+The goal helped his team win bronze.
+Dave McCullough of Sounds magazine praised the album.
+Other members are Cheeze, Flip, and Lil Durk.
+Zubkov was born in Sverdlovsk Oblast.
+Also won Bledisloe Cup with New Zealand.
+It is named after Charles Adolphe Wurtz.
+The music was composed by Edouard Deldevez.
+Each team played for a shared prize of the same amount.
+Fritz Schiesser and Philipp Rühlig played the percussion.
+Exempt Organization Select Check.
+This game is played for prizes usually.
+Switzer finished the race.
+The size adult animals reach varies among subspecies.
+He asked Queen Elizabeth for help.
+The second, is Mansoor Zakaria.
+He graduated from the University of Zürich.
+Melville is about convert in size.
+A Brazilian company called Birdo made the mascots.
+Earlier they were worn by rich zamindars of India.
+They claim to be descendants of the Zhangzhung.
+Ine reorganized Wessex and established a system of shires.
+They wrap their body round the prey and squeeze.</text>
+  </lesson>
+  <lesson>
+   <id>{4c81c3c1-d0a9-4f1a-a86a-bae5b07ced97}</id>
+   <title>Rechtschreibklippen und häufige Rechtschreibfehler</title>
+   <newCharacters />
+   <text>gar gären, die Gebärde, malen Gemälde, hämisch, Haar
+Härchen, zäh Zähheit, laden lädt, klar klären, Märchen, Kran
+Kräne, Name nämlich, Paar Pärchen, säen Sämann, Dänen,
+ähnliches allmähliche, Draht Drähte, fahren Fähre, Fähnchen,
+gähnen, gewahr gewähren Gewähr, Naht Nähte, sah, sähen,
+spähen spähte spähten, stehlen stahl, Stahl Stähle stählern,
+Kapitän, Sekretäre, Atmosphäre, Trainer Training, Gäste
+Geste, Ähre Ehre. aggressiv, Akustik, Armaturenbrett,
+asozial, Attrappe, autorisiert, Autorisierung, Billard,
+bisschen, Biskuit, bombardieren, brillant, Cappuccino,
+detailliert, dilettantisch, Diphtherie, Eigenbrötler,
+Entgelt, endgültig, erfahrenste, Ekstase, frönen,
+Galionsfigur, Gebaren, gesät, gotisch, Gratwanderung, Grieß,
+grölen, hältst, Inbusschlüssel, Ingredienzien, Lappalie,
+Liliputaner, lizenzieren, Lizenzierung, manieriert, niesen,
+Obolus, original, Pavillon, piken, piksen, projizieren,
+Prophezeiung, Reling, Religiosität, Reparatur, Ressource,
+Rückgrat, Rhythmus, selig, separat, Seriosität, skurril, so
+was, Standard, Stegreif, subsumieren, Silvester, Terabyte,
+todlangweilig, todschick, unterstützt, unterstützen,
+Verlies, Verwandtschaft, voraus, Wermutstropfen,
+widerspiegeln</text>
+  </lesson>
+  <lesson>
+   <id>{d3ebc01a-9914-4085-b995-acef181c2937}</id>
+   <title>English test—1000 frequently used words</title>
+   <newCharacters />
+   <text>sister gun total company oxygen similar deal radio plural
+death determine various score evening is not then action
+agreed forward nor capital opposite stretched rope factories
+wrong experience cotton settled chart rose apple yellow
+prepared allow details pretty fear entire southern solution
+workers corn truck fresh Washington substances fair shop
+Greek smell printed suffix women tools would not especially
+bought conditions ahead shoes led cows chance actually march
+track born nose northern arrived level afraid create located
+triangle dead British sir molecules sugar difficult seat
+France adjective match division repeated fig win effect
+column office does not underline the or will number of one
+up no and had other way a by about could to word out people
+in but many my than you what them first that all these water
+it were so been he we some call was when her who for your on
+can make its are said like now as there him find with use
+into long his an time down they each has look did at she two
+get be do more come his how write made have their go may
+from if see part set over say try put new great kind end
+sound where hand does western huge steel view church day I
+which take help picture another only through again well
+little much change large work before off must know line play
+big place right spell even year too air such live mean away
+because man three America me old animal turn back any house
+here give same point why most tell page ask move think small
+world very boy letter went after follow mother men thing
+came answer read our want found need would oil just show
+study land name also still different good around learn home
+sentence form should us high saw important miss every left
+until idea near children enough add few side eat food while
+feet face between along car watch own might mile far below
+close night Indian country something walk really plant seem
+white almost last next sea let school hard began above
+father open grow girl keep example took sometimes tree begin
+river mountain never life four cut start always carry young
+city those state talk earth both once soon eye paper book
+list light together hear song fact base thought got stop
+being head group without leave under often second family
+story run later done decided plane filled English contain
+system heat road course behind full halt surface ran hot ten
+produce round check fly building boat object gave ocean game
+am box class force rule equation finally note brought among
+wait nothing understand noun street stood government built
+yet include correct rest warm power oh carefully common
+cannot quickly scientists bring able person inside explain
+six became wheels dry size shown stay though dark minutes
+green language ball strong known shape material verb island
+deep special stars week thousands heavy front less yes fine
+feel machine clear pair picked beside legs simple gone
+matter sat cells sky square main paint glass syllables
+winter mind million perhaps wide love west bill written
+cause lay felt length rain weather suddenly reason exercise
+root test kept eggs instruments direction interest train
+meet center arms circle inches ago blue third farmers
+brother wish months ready race drop paragraph anything
+present developed raised divided beautiful window represent
+general store difference soft energy job members happy
+everything distance whether subject edge heart clothes
+Europe past sit flowers moon sign sum shall region record
+summer teacher return finished wall held believe discovered
+forest describe dance wild probably drive already hair
+rolled cross instead age bear speak phrase amount wonder
+solve soil scale smiled appear bed pounds angle metal copy
+although fraction son free per Africa either hope broken
+killed dictionary sail ice spring moment melody sleep case
+tiny bottom village laughed possible trip factors nation
+gold hole result quite milk poor jumped type quiet let us
+snow themselves natural fight ride temperature lot surprise
+care bright stone French floor lead act died fingers tall
+hill everyone build beat pushed method middle exactly baby
+section speed remain buy lake count dress century consonant
+cat iron outside within someone could president caught row
+yourself brown fell least control trouble team catch
+practice cool God climbed report cloud captain wrote
+straight lost direct shouted rise sent ring continued
+statement symbols serve itself stick wear child else party
+bad desert plains seeds save increase gas suppose experiment
+history England woman engine cost burning coast alone maybe
+design bank Germany drawing business joined period east
+separate foot wire pay break law choose single uncle ears
+clean touch hunting grass visit information flow you are bit
+express lady grew whose mouth students skin received yard
+human valley garden equal art cents please guess thick major
+supply silent blood observe corner trade lie tube electric
+rather spot necessary insects compare bell weight crops
+crowd fun meat tone poem loud lifted hit enjoy consider
+process sand elements suggested army doctor indicate thin
+hat provide except position property thus expect entered
+flat fruit swim cook seven tied terms bones interesting rich
+current tail sense dollars park particular board string send
+sell modern blow sight shoulder compound famous chief
+industry mine value Japanese wash was not wings stream block
+fit movement planets spread addition pole rhythm cattle
+belong exciting eight wife safe branches science sharp
+soldiers heard reached map upon decimal feeling key strange
+body order listen farm music red wind pulled color door rock
+draw stand sure space voice sun become covered seen question
+top fast cold fish ship several cried area across hold plan
+mark today himself notice dog during toward south horse
+short five sing birds better step war problem best morning
+ground complete however passed fall room low vowel king knew
+hours true town since black hundred will ever products
+against unit piece happened pattern figure told whole
+numeral certain usually measure table field did not remember
+north travel friends early slowly wood easy waves money fire</text>
+  </lesson>
+  <lesson>
+   <id>{df8831d5-64a4-4fbf-81e7-955c59e36dae}</id>
+   <title>Deutsche Wörter – 1000 häufigst benutzte Wörter</title>
+   <newCharacters />
+   <text>der die und in den von zu das mit sich des auf für ist im
+dem nicht ein eine als auch es an werden aus er hat dass sie
+nach wird bei einer um am sind noch wie einem über einen so
+zum war haben nur oder aber vor zur bis mehr durch man sein
+wurde sei in Prozent hatte kann gegen vom können schon wenn
+habe seine Euro ihre dann unter wir soll ich eines es Jahr
+zwei Jahren diese wieder keine Uhr seiner worden und will
+zwischen immer Millionen ein was sagte er gibt alle diesem
+seit muss wurden beim doch jetzt waren drei Jahre mit neue
+neuen damit bereits da auch ihr seinen müssen ab ihrer nach
+ohne sondern selbst ersten nun etwa bei heute ihren weil ihm
+seien Menschen Deutschland anderen werde ich sagt wir eine
+rund für aber ihn Ende jedoch Zeit sollen ins wenn so seinem
+uns Stadt geht doch sehr hier ganz erst wollen Berlin vor
+allem sowie hatten kein deutschen machen lassen als
+Unternehmen andere ob dieses steht dabei wegen weiter denn
+beiden einmal etwas wie nichts allerdings vier gut viele wo
+viel dort alles wäre kommt vergangenen denen fast fünf
+könnte nicht nur hätten Frau am dafür kommen diesen letzten
+zwar diese großen dazu von Mann da sollte würde also bisher
+Leben Milliarden Welt Regierung konnte ihrem Frauen während
+Land zehn würden stehen ja USA heißt dies zurück Kinder
+dessen ihnen deren sogar Frage gewesen erste gab liegt gar
+davon gestern geben Teil Polizei dass hätte eigenen kaum
+sieht große denn weitere was sehen macht Angaben weniger
+gerade lässt Geld München deutsche allen darauf wohl später
+könne deshalb aller kam Arbeit mich gegenüber nächsten
+bleibt wenig lange gemacht wer dies Fall mir gehen Berliner
+mal Weg wollte sechs keinen Woche dagegen alten möglich gilt
+erklärte müsse dabei könnten Geschichte zusammen finden Tag
+Art erhalten man Dollar Wochen jeder nie bleiben besonders
+Deutschen den zu zunächst derzeit allein deutlich
+Entwicklung weiß einige sollten Präsident geworden statt
+Bonn Platz inzwischen nur Freitag um pro seines damit Montag
+Europa schließlich Sonntag einfach gehört eher oft Zahl
+neben hält weit Partei meisten Thema zeigt Politik aus
+zweiten Januar insgesamt je musste Anfang hinter ebenfalls
+ging Mitarbeiter darüber vielen Ziel darf Seite fest hin
+erklärt Namen Haus an Frankfurt Gesellschaft Mittwoch damals
+Dienstag Hilfe Mai Markt seit Tage Donnerstag halten gleich
+nehmen solche Entscheidung besser alte Leute Ergebnis
+Samstag sagen System März tun Monaten kleinen lang nicht
+knapp bringen wissen Kosten Erfolg bekannt findet daran
+künftig acht schnell Grund scheint Zukunft Stuttgart bin
+liegen politischen Gruppe Rolle stellt Juni sieben September
+nämlich Männer Oktober überhaupt eigene dann gegeben
+außerdem Stunden eigentlich Meter ließ Probleme vielleicht
+ebenso Bereich zum Beispiel Höhe Familie während Bild
+Ländern Informationen Frankreich Tagen schwer zuvor vor
+genau April stellen neu erwartet Hamburg sicher führen Mal
+über mehrere Wirtschaft Programm offenbar hier weiteren
+natürlich konnten stark Dezember Juli ganze kommenden Kunden
+bekommen eben kleine trotz wirklich Lage Länder leicht
+gekommen Spiel laut November kurz politische führt innerhalb
+unsere meint immer wieder Form anders ihres völlig
+beispielsweise gute bislang August Hand jede GmbH Film
+Minuten erreicht beide Musik Kritik Mitte Verfügung Buch
+dürfen unter jeweils einigen zum Umsatz spielen Daten welche
+müssten hieß paar nachdem Kunst gebracht Problem noch jeden
+Sprecher recht erneut längst europäischen sein Eltern Beginn
+besteht mindestens machte jetzt bietet außerdem Bürger
+Trainer bald Deutsche schon Fragen klar durch gehören dort
+erstmals Februar zeigen Titel Stück größten setzt Wert Staat
+möchte daher wolle Bundesregierung lediglich Nacht Krieg
+Opfer Tod nimmt Firma zuletzt Werk hohen leben unter anderem
+dieser Kirche weiterhin gestellt Mitglieder Rahmen zweite
+Paris Situation gefunden Wochenende internationalen Wasser
+Recht sonst Möglichkeit versucht blieb junge Mehrheit Straße
+Sache arbeiten Seiten gebe stand Hälfte Monate Mutter
+berichtet letzte Gericht wollten zwölf zumindest Wahl genug
+Weise Vater Bericht amerikanischen hoch beginnt Wort obwohl
+Kopf spielt Interesse Westen verloren Preis erst jedem
+erreichen setzen spricht früher teilte Landes zudem
+einzelnen bereit Blick Druck Bayern Kilometer gemeinsam
+Bedeutung Chance Politiker dazu besten Ansicht endlich
+Stelle direkt beim Bevölkerung viele solchen alle solle
+jungen Einsatz richtig größte sofort neuer ehemaligen
+unserer dürfte schaffen Augen Russland Internet allerdings
+Raum Mannschaft neun kamen Ausstellung Zeiten einzige meine
+nun Verfahren Angebot Richtung Projekt niemand Kampf weder
+tatsächlich Personen heute geführt Gespräch Kreis Hamburger
+Schule guten Hauptstadt durchaus Zusammenarbeit darin Amt
+Schritt meist groß zufolge Sprache Region Punkte Vergleich
+genommen gleichen du ob Soldaten Universität verschiedenen
+Kollegen neues Bürgermeister Angst Unterstützung stellte
+Sommer danach anderer gesagt Sicherheit Macht Bau handelt
+Folge Bilder lag Osten Handel sprach Aufgabe Chef frei
+dennoch hohe Firmen Koalition Mädchen zur entwickelt fand
+Diskussion bringt deshalb Hause Gefahr per zugleich früheren
+dadurch ganzen Abende erzählt Streit Vergangenheit Parteien
+Verhandlungen jedenfalls gesehen französischen Trotz
+darunter Spieler forderte Meinung wenigen Publikum sowohl
+meinte mag Auto Lösung Boden hinaus war verletzt weltweit
+Sohn bevor mussten keiner Produktion Ort braucht
+Zusammenhang Kind Verein sprechen gleichzeitig London
+sogenannten Richter geplant Italien Mittel her freilich
+Mensch großer wenige öffentlichen dritten nahm
+Bundesrepublik Arbeitsplätze bedeutet Feld Bank oben Aktien
+Präsident gesetzt Ausland Ministerpräsident Vertreter jedes
+ziehen Parlament berichtete dieses China aufgrund Stellen
+warum Kindern heraus heutigen Anteil Herr Öffentlichkeit
+Abend selbst Liebe neben rechnen fällt New York Industrie
+wären Vorjahr Sicht Idee Banken verlassen Leiter Bühne
+insbesondere offen stets Theater ändern entschieden Staaten
+Experten Gesetz Geschäft Tochter angesichts gelten mehr
+erwarten läuft fordert Japan Sieg ist Stimmen wählen
+russischen gewinnen bieten Nähe jährlich Bremen Schüler Rede
+Funktion Zuschauer hingegen anderes Führung Besucher Drittel
+Moskau immerhin Vorsitzende Urteil schließlich Kultur
+betonte mittlerweile Saison Konzept suchen Zahlen Roman
+Gewalt Position alt Luft Studenten Köln gesamte indem Stunde
+ehemalige Auftrag entscheiden genannt tragen Börse langen
+häufig Chancen übernehmen stärker ohnehin zeigte geplanten
+Reihe darum verhindern begann Medien verkauft Minister
+wichtig amerikanische sah gesamten einst verwendet vorbei
+Behörden helfen Folgen bezeichnet</text>
+  </lesson>
+  <lesson>
+   <id>{dc0ed229-c83a-463c-bf19-aa3f367d24a9}</id>
+   <title>Die Ziffern</title>
+   <newCharacters>1234567890-°§ℓ»«$€„“”</newCharacters>
+   <text>Die gewohnten Tasten über dem Buchstabenfeld sind auch
+unter dem Tastaturlayout Neo die Ziffern.
+111 Kleiner Finger 111 u1 x1 u1 ü1 u 1 x1x x1x 111
+222 Kleiner Finger 222 u2 x2 u2 ü2 u2 x2x x2x 222
+333 Ringfinger 333 i3 v3 i3 ö3 i3 v3v v3v 333
+444 Mittelfinger 444 a4 l4 a4 ä4 a4 l4l l4l 444
+555 Zeigefinger 555 e5 c5 e5 p5 e5 c5c c5c 555
+666 Zeigefinger 666 o6 w6 o6 z6 o6 w6w w6w 666
+777 Zeigefinger 777 s7 k7 s7 b7 s7 k7k k7k 777
+888 Zeigefinger 888 n8 h8 n8 m8 n8 h8h h8h 888
+999 Mittelfinger 999 r9 g9 r9 ,9 r9 g9g g9g 999
+000 Ringfinger 000 t0 f0 t0 .0 t0 f0f f0f 000
+--- Kleiner Finger --- d- q- d- j- d- q-q q-q ---
+Mit der Hochstelltaste ändert sich bereits die gewohnte
+Belegung. Probiere es aus.
+1° 2§ 3ℓ 4» 5« 6$ 7€ 8„ 9“ 0” -- nocheinmal 1° 2§ 3ℓ 4» 5«
+6$ 7€ 8„ 9“ 0” --
+Die Ziffern können auch mittels der M4-Taste dargestellt
+werden, die Taste links vom ü drücken und die gewünschte
+andere Taste
+m m1m 111 1m1 111 m m1m 111 1m1 111
+, ,2, 222 2,2 222 , ,2, 222 2,2 222
+. .3. 333 3.3 333 . .3. 333 3.3 333
+n n4n 444 4n4 444 n n4n 444 4n4 444
+r r5r 555 5r5 555 r r5r 555 5r5 555
+t t6t 666 6t6 666 t t6t 666 6t6 666
+h h7h 777 7h7 777 h h7h 777 7h7 777
+g g8g 888 8g8 888 g g8g 888 8g8 888
+f f9f 999 9f9 999 f f9f 999 9f9 999
+Null bleibt 000</text>
+  </lesson>
+  <lesson>
+   <id>{b13d0c75-74c4-48d5-96a0-ad7f2bcd7514}</id>
+   <title>Die Sonderzeichen</title>
+   <newCharacters>!&lt;&gt;=&amp;?()@:+%"';^[]_…*{}/\`~|#</newCharacters>
+   <text>Mittels der M3-Taste, die über der Hochstelltaste, können
+verschiedene Sonderzeichen erzeugt werden.
+k ! k!k !!! k ! k!k !!! h &lt; h&lt;h &lt;&lt;&lt; h &lt; h&lt;h &lt;&lt;&lt;
+g &gt; g&gt;g &gt;&gt;&gt; g &gt; g&gt;g &gt;&gt;&gt; f = f=f === f = f=f ===
+q &amp; &amp;q&amp; &amp;&amp;&amp; q &amp; &amp;q&amp; &amp;&amp;&amp; s ? s?s ??? s ? s?s ???
+n ( n(n ((( n ( n(n ((( r ) r)r ))) r ) r)r )))
+t - t-t --- t - t-t --- d : d:d ::: d : d:d :::
+y @ y@y @@@ y @ y@y @@@ b + +b+ +++ b + +b+ +++
+m % %m% %%% m % %m% %%% , " "," """ , " "," """
+. ' .'. ''' . ' .'. ''' j ; ;j; ;;; j ; ;j; ;;;
+Mittels der M3-Taste, die rechts vom y, können verschiedene
+Sonderzeichen erzeugt werden.
+w ^ ^w^ ^^^ w ^ ^w^ ^^^ c ] ]c] ]]] c ] ]c] ]]]
+l [ [l[ [[[ l [ [l[ [[[ v _ _v_ ___ v _ _v_ ___
+x … …x… ……… x … …x… ……… o * *o* *** o * *o* ***
+e } }e} }}} e } }e} }}} a { {a{ {{{ a { {a{ {{{
+i / /i/ /// i / /i/ /// u \ \u\ \\\ u \ \u\ \\\
+z ` `z` ``` z ` `z` ``` p ~ ~p~ ~~~ p ~ ~p~ ~~~
+ä | |ä| ||| ä | |ä| ||| ö $ $ö$ $$$ ö $ $ö$ $$$
+ü # #ü# ### ü # #ü# ###</text>
+  </lesson>
+  <lesson>
+   <id>{9c815841-124d-46bc-96df-6d20cc347aeb}</id>
+   <title>Wir üben ein paar Sonderzeichen</title>
+   <newCharacters />
+   <text>Das darfst du nicht! Hilfe! Betreten verboten! Polizei!
+Halt! Dieb! Schließen Sie nach dem Unterricht die Fenster!
+Wo wohnen Sie? Gehst du in die Mensa? Du kommst heute?
+Universität oder Fachhochschule? Wer? Der! Was? Das! Wann?
+Dann! Wohin? Dahin! Warum? Darum! Wo? Da! Wer? Der! Was?
+Das! Wann? Dann! Wohin? Dahin! Warum? Darum! Wo? Da!
+name@email.de, jemand@web.de, einer@gmx.de,
+irgendwer@gmail.com, Max &amp; Sohn, C&amp;A, H&amp;M, GmbH &amp; Co Joachim
+(Vater), Klara (Mutter), Tobias (Sohn), Stefanie (Tochter),
+Walter (Opa), Heidi (Oma).</text>
+  </lesson>
+  <lesson>
+   <id>{d9124c21-ab63-4772-8bc6-4a03d11ac237}</id>
+   <title>Typografie und neue Zeichen</title>
+   <newCharacters>‚‘’–ẞſ</newCharacters>
+   <text>Man beachte die Setzung von Leerzeichen beim Schrägstrich/
+Slash, bei Klammern (wie hier) und bei anderen Satzzeichen.
+Neo bietet die echten deutschen Anführungszeichen auf der
+zweiten Ebene der Zahlen 8 und 9. Zitat: „In dubio pro Neo.“
+Auf der dritten Ebene sind die ‚einfachen‘
+Anführungszeichen, auf der 9 und 0 die “englischen” und die
+entsprechenden ‘einfachen englischen’.
+Auf der dritten Ebene der 0 ist der echte Apostroph, den man
+für Felix’ Katze braucht. Er ist aber sonst ’n seltenes
+Zeichen, ohne geht’s meistens auch.
+Für Programmierung verwendet man immer die "normalen" oder
+die 'einfachen' Ersatzzeichen.
+Auf dem X gibt es die Auslassungspunkte … Davor und danach
+muss ein Leerzeichen stehen. Außer, wenn man mitten im Wort
+abbric…
+Auf dem T gibt’s den Binde-Strich. Aber besser Bindestrich.
+Beim Komma den Gedankenstrich – man beachte den Unterschied
+in der Breite.
+Dieser ist auch ein Gegen-Strich – etwa bei „Schalke –
+Frankfurt“ (mit Leerzeichen) – sowie ein Bis-Strich – wie
+bei „14–16 Uhr“ (ohne Leerzeichen).
+Da „und“ ein eigenständiges Wort ist, setzt man bei „Müller
+&amp; Söhne“ Leerzeichen. Dies gilt auch z. B. bei „i. d. R.“
+u. a.
+Neo bietet das große Eszett: ẞ.
+Und ſchließlich iſt es mit Neo möglich, das lange s zu
+tippen.</text>
+  </lesson>
+  <lesson>
+   <id>{128871f7-c1c6-4591-905f-d677abf93586}</id>
+   <title>Abkürzungen</title>
+   <newCharacters />
+   <text>Wird eine Abkürzung abgekürzt ausgesprochen, so wird sie
+grundsätzlich ohne Punkt und stets ohne Leerzeichen
+geschrieben.
+Beispiele: ARD, GmbH, KPMG, StGB, StVO, UdSSR, UNHCR
+Maßeinheiten werden als Wort gesprochen, aber dennoch ohne
+Punkt abgekürzt. Beispiel: 10 m (gesprochen „10 Meter“)
+Abkürzungen, die nicht abgekürzt ausgesprochen werden,
+werden grundsätzlich mit Punkten abgekürzt.
+Wenn die Abkürzung mehrteilig ist, stehen Leerzeichen
+zwischen den Bestandteilen. Beispiele: Dr., z. B., d. h.,
+i. d. R., ges. gesch.
+Eine Ausnahme stellt das verbreitete „usw.“ dar, das sich
+anstelle des eigentlich korrekten „u. s. w.“ als Abkürzung
+für „und so weiter“ durchgesetzt hat,
+ebenso wie die lateinische Variante „etc.“ bzw. „&amp;c.“ für
+„et cetera“.
+Weitere Ausnahmen bilden „svw.“ für „so viel wie“.
+Die Abkürzungsweise mit Punkten, aber ohne Leerzeichen, ist
+seit Langem veraltet. Einige Beispiele:
+ABS  Anti-Blockier-System (Sicherheitssystem für Bremsen)
+ADAC Allgemeiner Deutscher Automobil Club
+AEG  Aus Erfahrung gut – Allgemeine
+     Elektrizitäts-Gesellschaft (Haushaltsgerätefirma)
+AKW  Atomkraftwerk
+BKA  Bundeskriminalamt
+BMW  Bayerische Motorenwerke
+BMX  Bicycle Motocross
+BPM  Beats Per Minute (Einheit für Liedgeschwindigkeit)
+BRD  Bundesrepublik Deutschland
+BSE  Bovine Spongiforme Encephalopathie (Rinderwahnsinn)
+BWL  Betriebswirtschaftslehre
+DDR  Deutsche Demokratische Republik
+DFB  Deutscher Fußballbund
+DLRG Deutsche Lebens-Rettungs-Gesellschaft
+DPA  Deutsche Presseagentur
+DPD  Deutscher Paketdienst
+DRK  Deutsches Rotes Kreuz
+DVD  Digitale Video Disc
+EDV  Elektronische Datenverarbeitung
+EKG  Elektrokardiogramm
+EKZ  Einkaufszentrum
+FCKW Fluor-Chlor-Kohlenwasserstoff (Treibgas)
+FDH  Friss die Hälfte
+FKK  Freikörperkultur
+GbR  Gesellschaft bürgerlichen Rechts (Rechtsform)
+GmbH Gesellschaft mit beschränkter Haftung (Rechtsform)
+HIV  Human Immunodeficiency Virus (AIDS)
+HNO  Hals-Nasen-Ohren
+IBM  International Business Machines (Computerfirma)
+ICE  Intercity Express (Zug der Deutschen Bahn AG)
+IHK  Industrie- und Handelskammer
+IRA  Irisch Republikanische Armee
+KKK  Ku Klux Klan (rechtsradikale amerikanische
+     Organisation)
+KMH  Kilometer Pro Stunde (Maßeinheit für Geschwindigkeit)
+LSD  Lysergsäurediethylamid (halluzinogene Droge)
+MfG  Mit freundlichen Grüßen
+NDW  Neue Deutsche Welle (Poptrend der 80er)
+NTV  Nachrichten Television
+PLZ  Postleitzahl
+PVC  Polyvinyl-Chlorid (Kunststoff)
+RAF  Rote Armee Fraktion (linksradikale deutsche
+     Terrorvereinigung aus den 70ern)
+SOS  Morsenotruf ... --- ... (Eselsbrücke: „Save Our Souls“)
+THW  Technisches Hilfswerk
+TNT  Trinitrotoluol (Sprengstoff)
+TÜV  Technischer Überwachungsverein
+UKW  Ultrakurzwelle
+UPS  United Parcel Service (Paketdienst)
+USW  Und so weiter …
+WWW  World Wide Web</text>
+  </lesson>
+  <lesson>
+   <id>{060d839b-c3b3-4b7c-ba8e-08448fb8df80}</id>
+   <title>Glückwunsch</title>
+   <newCharacters />
+   <text>Herzlichen Glückwunsch zum Erlernen des Neo-Tastaturlayouts.
+Ich hoffe, die Lektionen haben trotz der Mühe ein wenig Spaß
+gemacht.
+Natürlich muss jetzt noch viel geübt werden. Die bisher
+erlernten Schriftzeichen müssen gefestigt werden, dazu fol-
+gen noch ein paar Testtexte.
+Wie Sie schon bemerkt haben, besitzt Neo eine große Anzahl
+von Sonderzeichen, die Sie mit Hilfe der M4-Taste, auch
+zusammen mit der Hochstelltaste erreichen können. Des Wei-
+teren finden Sie auf der Akzent-, der Zirkumflex- und der
+Tilde-Taste sogenannte tote Tasten, die, vor einer Taste
+gedrückt, diese modifizieren. Außerdem gibt es für jede
+Taste eine Alternativ-Belegung, mit griechischen Zeichen
+oder anderen häufig gebräuchlichen.
+Den Umgang mit den Sonderzeichen übt man auch besser außer-
+halb dieses Programms. Üben Sie damit!
+Spielen Sie damit ein wenig. Werden Sie schneller als je
+zuvor. Viel Spaß!</text>
+  </lesson>
+  <lesson>
+   <id>{4a15ce07-7b9e-470c-8b78-d70ce53bde37}</id>
+   <title>Testtext „Esperanto“</title>
+   <newCharacters />
+   <text>Esperanto ist sowohl die einfachste als auch die ausdrucks-
+stärkste Sprache der Welt, die Basis einer blühenden inter-
+nationalen Kultur.
+Esperanto-Sprecher gibt es in jedem Land der Erde, von
+Frankreich bis Japan, von Island bis Chile, und alle benu-
+tzen die Sprache Esperanto um ihre Gedanken, Literatur und
+Musik miteinander zu teilen und auszutauschen.
+Doktoro Esperanto (Esperanto „Hoffender“) war das Pseudonym,
+unter dem Dr. Ludwik Lejzer Zamenhof (im Deutschen manchmal:
+Ludwig Lazarus Samenhof) 1887 die Grundlagen der Sprache
+veröffentlichte. Seine Absicht war es, eine leicht erlern-
+bare, neutrale Sprache für die internationale Verständigung
+zu entwickeln, die jedoch andere Sprachen nicht ersetzen
+sollte. Auf Initiative Zamenhofs entstand eine internatio-
+nale Sprachgemeinschaft, die das Esperanto seither für viele
+Zwecke anwendet, vor allem für Reisen, Brieffreundschaften,
+internationale Treffen und kulturellen Austausch (Literatur,
+Musik u. a.).
+Bald fand diese Sprache auch Verwendung in Radiosendungen,
+im Amateurfunk, im mündlichen und fernmündlichen Verkehr,
+in Telegrammen, Zeitungen und Zeitschriften und später im
+Internet. Esperanto wird sowohl in Israel als auch im Iran
+gesprochen, in Russland und China als auch in den USA. Erle-
+ben Sie afrikanische Gesänge, brasilianischen Tanz, korea-
+nische Kampfkunst, deutsches Bier und nepalesische Küche,
+möglicherweise alles während des gleichen Treffens. Erleben
+Sie die Leichtigkeit der Kommunikation über Sprachgrenzen
+hinweg, wie Sie sie noch nie bisher gefühlt haben. Tauchen
+Sie ein, nehmen Sie teil am Austausch der Kulturen. Die
+Vielfalt der Welt liegt vor Ihnen. Denken Sie nicht mehr an
+Ihr Schulenglisch oder Schulfranzösisch – schon allein das
+Wort „Schulenglisch“ impliziert das Ergebnis:
+Dass die allermeisten Menschen nach 3 Jahren noch nichts in
+der Bäckerei bestellen können und sich selbst nach 9 Jahren
+noch nicht frei in der Fremdsprache ausdrücken. Stattdessen
+lernen Sie 1 Jahr lang Esperanto und Sie werden bereits viel
+mehr ausdrücken können (und in mehr Ländern). Esperanto
+wurde mit Absicht so geplant, dass man es so einfach wie
+möglich lernen kann, so dass alle Menschen in allen Ländern,
+selbst ohne Talent für Sprachen, ungezwungen und gemütlich
+miteinander reden können, ohne Unbeholfenheit, genau wie in
+der Muttersprache.
+Wenn Sie es schwierig finden, unregelmäßige Verben oder das
+Geschlecht von Substantiven zu behalten, ist Esperanto etwas
+für Sie, denn Esperanto hat solche unnötigen Ärgernisse
+abgeschafft. Aber es hat auch das Vokabeln-Lernen sehr ver-
+einfacht, indem Sie viel mehr mit weniger Wörtern ausdrücken
+können. Wenn Sie 500 Wörter Esperanto lernen, ist es das
+Äquivalent von einem Englisch- oder Französisch-Wortschatz
+von mindestens 3000 Wörtern.</text>
+  </lesson>
+  <lesson>
+   <id>{2ed4bc41-2ad6-4a97-be44-6a768f43288c}</id>
+   <title>Testtext „Der kleine Prinz“</title>
+   <newCharacters />
+   <text>Der kleine Prinz ist eine vom Autor illustrierte Erzählung
+von Antoine de Saint-Exupery. Sie ist das bekannteste Werk
+des französischen Autors und erschien zuerst 1943 in New
+York, wo Saint-Exupery sich im Exil aufhielt.
+Das Werk ist ein modernes Märchen, das sowohl Kinder als
+auch Erwachsene anspricht. Es stellt einerseits ein Plädoyer
+für Freundschaft und Menschlichkeit dar, enthält jedoch auch
+politische Anspielungen. Der orientalische Astronom, dessen
+Entdeckung erst dann ernst genommen wird, als er sie in
+einem westlichen Anzug vorträgt, kann als Hinweis auf die
+Reformen in der Türkei durch Atatürk verstanden werden.
+Die Erstausgabe des Kleinen Prinzen wurde am 6. April 1943
+vom Verlag Reynal &amp; Hitchcock in New York veröffentlicht.
+Das Buch erschien zeitgleich im französischen Original („Le
+petit prince“) und in einer englischen Übersetzung („The
+little prince“) von Katherine Woods. Von der Erstauflage
+wurden auch limitierte und signierte Ausgaben in englisch
+(525 Exemplare) und französisch (260 Exemplare) verkauft.
+1950 erschien die erste deutsche Übersetzung von Grete und
+Josef Leitgeb beim Arche Verlag in Zürich. Bis heute wurde
+das Werk weltweit in über 180 Sprach- und Dialektvarianten
+übersetzt.
+Der Erzähler berichtet zunächst, wie er als sechsjähriges
+Kind seine erste Zeichnung vollendet hatte. Wenn er sie den
+„großen Leuten“ mit der Frage zeigte, ob sie ihnen nicht
+Angst mache, hätten sie geantwortet: „Warum sollen wir vor
+einem Hut Angst haben?“ Die Zeichnung sollte jedoch eine
+Riesenschlange darstellen,  die einen Elefanten verdaut.
+Zufällig begegnet der Erzähler, nachdem er mit seinem Flug-
+zeug in der Sahara notgelandet ist, dem kleinen Prinzen, der
+ihn bittet: „Zeichne mir ein Schaf …“ Da der Prinz aber mit
+allen Zeichnungen, die der Flieger anfertigt, unzufrieden
+ist, zeichnet jener eine Kiste und erklärt: „Das Schaf, das
+du willst, steckt da drin.“
+Der Prinz hat im Übrigen keine Mühe, eine Zeichnung mit dem
+Elefanten und der Riesenschlange als solche zu erkennen. Tag
+für Tag erzählt nun der kleine Prinz dem Erzähler seine
+Geschichte.
+Er stammt nicht von der Erde, sondern von einem kleinen
+Asteroiden, „kaum größer als ein Haus“. Einmal war auf dem
+Planeten des kleinen Prinzen eine Blume gewachsen, hatte
+ihre Knospe entwickelt, ordnete ihre Blütenblätter und ent-
+hüllte sich gerade zur Stunde des Sonnenaufgangs.
+Der kleine Prinz unterhielt sich mit ihr, doch quälte sie
+ihn bald mit ihrer Eitelkeit. „Man darf den Blumen nicht
+zuhören, man muss sie anschauen und einatmen.“ Schließlich
+verließ der Prinz seinen Planeten. Auf der Suche nach Freun-
+den besucht er weitere Asteroiden in der Region. Und so
+kommt der kleine Prinz auf den siebten Planeten, die Erde.</text>
+  </lesson>
+  <lesson>
+   <id>{98c2cb63-cfd9-4c9d-9108-1b6d763f8865}</id>
+   <title>Testtext „Sprichwörter“</title>
+   <newCharacters />
+   <text>Abends wird der Faule fleißig. An jedem Gerücht ist ein
+kleines bisschen Wahrheit. Andere Länder, andere Sitten.
+Andere Mütter haben auch schöne Töchter. Angriff ist die
+beste Verteidigung. Alte Liebe rostet nicht. Berg und Tal
+kommen nicht zusammen, aber Menschen. Besser ein Ende mit
+Schrecken, als ein Schrecken ohne Ende. Besser spät als nie.
+Bellende Hunde beißen nicht. Bier auf Wein, lass das sein.
+Wein auf Bier, das rat ich dir. Das Herz ist auf dem rechten
+Fleck. Den letzten beißen die Hunde. Der Krug geht so lange
+zum Brunnen, bis er bricht. Der Apfel fällt nicht weit vom
+Stamm. Der dümmste Bauer hat die dicksten Kartoffeln. Der
+Mensch lebt nicht vom Brot allein. Eigener Herd ist Goldes
+wert. Eine Hand wäscht die andere. Eine Schwalbe macht noch
+keinen Sommer. Eine Krähe hackt der anderen kein Auge aus.
+Einem geschenkten Gaul sieht man nicht ins Maul. Gegen
+Dummheit ist kein Kraut gewachsen. Geld allein macht nicht
+glücklich. Geld verdirbt den Charakter. Geld regiert die
+Welt. Gelegenheit macht Diebe. Geteiltes Leid ist halbes
+Leid. Gleich und gleich gesellt sich gern. Habgier ist die
+Wurzel allen Übels. Handwerk hat goldenen Boden. Hilf dir
+selbst, so hilft dir Gott. Hochmut kommt vor dem Fall. Hunde
+die bellen, beißen nicht. In der Kürze liegt die Würze. In
+der Not frisst der Teufel Fliegen. Irren ist menschlich.
+Jedem Tierchen sein Pläsierchen. Jeder kehre vor seiner
+eigenen Tür. Jeder Topf findet seinen Deckel. Jedes Ding hat
+seine zwei Seiten. Keine Antwort ist auch eine Antwort.
+Keine Kette ist stärker als ihr schwächstes Glied. Klappe
+zu, Affe tot. Kinder und Narren sagen die Wahrheit. Kleider
+machen Leute. Kleine Geschenke, erhalten die Freundschaft.
+Lachen ist gesund. Lachen ist die beste Medizin. Lange Rede,
+kurzer Sinn. Langes Fädchen, faules Mädchen. Langsam, aber
+sicher. Lass laufen, was du nicht halten kannst. Leben und
+leben lassen. Lehrjahre sind keine Herrenjahre. Man muss die
+Feste feiern, wie sie fallen. Man soll den Teufel nicht an
+die Wand malen. Man soll den Tag nicht vor dem Abend loben.
+Man wird alt wie eine Kuh, und lernt immer noch dazu.
+Morgen, morgen nur nicht heute, sagen alle faulen Leute.
+Nach dem Essen sollst du stehen. oder tausend Schritte
+gehen. Nachts sind alle Katzen grau. Neue Besen kehren gut.
+Ohne Fleiß kein Preis. Ordnung ist das halbe Leben. Pech in
+der Liebe Glück im Spiel. Probieren geht über studieren.
+Quäle nie ein Tier zum Scherz, denn es fühlt wie du den
+Schmerz. Rache ist süß. Reden ist Silber, Schweigen ist
+Gold. Schadenfreude ist die schönste Freude. Scherben
+bringen Glück. Schlafende Hunde soll man nicht wecken.
+Selbsterkenntnis ist der erste Weg zur Besserung. Schmiede
+das Eisen, solange es heiß ist. Steter Tropfen höhlt den
+Stein. Torheit und Stolz wachsen auf einem Holz. Tadeln ist
+leicht, loben ist schwer. Taten sagen mehr als Worte. Tue
+Gutes, dann wird auch dir Gutes getan. Tue nichts Böses, so
+widerfährt dir nichts Böses. Träume sind Schäume. Übung
+macht den Meister. Undank ist der Welt Lohn. Unkraut vergeht
+nicht. Unter Blinden ist der Einäugige König. Verbotene
+Frucht schmeckt süß. Vergeben ist leichter als vergessen.
+Viele Köche verderben den Brei. Vögel, die morgens singen,
+holt am Abend die Katze. Von nichts kommt nichts. Vorbeugen
+ist besser als heilen. Was du heute kannst besorgen, das
+verschiebe nicht auf morgen. Was dem einen recht ist, ist
+dem andern billig. Was der Bauer nicht kennt, frisst er
+nicht. Was Hänschen nicht lernt, lernt Hans nimmermehr. Wer
+den Teufel reinlegen will, muss früh aufstehen. Wer schläft,
+der sündigt nicht. Wo gehobelt wird, fallen Späne. Zeige mir
+deine Freunde und ich sage dir, wer du bist. Zu einem Ohr
+hinein, zum andern heraus. Zuviel ist zuviel, und zu wenig
+ist nicht genug. Zwei Hähne auf einem Mist vertragen sich
+nicht.</text>
+  </lesson>
+  <lesson>
+   <id>{62fff042-9ce3-4302-938d-b2faed1ad3cf}</id>
+   <title>Testtext „Yoga“</title>
+   <newCharacters />
+   <text>Yoga ist eine indische philosophische Lehre, die eine Reihe
+geistiger und körperlicher Übungen wie Yama, Niyama,
+Kriyas, Meditation und/oder Askese umfasst.
+Der Begriff Yoga kann sowohl als „Vereinigung“ oder „Inte-
+gration“ als auch im Sinne von „Anschirren“ und „Anspannen“
+des Körpers an die Seele zur Sammlung und Konzentration ver-
+standen werden. Welcher Weg zur Verwirklichung dieser Ziele
+ einzuschlagen ist, darin unterscheiden sich die verschie-
+denen Richtungen erheblich voneinander.
+Wurzeln: Da Yoga ursprünglich aus Indien stammt, liegen die
+Wurzeln der Yoga-Philosophie im Hinduismus und Teilen des
+Buddhismus. Das Individuum wird hier als ein Reisender im
+Wagen des materiellen Körpers gesehen. Der Wagen ist der
+Körper, der Kutscher der Verstand, die fünf Pferde die fünf
+Sinnesorgane, der Fahrgast die Seele, und das Geschirr heißt
+im Indischen „Yoga“. Darüber hinaus enthält die Bhagavad-
+Gita direkte Anweisungen für den Yogi.
+So heißt es im 5. Kapitel, Vers 27: „Sich lösend von der
+Außenwelt, starr auf die Nasenwurzel (‚Nasikagra‘) schauend
+– den Hauch und Aushauch (Ein-/Ausatmung) regelnd gleich,
+die durch der Nase Innres gehen“. (Anmerkung: „Nasikagra“
+verwechseln einige Übersetzer mit „Nasenspitze“ – die meis-
+ten Yogis schielen aber nicht etwa, sondern blicken als Kon-
+zentrationsübung auf die Nasenwurzel zwischen den Augen-
+brauen, angeblich einen wichtigen Nerventreffpunkt).
+Vers 28 wendet sich den spirituellen Zielen zu: „Zügelnd die
+Sinne, Herz und Geist, ganz der Erlösung zugewandt – Befreit
+von Wünschen, Furcht und Zorn, so ist für immer er erlöst.“
+Im 6. Kapitel geht es um Versenkung (Dhyana) und die rich-
+tige Lebensweise. In Vers 10 heißt es: „yogi yunjita satatam
+atmanam rahasi sthitah – ekaki yatachittama nirashir
+aparigraha.“ ‚Der Yogi soll beständig sich mühen in der Ein-
+samkeit – allein, bezähmend Sinn und Selbst, nichts hoffend,
+ohne Besitz.‘
+Grundsätzlich hat Yoga nachweislich einige positiv bewertete
+Effekte sowohl auf die physische als auch auf die psychische
+Gesundheit. Yoga kann unter Umständen zu einer Linderung bei
+verschiedensten Krankheitsbildern führen, etwa bei Durchblu-
+tungsstörungen, Schlafstörungen, nervösen Beschwerden (Angst
+und Depression), chronischen Kopfschmerzen oder Rücken-
+schmerzen. Der Nutzen von Yoga bei Krankheit oder zur Erhal-
+tung der Gesundheit wird unterschiedlich bewertet. In
+Deutschland können Kosten für Yogakurse von den Krankenkas-
+sen vor allem im Rahmen des Präventionsprinzips der Vermei-
+dung spezifischer Risiken und stressabhängiger Krankheiten
+erstattet werden. Yoga hat auf viele Menschen eine beruhi-
+gende, ausgleichende Wirkung und kann somit den Folgeer-
+scheinungen von Stress entgegenwirken.</text>
+  </lesson>
+  <lesson>
+   <id>{5b753baf-3dad-454d-b035-f970a465261f}</id>
+   <title>Testtext „Psyche“</title>
+   <newCharacters />
+   <text>Das heute sachlich vorherrschende Verständnis von Psyche
+bezieht sich auf das „Gesamtsystem“ aller jener (Lebens-)
+„Regungen“, das „der Volksmund“ seit langem als Innenleben
+oder auch Seelenleben bezeichnet und dabei wie die wissen-
+schaftliche Psychologie in Denken und Gefühlsleben unter-
+teilt. Damit ist zuerst die Gesamtheit solcher „Lebensäuß-
+erungen“ oder Eigenreaktionen gemeint, die zuerst oder über-
+haupt nur der Selbst- oder Eigenwahrnehmung zugänglich sind
+und damit nur aus der subjektiven oder heute sog. „Ersten-
+Person-Perspektive“ beobachtet und beschrieben werden kön-
+nen: Das erlebende Wahrnehmen, das vorstellende Erinnern
+vorgängiger Erfahrungen, das Träumen, spontane oder willkür-
+liche Ausdenken oder Phantasieren möglicher oder andersarti-
+ger Erfahrungen aller nur denkbaren Art bis hin zum vielfäl-
+tigen emotionalen Reagieren darauf (und gegebenenfalls damit
+in Zusammenhang stehendem gewohnheitsmäßigen, also gelernten
+Verhalten und absichtlichen oder bewussten und eventuell so-
+gar geplanten bis strategischen Handeln). Traditionell wird
+außerdem „dem Psychischen“ der „physische“ Leib oder „soma-
+tische“ Körper gegenüber gestellt.
+Als „psychosomatisch“ werden dann solche „leib-seelischen“
+Vorgänge bezeichnet, bei denen die bewussten und unbewussten
+psychischen Aktivitäten mit solchen Vorgänge im Menschen in
+Zusammenhang stehen, die nur physiologisch, biochemisch oder
+anderweitig festgestellt und beobachtet werden können. In
+erster Linie handelt es sich dabei um Veränderungen von
+vegetativ gesteuerten und hormonell vermittelten Vitalfunk-
+tionen wie Muskeltonus, Atmung, Herzschlag, Blutdruck oder
+Verdauung, einschließlich evtl. dadurch bedingter krankhaf-
+ter Auswirkungen wie etwa chronischer oder sogar schmerzhaf-
+ter Verspannung, um nur ein Beispiel davon anzuführen. Auf-
+grund dieser besonderen Fähigkeit sind ältere Kinder und vor
+allem erwachsene Menschen zu jener Art von bewusstem, insbe-
+sondere absichtlichen Denken und Planen fähig, das bei Tie-
+ren bislang nicht beobachtet werden konnte. Menschen werden
+deswegen für ihre Taten verantwortlich gemacht, nicht dage-
+gen Tiere und Kleinkinder vor Entwicklung ausreichender
+Erinnerungsfähigkeit und Beherrschung eines gezielten und
+kontrollierten, insbesondere regelgeleiteten und allein „in
+der Vorstellung“ oder „im Geiste“ stattfindenden Kombinie-
+rens von Vorstellungselementen jeder Art („Denken“).</text>
+  </lesson>
+  <lesson>
+   <id>{6c31072f-1e1c-4831-9906-29dba4722984}</id>
+   <title>Testtext „Linux und Freie Software“</title>
+   <newCharacters />
+   <text>Als Linux oder GNU/Linux werden in der Regel freie,
+portable, Unix-ähnliche Mehrbenutzer-Betriebssysteme
+bezeichnet, die auf dem Linux-Kernel und wesentlich auf
+GNU-Software basieren.
+Die weite, auch kommerzielle Verbreitung ermöglichte ab
+1992 die Lizenzierung des Linux-Kernels unter der GPL.
+Das modular aufgebaute Betriebssystem wird von
+Softwareentwicklern auf der ganzen Welt weiterentwickelt,
+die an den verschiedenen Projekten mitarbeiten.
+Es sind sowohl Unternehmen als auch
+Non-Profit-Organisationen und Einzelpersonen beteiligt, die
+dies als Hobby betreiben.
+Im praktischen Einsatz werden meist sogenannte
+Linux-Distributionen genutzt, in denen verschiedene
+Software zu einem fertigen Paket zusammengestellt ist.
+Jede Distribution enthält somit Linux beziehungsweise den
+Linux-Kernel.
+Es gibt eine Vielzahl von Linux-Distributionen, aber für
+die aktuellen Kernel 2.2.x, 2.4.x und 2.6.x jeweils nur
+eine stabile, eine aktiv gepflegte und eine weiter
+entwickelte Version –
+nebenbei wird der (stabile) 2.6.29er-Zweig noch gepflegt
+und es werden Patches für vorhergehende Versionen
+bereitgestellt.
+Allerdings passen viele Distributoren und versierte
+Benutzer den Betriebssystemkern mehr oder weniger für ihre
+Zwecke an.
+Die Einsatzbereiche von Linux sind vielfältig und umfassen
+unter anderem die Nutzung auf Desktop-Rechnern, Servern,
+Mobiltelefonen, Routern, Multimedia-Endgeräten und
+Supercomputern.
+Dabei variiert die Verbreitung von Linux in den einzelnen
+Bereichen drastisch. So ist Linux im Server-Markt eine
+feste Größe, während es auf dem Desktop bisher nur eine
+geringe Rolle spielt.
+Ebenfalls spielt die wirtschaftliche und geographische Lage
+einer Region eine wichtige Rolle. So planen vorrangig
+südamerikanische Schwellenländer den verstärkten Einsatz
+von Linux.
+Freie Software (engl.: free software) ist Software, die für
+jeden Zweck genutzt, studiert, bearbeitet und in
+ursprünglicher oder veränderter Form weiterverbreitet
+werden darf.
+Das schließt auch die kommerzielle Nutzung ein. Software,
+die auf Grundlage dieser Software entsteht, muss
+normalerweise ebenfalls Freie Software sein (Prinzip des
+Copyleft bzw. share alike).
+Freier Software steht die proprietäre oder „unfreie“
+Software gegenüber, die diese Freiheiten nicht oder nicht
+in vollem Umfang bietet. Diese Unterscheidung wurde von der
+Free Software Foundation (FSF) geprägt.
+Die Free Software Foundation (FSF) definiert Software als
+frei, wenn ihre Lizenz folgende Freiheiten einräumt:
+Freiheit 0: Das Programm zu jedem Zweck auszuführen.
+Freiheit 1: Das Programm zu studieren und zu verändern.
+Freiheit 2: Das Programm zu verbreiten.
+Freiheit 3: Das Programm zu verbessern und zu verbreiten,
+um damit einen Nutzen für die Gemeinschaft zu erzeugen.
+Für die Freiheiten (1) und (3) ist der Zugang zum Quelltext
+Voraussetzung, sonst wird das Verändern eines Programms
+schwierig bis unmöglich.
+Sind eine oder mehrere dieser Bedingungen nicht erfüllt,
+wird die Software als proprietär oder „unfrei“ bezeichnet.</text>
+  </lesson>
+  <lesson>
+   <id>{40283667-3f5d-4857-bacd-e75134bc5571}</id>
+   <title>Testtext „Alkohol“</title>
+   <newCharacters>₆₂</newCharacters>
+   <text>Ethanol ist eine farblose, leicht entzündliche Flüssigkeit
+mit brennendem Geschmack sowie charakteristischem, würzigem
+Geruch. Umgangssprachlich wird es als Alkohol bezeichnet.
+Ältere Nomenklaturen verwendeten die Bezeichnungen Äthanol,
+Äthylalkohol oder Ethylalkohol. Es gibt noch ältere Bezeich-
+nungen wie Weingeist und Spiritus (lateinisch „Geist“).
+In der Chemie wird Ethanol oft mit EtOH abgekürzt und in
+der Alltagsmedizin mündlich mit C2 bezeichnet (als Verkür-
+zung der Summenformel [₆=Composetaste+_+6] C₂H₆O). Bekannt
+ist Ethanol vor allem als Trinkalkohol, der als Anteil in
+Genussmittel (z. B. Wein, Bier, Likör) klassifiziert wird.
+Er ist allerdings zugleich ein Rauschmittel, sein Konsum
+ist in den meisten Staaten erlaubt. Das Führen von Fahrrä-
+dern, Kraftfahrzeugen, Schiffen und Flugzeugen unter Alko-
+holeinfluss ist jedoch meist unter Strafe gestellt.
+Die Hauptverwendungen von Ethanol betreffen neben der
+Genuss- und Lebensmittelindustrie vor allem in den letzten
+Jahren die Nutzung als Biokraftstoff in Form von Bioethanol.
+Außerdem handelt es sich um ein organisches Lösungsmittel
+sowie eine Grundchemikalie der Industrie. Für den Menschen
+ist Ethanol giftig.
+Die Aufnahme führt – ab etwa 0,5–1 Promille Alkoholkonzen-
+tration im Blut – zu typischen akuten Trunkenheitssymptomen
+wie Schwindel, Übelkeit, Orientierungsstörung, Redseligkeit
+und gesteigerter Aggressivität.
+Die Letale Dosis (LD) liegt etwa bei 3,0 bis 4,0 Promille
+für ungeübte Trinker. Es wurden jedoch schon Werte über 7
+Promille gemessen. Die LD50 beträgt für die Ratte 7.060
+mg/kg bei oraler Applikation.
+Bei einer akuten Ethanolvergiftung kann der noch im Magen
+befindliche Alkohol durch Herbeiführen von Erbrechen oder
+durch Auspumpen des Mageninhalts teilweise entfernt werden.
+Bei regelmäßiger Einnahme, die zu einer Abhängigkeit (Alko-
+holkrankheit) führen kann, werden alle Zellen des Körpers
+geschädigt. Insbesondere leiden das Nervensystem und Gehirn
+sowie die Leber. Der Vitamin-B1-Stoffwechsel wird durch lang
+anhaltenden Alkoholkonsum geschädigt, diese Schädigung kann
+eine Polyneuritis auslösen. Epilepsie, Psychosen, soziale
+Vereinsamung und der verfrühte Tod können die Folge sein.
+Die Wernicke-Enzephalopathie findet sich bei etwa 15 % der
+verstorbenen Alkoholiker, und bildet zusammen mit dem
+Korsakow-Syndrom das Wernicke-Korsakow-Syndrom.
+Bekannt ist auch die Schädigung des Zentralnervensystems
+beim Delirium tremens. Diese Nervenerscheinung tritt beim
+Alkoholentzug des Körpers auf. In Deutschland sterben über
+73000 Menschen jährlich vorzeitig aufgrund ihres Alkohol-
+missbrauchs.</text>
+  </lesson>
+  <lesson>
+   <id>{84f0c3a7-db38-46ab-b9f0-a8405f742ef9}</id>
+   <title>Testtext „Säuren“</title>
+   <newCharacters>₃₄</newCharacters>
+   <text>Wohl die älteste bekannte Säure (lat. acidum) ist Essig
+(lat. acetum), eine etwa fünfprozentige wässrige Lösung der
+Verbindung Essigsäure. Säuren waren etwas Essigartiges
+(oxos od. acidus).
+In der Alchemie galt Säure als ein Urstoff. Die sauren
+Eigenschaften basierten auf einer einzigen Ursäure, die in
+verschiedenen Substanzen zur Wirkung kam.
+Säuren lassen Kalk bzw. Carbonate aufschäumen, haben eine
+ätzende Wirkung und einen sauren Geschmack. Bis Ende des
+13. Jh. waren wohl neben Essig und anderen Pflanzensäften
+keine Säuren bekannt.
+Erweiterte Kenntnisse bezüglich Säuren wurden dem im 8. Jh.
+lebenden Geber zugeschrieben, sie basieren jedoch auf
+Schriften der deutlich jüngeren, sogenannten Pseudo-Geber.
+Es entwickelten sich Kenntnisse über verschiedene anorga-
+nische Säuren, die alle den Varietäten des Elements Wasser
+zugeschrieben wurden. Ab dem 18. Jh. wurden sie als Mineral-
+säuren bezeichnet. Eine Herstellung von Salpetersäure (HNO₃)
+wurde von den Pseudo-Geber vermutlich nach dem 13. Jh. als
+„auflösendes Wasser“ (aqua dissolutiva) oder „starkes Was-
+ser“ (aqua fortis) beschrieben. Dabei wurde Kupfervitriol
+mit Salpeter und Alaun auf Rotglut erhitzt. Es entweichen
+nitrose Gase, die mit Wasser Salpetersäure bilden. Man
+nannte diese Säure auch Scheidewasser, da sie Silber in
+einer chemischen Reaktion löst, aber Gold nicht.
+J. R. Glauber beschrieb 1648 die Herstellung der konzen-
+trierten (rauchenden) Salpetersäure (spiritus acidus nitri)
+durch Umsetzung mit Schwefelsäure. Königswasser, aus heuti-
+ger Sicht eine Mischung aus Salpeter- und Salzsäure, dürfte
+ähnlich früh bekannt gewesen sein, da es sich relativ ein-
+fach durch Umsetzung von Salpetersäure mit dem bekannten
+Salmiak gewinnen lässt. Königswasser war die Königin aller
+Säuren, der nicht einmal Gold, der König der Metalle, wider-
+stehen konnte.
+Schweflige Säure (H₂SO₃) ist sicher lange bekannt, da sie
+durch Verbrennung von elementarem Schwefel zu erhalten ist.
+Sicherlich war bei vielen Prozessen auch Schwefelsäure
+(mit) dabei. Genauere Prozesse zur Darstellung von Schwefel-
+säure (H₂SO₄) wurden aber erst 1597 von A. Libavius genauer
+beschrieben:
+a) Glühen von Eisen- oder Kupfersulfat, dem sogenannten
+Eisen- bzw. Kupfervitriol – siehe hierzu auch Vitriolverfah-
+ren – zum Oleum vitrioli (rauchender Schwefelsäure) und
+b) Verbrennung von Schwefel und anschließende Oxidation, die
+zu verdünnten Lösungen (Oleum sulphuris) führten. Eine tech-
+nische Umsetzung gelang im 19. Jh. mit dem Bleikammerverfah-
+ren.
+Salzsäure (HCl) als eigenständige Verbindung wurde erst Ende
+des 16. Jh. bekannt. Durch Glühen einer Mischung Kochsalz
+und Ton beschrieb A. Libavius eine Synthese. B. Valentinus
+beschrieb die Umsetzung von Vitriol und Kochsalz zu aqua
+caustica, dem ätzenden Wasser. Intensive Untersuchungen
+durch J. R. Glauber im 17. Jh. führten zum Glaubers Salz-
+geist (Spiritus salis Glauberianus), der sehr konzentrier-
+ten, sogenannten rauchenden Salzsäure bzw. dem Gas Wasser-
+stoffchlorid.</text>
+  </lesson>
+  <lesson>
+   <id>{6370dc17-9a74-456e-98b7-246d5e8809e4}</id>
+   <title>Shell-Einleitung</title>
+   <newCharacters />
+   <text>Es ist wichtig, auf einer Tastatur nicht nur effizient die
+Texteingabe zu beherrschen, sondern auch die Eingabe von
+üblichen Befehlen schnell und sicher zu erledigen. Fehler
+bei diesen Eingaben können teilweise verheerend sein, des-
+halb achten Sie im Folgenden auf ihre Fehlerfreiheit.
+cd Wechselt das aktuelle Verzeichnis.
+chmod Ändert die Zugriffsrechte einer Datei.
+chown Ändert den Besitzer einer Datei.
+cp Kopiert Dateien.
+gunzip Extrahiert eine komprimierte Datei.
+gzip Komprimiert die Datei.
+find Sucht nach Dateien.
+grep Durchsucht eine Textdatei.
+less name Zeigt die Textdatei name an.
+ls Zeigt das Inhaltsverzeichnis eines Ordners an.
+man name Zeigt eine meist englisch sprachige Hilfe zum
+Kommando name an.
+mkdir Erzeugt ein neues Verzeichnis.
+mv Verschiebt Dateien oder benennt Dateien um.
+passwd ändert das aktuelle Passwort des jeweiligen
+Benutzers.
+ps Liefert eine Liste aller Prozesse.
+rm löscht Dateien.
+rmdir Löscht ein leeres Verzeichnis.
+su Wechselt den aktuellen Benutzer.
+sudo Wird dieses Kommando vor ein anderes geschrieben (mit
+Leerzeichen) so wird es mit root-Rechten (Administrator)
+ausgeführt.
+top Zeigt eine Liste der laufenden Prozesse geordnet nach
+CPU-Leistung (Ende mit der Taste „Q“).</text>
+  </lesson>
+  <lesson>
+   <id>{5dd5757f-c473-4065-895a-ed369a464b30}</id>
+   <title>Shell-Übung</title>
+   <newCharacters />
+   <text>man [Programm] Zeigt die Hilfe zu einem Programm an. man
+firefox
+cd [Verzeichnis] Wechselt in das Verzeichnis. cd /tmp
+cd .. Wechselt ein Verzeichnis höher. cd ../td
+cd / Wechselt ins Wurzelverzeichnis. cd /
+cd Wechselt das Verzeichnis. cd ..  cd /tmp
+cd - Wechselt in das vorherige Verzeichnis. cd -
+cp [Datei][Verz] Kopiert Datei in Verzeichnis. cp 123.txt
+/tmp
+mv Verschiebt eine Datei. mv 123.txt /tmp
+mv [Datei1] [Datei2] benennt Datei [DATEI1] in [DATEI2] um.
+mv 123.txt 456.txt
+rm Löscht eine Datei. rm /tmp/123.txt ; rm /tmp/*
+rm -rf alles unterhalb des Verzeichnis löschen. rm -rf
+/tmp/
+mkdir Erzeugt ein Verzeichnis. mkdir /home/test
+rmdir Löscht ein Verzeichnis. rmdir /home/test
+ls Zeigt Ordner-Inhalt an. ls /home/test
+ls -l Ausführliche Auflistung. ls -l /home/test
+ls -la Zeigt alle Dateien des Verzeichnis ausführlich. ls
+-la /home/test
+pwd Zeigt das aktuelle Verzeichnis an. pwd
+cat [Datei] Zeigt Inhalt einer Datei. cat 123.txt
+more [Datei] Zeigt Inhalt einer Datei seitenweise an. more
+123.txt
+touch [Datei] Erzeugt leere Datei. touch 123.txt
+whereis [Prog] Sucht nach Programm. whereis firefox
+find . | grep [DATEI] sucht eine Datei im Verzeichnis. find
+. | grep 123.txt
+grep [KEY] [DATEI] Sucht nach Begriff in einer Datei. grep
+Haus 123.txt
+locate [DATEI] Sucht nach Datei in der Datenbank. locate
+123.txt
+which Zeigt an, wo sich ein Programm befindet. which
+firefox
+$ vi variscript
+#
+#
+# Script to test MY knowledge about variables!
+#
+myname=Vivek
+myos = TroubleOS
+myno=5
+echo "My name is $myname"
+echo "My os is $myos"
+echo "My number is myno, can you see this number"</text>
+  </lesson>
+  <lesson>
+   <id>{e9187db8-9b61-4237-871b-12c11b9c19b9}</id>
+   <title>Shell Test</title>
+   <newCharacters />
+   <text>$ vi ginfo
+#
+#
+# Script to print user information who currently login,
+current date &amp; time
+#
+clear
+echo "Hello $USER"
+echo "Today is \c ";date
+echo "Number of user login: \c" ; who | wc -l
+echo "Calendar"
+cal
+exit 0
+$ vi demo
+#!/bin/sh
+#
+# Script that demos, command line args
+#
+echo "Total number of command line argument are $#"
+echo "$0 is script name"
+echo "$1 is first argument"
+echo "$2 is second argument"
+echo "All of them are:- $* or $@"
+# vi /etc/bashrc
+# At the end of file add following in /etc/bashrc file
+#
+# today() to print formatted date
+#
+# To run this function type today at the $ prompt
+# Added by Vivek to show function in Linux
+#
+today()
+{
+echo This is a `date +"%A %d in %B of %Y (%r)"`
+return
+}</text>
+  </lesson>
+ </lessons>
+</course>

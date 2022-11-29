@@ -1,0 +1,2838 @@
+<course>
+ <id>{ae627ff0-9736-41af-a027-1eec77d6b465}</id>
+ <title>Deutsches und Englisches Bone</title>
+ <description>Adaptiert vom Kurs "Deutsches Neo 2" mit einem Script von Joerg H. Mueller,
+Original von Carsten MISCHKE &amp;lt;Carsten,Mischke@gmail.com&gt;, Hanno Behrens und Hans Meine.
+Homepage: http://neo-layout.org</description>
+ <keyboardLayout>de(bone)</keyboardLayout>
+ <lessons>
+  <lesson>
+   <id>{c8a954c5-ce20-4c16-829d-55611827210e}</id>
+   <title>Zeigefinger: e und n</title>
+   <newCharacters>en</newCharacters>
+   <text>ee ee ee eeee ee eeee ee eeee ee ee ee eeee ee eeee ee eeee
+nn nn nn nnnn nn nnnn nn nnnn nn nn nn nnnn nn nnnn nn nnnn
+en en en eenn en eenn en eenn en en en eenn en eenn en eenn
+en en en eenn en eenn en eenn en en en eenn en eenn en eenn
+ne ne ne nnee ne nnee ne nnee ne ne ne nnee ne nnee ne nnee
+ne ne ne nnee ne nnee ne nnee ne ne ne nnee ne nnee ne nnee
+en ne en ne en ne en en ne en en ne ne en nennen nennen ne
+en ne en ne en ne ne en ne ne en en ne nennen nennen nennen
+eeen nnne eene nnen enee nenn eeen nnne eene nnen enee nenn
+eeen nnne eene nnen enee nenn eeen nnne eene nnen enee nenn</text>
+  </lesson>
+  <lesson>
+   <id>{c577c762-d916-44af-b160-9e905213258f}</id>
+   <title>Mittelfinger: i und r</title>
+   <newCharacters>ir</newCharacters>
+   <text>ii ii ii iiii ii iiii ii iiii ii ii ii iiii ii iiii ii iiii
+rr rr rr rrrr rr rrrr rr rrrr rr rr rr rrrr rr rrrr rr rrrr
+ir ir ir iirr ir iirr ir iirr ir ir ir iirr ir iirr ir iirr
+ir ir ir iirr ir iirr ir iirr ir ir ir iirr ir iirr ir iirr
+ri ri ri rrii ri rrii ri rrii ri ri ri rrii ri rrii ri rrii
+ri ri ri rrii ri rrii ri rrii ri ri ri rrii ri rrii ri rrii
+ir ri ir ri ir ri ir ir ri ir ir ri ir ir ri rennen rennen
+ri ir ri ir ri ir ri ri ir ri ri ir ri ri ir rennen rennen
+er er in in rinn rinn rir rir iri iri irne irne rennen
+rennen re in rinn rir iri irne rennen iiir rrri iiri rrir
+irii rirr iiir rrri iiri rrir irii rirr iiir rrri iiri rrir
+irii rirr iiir rrri iiri rrir irii rirr iiee iinn iirr ienr
+rrnn rree rrii rnei iiee iinn iirr ienr rrnn rree rrii rnei
+iiee iinn iirr ienr rrnn rree rrii rnei</text>
+  </lesson>
+  <lesson>
+   <id>{6176eb8f-1c9e-48a8-893a-68043653bdd1}</id>
+   <title>kleine Finger: c und g</title>
+   <newCharacters>cg</newCharacters>
+   <text>cc cc cc cccc cc cccc cc cccc cc cc cc cccc cc cccc cc cccc
+cc cc cc cccc cc cccc cc cccc cc cc cc cccc cc cccc cc cccc
+gg gg gg gggg gg gggg gg gggg gg gg gg gggg gg gggg gg gggg
+gg gg gg gggg gg gggg gg gggg gg gg gg gggg gg gggg gg gggg
+cg cg cg ccgg cg ccgg cg ccgg cg cg cg ccgg cg ccgg cg ccgg
+cg cg cg ccgg cg ccgg cg ccgg cg cg cg ccgg cg ccgg cg ccgg
+gc gc gc ggcc gc ggcc gc ggcc gc gc gc ggcc gc ggcc gc ggcc
+gc gc gc ggcc gc ggcc gc ggcc gc gc gc ggcc gc ggcc gc ggcc
+cccg gggc ccgc ggcg cgcc gcgg cccg gggc ccgc ggcg cgcc gcgg
+cccg gggc ccgc ggcg cgcc gcgg cccg gggc ccgc ggcg cgcc gcgg
+ccii ccee ccnn ccrr ccgg ggrr ggnn ggee ggii ggcc ccii ccee
+ccnn ccrr ccgg ggrr ggnn ggee ggii ggcc ccii eenn rrgg ccii
+eenn rrgg ggrr nnee iicc cie grn cie grn cie grn cie nrg cie
+nrg cie nrg grn eic grn eic grn nrg cie nrg grn eic grn eic</text>
+  </lesson>
+  <lesson>
+   <id>{66bcdf46-3eb1-400e-9c72-3ce5e357e488}</id>
+   <title>Ringfinger: t und s</title>
+   <newCharacters>ts</newCharacters>
+   <text>tt tt tt tttt tt tttt tt tttt tt tt tt tttt tt tttt tt tttt
+tt tt tt tttt tt tttt tt tttt tt tt tt tttt tt tttt tt tttt
+ss ss ss ssss ss ssss ss ssss ss ss ss ssss ss ssss ss ssss
+ss ss ss ssss ss ssss ss ssss ss ss ss ssss ss ssss ss ssss
+ts ts ts ttss ts ttss ts ttss ts ts ts ttss ts ttss ts ttss
+ts ts ts ttss ts ttss ts ttss ts ts ts ttss ts ttss ts ttss
+st st st sstt st sstt st sstt st st st sstt st sstt st sstt
+st st st sstt st sstt st sstt st st st sstt st sstt st sstt
+ttts ssst ttst ssts tstt stss ttts ssst ttst ssts tstt stss
+ttts ssst ttst ssts tstt stss ttts ssst ttst ssts tstt stss
+ttnn ttrr ttss ttgg ssee ssii sstt sscc ttgg ttss ttrr ttnn
+sscc sstt ssii ssee ctie gsrn ctie gsrn ctie gsrn eitc nrsg
+eitc nrsg eitc nrsg ctie nrsg ctie nrsg ctie nrsg gsrn eitc
+gsrn eitc gsrn eitc</text>
+  </lesson>
+  <lesson>
+   <id>{af11c474-913a-4b04-9e34-fb8896e7377c}</id>
+   <title>Grundstellung ctie nrsg</title>
+   <newCharacters />
+   <text>ctie nrsg ctie nrsg ctie nrsg ctie nrsg ctie nrsg ctie nrsg
+ctie nrsg ctie nrsg ctie nrsg ctie nrsg ctie nrsg ctie nrsg
+ctie nrsg gsrn eitc gsrn eitc gsrn eitc gsrn eitc gsrn eitc
+gsrn eitc gsrn eitc gsrn eitc gsrn eitc gsrn eitc gsrn eitc
+gsrn eitc gsrn eitc ctie gsrn ctie gsrn ctie gsrn ctie gsrn
+ctie gsrn ctie gsrn eitc nrsg eitc nrsg eitc nrsg eitc nrsg
+eitc nrsg eitc nrsg eitc nrsg ctie gsrn ctie gsrn ctie gsrn
+ctie gsrn ctie gsrn ctie gsrn eitc nrsg eitc nrsg eitc nrsg
+eitc nrsg eitc nrsg eitc nrsg eitc nrsg ctie nrsg ctie gsrn
+eitc gsrn eitc nrsg ctie nrsg ctie gsrn eitc gsrn eitc nrsg
+ctie nrsg ctie gsrn eitc gsrn eitc nrsg ctie nrsg ctie gsrn
+eitc gsrn eitc nrsg ctie nrsg ctie gsrn eitc gsrn eitc nrsg
+ctie nrsg ctie gsrn eitc gsrn eitc nrsg</text>
+  </lesson>
+  <lesson>
+   <id>{e00cb4b6-ef67-4e1c-8c4c-e7523918c502}</id>
+   <title>Sicherheitstest Grundstellung</title>
+   <newCharacters />
+   <text>eee nnn iii rrr ttt sss ccc ggg nnn eee rrr iii sss ttt ggg
+ccc eee nnn iii rrr ttt sss ccc ggg nnn eee rrr iii sss ttt
+ggg ccc ene ene nen nen iri iri rir rir tst tst sts sts cgc
+cgc gcg gcg ene ene nen nen iri iri rir rir tst tst sts sts
+cgc cgc gcg gcg gcg sts rir nen ene iri tst cgc nen rir sts
+gcg cgc tst iri ene gcg sts rir nen ene iri tst cgc nen rir
+sts gcg cgc tst iri ene ene ene nen nen iri iri rir rir tst
+tst sts sts cgc cgc gcg gcg ene ene nen nen iri iri rir rir
+tst tst sts sts cgc cgc gcg gcg gcg sts rir nen ene iri tst
+cgc nen rir sts gcg cgc tst iri ene gcg sts rir nen ene iri
+tst cgc nen rir sts gcg cgc tst iri ene enir enir erin erin
+tscg tscg tgcs tgcs cgts cgts cstg cstg iren iren iner iner
+enir enir erin erin tscg tscg tgcs tgcs neri neri nire nire
+stgc stgc scgt scgt gcst gcst gtsc gtsc rine rine reni reni
+neri neri nire nire stgc stgc scgt scgt cgts cgts cstg cstg
+iren iren iner iner enir enir erin erin tscg tscg tgcs tgcs
+cgts cgts cstg cstg iren iren iner iner gcst gcst gtsc gtsc
+rine rine reni reni neri neri nire nire stgc stgc scgt scgt
+gcst gcst gtsc gtsc rine rine reni reni ene ene nen nen iri
+iri rir rir tst tst sts sts cgc cgc gcg gcg ene ene nen nen
+iri iri rir rir tst tst sts sts cgc cgc gcg gcg gcg sts rir
+nen ene iri tst cgc nen rir sts gcg cgc tst iri ene gcg sts
+rir nen ene iri tst cgc nen rir sts gcg cgc tst iri ene ene
+ene nen nen iri iri rir rir tst tst sts sts cgc cgc gcg gcg
+ene ene nen nen iri iri rir rir tst tst sts sts cgc cgc gcg
+gcg gcg sts rir nen ene iri tst cgc nen rir sts gcg cgc tst
+iri ene gcg sts rir nen ene iri tst cgc nen rir sts gcg cgc</text>
+  </lesson>
+  <lesson>
+   <id>{b4dbccd3-fd8b-4b10-8b5d-53eb521705e6}</id>
+   <title>Silben aus zwei Buchstaben</title>
+   <newCharacters />
+   <text>re re re re re re re re re ri ri ri ri ri ri ri ri ri rt rt
+rt rt rt rt rt rt rt rs rs rs rs rs rs rs rs rs in in in in
+in in in in in ie ie ie ie ie ie ie ie ie is is is is is is
+is is is it it it it it it it it it te te te te te te te te
+te ti ti ti ti ti ti ti ti ti tr tr tr tr tr tr tr tr tr ts
+ts ts ts ts ts ts ts ts ge ge ge ge ge ge ge ge ge gr gr gr
+gr gr gr gr gr gr gi gi gi gi gi gi gi gi gi gs gs gs gs gs
+gs gs gs gs ce ce ce ce ce ce ce ce ce ct ct ct ct ct ct ct
+ct ct ci ci ci ci ci ci ci ci ci cr cr cr cr cr cr cr cr cr
+er er er er er er er er er en en en en en en en en en ei ei
+ei ei ei ei ei ei ei es es es es es es es es es st st st st
+st st st st st se se se se se se se se se sc sc sc sc sc sc
+sc sc sc si si si si si si si si si ng ng ng ng ng ng ng ng
+ng ne ne ne ne ne ne ne ne ne nt nt nt nt nt nt nt nt nt ns
+ns ns ns ns ns ns ns ns re re re re re re re re re ri ri ri
+ri ri ri ri ri ri rt rt rt rt rt rt rt rt rt rs rs rs rs rs
+rs rs rs rs in in in in in in in in in ie ie ie ie ie ie ie
+ie ie is is is is is is is is is it it it it it it it it it
+te te te te te te te te te ti ti ti ti ti ti ti ti ti tr tr
+tr tr tr tr tr tr tr ts ts ts ts ts ts ts ts ts ge ge ge ge
+ge ge ge ge ge gr gr gr gr gr gr gr gr gr gi gi gi gi gi gi
+gi gi gi gs gs gs gs gs gs gs gs gs ce ce ce ce ce ce ce ce
+ce ct ct ct ct ct ct ct ct ct ci ci ci ci ci ci ci ci ci cr
+cr cr cr cr cr cr cr cr er er er er er er er er er en en en
+en en en en en en ei ei ei ei ei ei ei ei ei es es es es es
+es es es es st st st st st st st st st se se se se se se se
+se se sc sc sc sc sc sc sc sc sc si si si si si si si si si
+ng ng ng ng ng ng ng ng ng ne ne ne ne ne ne ne ne ne nt nt
+nt nt nt nt nt nt nt ns ns ns ns ns ns ns ns ns re re re re</text>
+  </lesson>
+  <lesson>
+   <id>{6dde6aa4-888c-419c-916c-436db4327b5a}</id>
+   <title>Silben aus drei Buchstaben</title>
+   <newCharacters />
+   <text>ist ist ist ist ist ist ist ist ist ist ist ist ein ein ein
+ein ein ein ein ein ein ein ein ein sie sie sie sie sie sie
+sie sie sie sie sie sie its its its its its its its its its
+its its its get get get get get get get get get get get get
+sei sei sei sei sei sei sei sei sei sei sei sei ins ins ins
+ins ins ins ins ins ins ins ins ins see see see see see see
+see see see see see see set set set set set set set set set
+set set set nie nie nie nie nie nie nie nie nie nie nie nie
+ten ten ten ten ten ten ten ten ten ten ten ten ice ice ice
+ice ice ice ice ice ice ice ice ice sir sir sir sir sir sir
+sir sir sir sir sir sir eng eng eng eng eng eng eng eng eng
+eng eng eng sri sri sri sri sri sri sri sri sri sri sri sri
+eis eis eis eis eis eis eis eis eis eis eis eis sit sit sit
+sit sit sit sit sit sit sit sit sit egg egg egg egg egg egg
+egg egg egg egg egg egg net net net net net net net net net</text>
+  </lesson>
+  <lesson>
+   <id>{e6ce4b03-f0c4-4744-8b9c-d46b06935018}</id>
+   <title>Wir sichern die Grundstellung</title>
+   <newCharacters />
+   <text>eeee nnnn iiii rrrr tttt ssss cccc gggg eeee nnnn iiii rrrr
+tttt ssss cccc gggg cccc gggg tttt ssss iiii rrrr eeee nnnn
+cccc gggg tttt ssss iiii rrrr eeee nnnn nnnn eeee rrrr iiii
+ssss tttt gggg cccc nnnn eeee rrrr iiii ssss tttt gggg cccc
+gggg cccc ssss tttt rrrr iiii nnnn eeee gggg cccc ssss tttt
+rrrr iiii nnnn eeee ctie nrsg ctie nrsg ctie nrsg ctie nrsg
+ctie nrsg ctie nrsg ctie nrsg ctie nrsg gsrn eitc gsrn eitc
+gsrn eitc gsrn eitc gsrn eitc gsrn eitc gsrn eitc gsrn eitc
+ctie gsrn ctie gsrn ctie gsrn ctie gsrn ctie gsrn ctie gsrn
+ctie gsrn ctie gsrn eitc nrsg eitc nrsg eitc nrsg eitc nrsg
+eitc nrsg eitc nrsg eitc nrsg eitc nrsg cins terg cins terg
+cins terg cins terg nste rgci nste rgci nste rgci nste rgci
+cntr iseg cntr iseg cntr iseg cntr iseg gesi rtnc gesi rtnc
+gesi rtnc gesi rtnc egis trcn egis trcn egis trcn egis trcn
+neri stgc neri stgc neri stgc neri stgc ctnr iesg ctnr iesg
+ctnr iesg ctnr iesg ienr ctsg ienr ctsg ienr ctsg ienr ctsg
+gsei rntc gsei rntc gsei rntc gsei rntc rnei gstc rnei gstc
+rnei gstc rnei gstc eitc nrsg eitc nrsg eitc nrsg eitc nrsg</text>
+  </lesson>
+  <lesson>
+   <id>{5329ba6f-2f55-4c0a-9525-326e2027df1f}</id>
+   <title>Sicherheitstest der Grundstellung</title>
+   <newCharacters />
+   <text>in is ist er eine ein it sie einer es einen seiner seine its
+sein eines ersten seinen seit gegen erste get sei series
+since erst einige ins seines ging see s eigenen set seen
+seite eigene sent gets einigen nie serie seien center seiten
+rest cities ten stieg singer site erster green gingen tiere
+science tree rennen street eggs sister getting engine ice
+recent interesse trees stets nine centre test entire sinne
+sieg tritt interest tries erstes getrennt ring scientists
+gegner reste nennt eigenes critics sense sign einiger reign
+ernst scene erinnert singing secret stein screen treten</text>
+  </lesson>
+  <lesson>
+   <id>{cb7496d3-2e8f-4fae-a501-3a1dfb4e609b}</id>
+   <title>Die Mittelfinger: u und l</title>
+   <newCharacters>ul</newCharacters>
+   <text>iui iui iui iui iui iui iun iun iun iun iun iun iui iui iun
+iun iui iui iun iun iui iui iun iun rlr rlr rlr rlr rlr rlr
+rle rle rle rle rle rle rlr rlr rle rle rlr rlr rle rle rlr
+rlr rle rle iur iur iur iur iur iur rli rli rli rli rli rli
+iur iur rli rli iur iur rli rli iur iur rli rli ius ius ius
+ius ius ius rlt rlt rlt rlt rlt rlt ius ius rlt rlt ius ius
+rlt rlt ius ius rlt rlt iue iue iue iue iue iue rln rln rln
+rln rln rln iue iue rln rln iue iue rln rln rln rln rln rln
+iut iut iut iut iut iut rls rls rls rls rls rls iut iut rls
+rls iut iut rls rls iut iut rls rls iuc iuc iuc iuc iuc iuc
+rlg rlg rlg rlg rlg rlg iuc iuc rlg rlg iuc iuc rlg rlg iuc
+iuc rlg rlg iui iue iui iut iui iuc iui iue iui iut iui iuc
+iui iue iui iut iui iuc iui iue iui iut iui iuc rlr rln rlr
+rls rlr rlg rlr rln rlr rls rlr rlg rlr rln rlr rls rlr rlg
+rlr rln rlr rls rlr rlg uiu ucu uiu utu uiu ueu lrl lrg lrl
+lsl lrl lnl uiu ucu uiu utu uiu ueu lrl lrg lrl lsl lrl lnl
+geu geu geu geu geu geu cnl cnl cnl cnl cnl cnl geu geu geu
+cnl cnl cnl geu geu geu cnl cnl cnl uel uel uel uel uel uel
+len len len len len len uel uel uel len len len uel uel uel
+len len len iul iul iul iul iul iul uil uil uil uil uil uil
+iul iul iul uil uil uil iul iul iul uil uil uil leu leu leu
+leu leu leu enl enl enl enl enl enl leu leu leu enl enl enl
+leu leu leu enl enl enl leu leu leu enl enl enl leu leu leu</text>
+  </lesson>
+  <lesson>
+   <id>{4ea40778-34e4-4cec-a09f-8b43511b0859}</id>
+   <title>Wir üben: u und l</title>
+   <newCharacters />
+   <text>nur nur nur nur nur nur use use use use use use nun nun nun
+nun nun nun neu neu neu neu neu neu gut gut gut gut gut gut
+run run run run run run cut cut cut cut cut cut let let let
+let let let lee lee lee lee lee lee sun sun sun sun sun sun
+gun gun gun gun gun gun tun tun tun tun tun tun uns uns uns
+uns uns uns leg leg leg leg leg leg ill ill ill ill ill ill
+les les les les les les lie lie lie lie lie lie lit lit lit
+lit lit lit tut tut tut tut tut tut sur sur sur sur sur sur
+nur nur use use nun nun neu neu gut gut run run cut cut let
+let lee lee sun sun gun gun tun tun uns uns leg leg ill ill
+les les lie lie lit lit tut tut sur sur tel tel eli eli sue
+teil teil teil teil neue neue neue neue less less less less
+line line line line gilt gilt gilt gilt list list list list
+uses uses uses uses neun neun neun neun rule rule rule rule
+tell tell tell tell true true true true turn turn turn turn
+runs runs runs runs stil stil stil stil legs legs legs legs
+girl girl girl girl trug trug trug trug sure sure sure sure
+gute gute gute gute cell cell cell cell user user user user
+unter unter unter until until until liegt liegt liegt still
+still still neuen neuen neuen titel titel titel using using
+using title title title tells tells tells teile teile teile</text>
+  </lesson>
+  <lesson>
+   <id>{63c33da6-6731-4f5c-9b65-27cfffe5b1d2}</id>
+   <title>Sicherheitstest für u und l </title>
+   <newCharacters />
+   <text>rlr rlr rln rln rlr rlr rls rls rlr rlr rlg rlg rlr rlr rle
+rlr rlr rli rlr rlt rlr rlr rlc rlr rlr iui iui iue iue iui
+iui iut iut iui iui iuc iuc iui iui iun iui iui iur iui ius
+iui iui iug iui iui lclt lile lnlr lslg leli ltlc lgls lrln
+lnlr lslg lclt lile lgls lrln leli ltlc ugus urun ueui utuc
+unur usug ucut uiue ueui utuc ugus urun ucut uiue unur usug
+lclt lile lnlr lslg leli ltlc lgls lrln lnlr lslg lclt lile
+lgls lrln leli ltlc ugus urun ueui utuc unur usug ucut uiue
+ueui utuc ugus urun ucut uiue unur usug ntu ntu iuu iuu cru
+nur nur use use nun nun neu neu gut gut run run cut cut let
+let lee lee sun sun gun gun tun tun uns uns leg leg ill ill
+les les lie lie lit lit tut tut sur sur tel tel eli eli sue
+sue cue cue nur nur use use nun nun neu neu gut gut run run
+teil teil neue neue less less line line gilt gilt list list
+uses uses neun neun rule rule tell tell true true turn turn
+runs runs stil stil legs legs girl girl trug trug sure sure
+gute gute cell cell user user else else unit unit guns guns
+unter unter until until liegt liegt still still neuen neuen
+titel titel using using single single erneut erneut little
+little title title stellt stellt result result liegen liegen
+tells tells teile teile regel regel stelle stelle insel
+insel linie linie census census return return eltern eltern
+selten selten lines lines rules rules neuer neuer cells
+cells neues neues units units leiter leiter letter letter
+liste liste legte legte teilen teilen unten unten teils
+teils issues issues gelten gelten issue issue titles titles
+guten guten gelegt gelegt linien linien users users girls</text>
+  </lesson>
+  <lesson>
+   <id>{af5ffa8c-0393-4e8a-8449-ab46fb88ac62}</id>
+   <title>Die Zeigefinger: a und h</title>
+   <newCharacters>ah</newCharacters>
+   <text>eae eae eae eae eae eae nhn nhn nhn nhn nhn nhn eae eae nhn
+nhn eae eae nhn nhn eae eae nhn nhn ean ean ean nhe nhe nhe
+ear ear ear nhi nhi nhi eas eas eas nht nht nht eag eag eag
+nhc nhc nhc eac eat eai eae nhg nhs nhr nhn eae eai eat eac
+nhn nhr nhs nhg eae eai eat eac nhn nhr nhs nhg hnh hnh hnh
+hnh hnh hnh aea aea aea aea aea aea hnh hnh aea aea hnh hnh
+aea aea hnh hnh aea aea hne hne hne aen aen aen hni hni hni
+aer aer aer hnt hnt hnt aes aes aes hnc hnc hnc aeg aeg aeg
+aca ata aia aea hgh hsh hrh hnh aea aia ata aca hnh hrh hsh
+hgh eae eae cah cah cah hec hec hec icah icah icah icah ecah
+sich sich sich sich that that that that auch auch auch auch
+nach nach nach nach this this this this than than than than
+ihre ihre ihre ihre then then then then each each each each
+area area area area sehr sehr sehr sehr alle alle alle alle
+such such such such last last last last hier hier hier hier
+high high high high near near near near lang lang lang lang</text>
+  </lesson>
+  <lesson>
+   <id>{032c13a0-fbe7-46c8-b496-25d2226d3393}</id>
+   <title>Wir üben: a und h </title>
+   <newCharacters />
+   <text>a als are as he an auch his aus at has her hat hatte all
+heute area alle august hier again against hatten age high
+art haus allen areas alten alter hinaus air hin acht aller
+heraus heutigen alte australia hit arten hielt health
+highest higher here hinter anlage hall ancient heiratete
+australian allein heart halten articles actress heinrich
+hans anteil hingegen act alles artist heutige artists
+anschluss hair acting angelegt hergestellt anna article asia
+ausstellung ausgetragen augen alt hill hurricane huge heat
+halle ausgestattet asian australien hause hits ha anlagen
+hurt height herstellung hersteller ausstellungen arts access
+heiligen angesehen angeles atlantic austrian agree
+architecture acts actual aussage austria annual hinten
+arthur herren angst hunting anne hearing haushalten ansicht
+hauses ausgerichtet haltung hielten heiraten hear auge
+hinein hitler assistant aussehen altar ausstattung ali
+heirat herrscher aussagen anteile alleine haut antrag
+ausgestrahlt herr herrn heer haushalte ausgestellt athleten
+hinteren heritage accurate agent austausch athletes antreten</text>
+  </lesson>
+  <lesson>
+   <id>{7e5a5049-ed27-436b-a520-b96a3df3ed20}</id>
+   <title>Sicherheitstest für a und h </title>
+   <newCharacters />
+   <text>the a sich als that are as he an auch his aus at nicht nach
+has this can their her she hat there hatte all than ihre
+then ihrer three ihn ihr later heute these each area sehr
+alle such ihren states august erhielt statt geschichte last
+large hier things again against state hatten english
+erhalten age high career art genannt steht near sechs lang
+change largest right trat language ihnen lassen haus
+errichtet lange allen erschien great late areas alten geht
+light alter hinaus erreichte schule start air lag erreicht
+tag stehen race sehen sea hin richtung general ihres acht
+gelang changes character car least aller either stage heraus
+certain characters east case tage heutigen gleichen reihe
+league cause chinese real alte australia ehe hit eher
+erreichen languages arten china leicht lage night literatur
+eat cases hielt range uhr length staaten health highest
+church eight higher rather schnell larger call earth nichts
+research sieht galt release here natural hinter gehen
+italian anlage liga hall ancient rang heiratete learn
+australian erschienen care charles central allein causes
+stuttgart heart stars halten ich russian la articles actress</text>
+  </lesson>
+  <lesson>
+   <id>{b38326fe-ea1e-4e6b-b5ee-21f1eacdb515}</id>
+   <title>Mehr Zeigefinger: o und b</title>
+   <newCharacters>ob</newCharacters>
+   <text>eoe eoe eoe eoe eoe eoe nbn nbn nbn nbn nbn nbn eoe eoe nbn
+nbn eoe eoe nbn nbn eoe eoe nbn nbn eob eob eob eon eon eon
+eoh eoh eoh eor eor eor eol eol eol eos eos eos eog eog eog
+nbo nbo nbo nbe nbe nbe nba nba nba nbi nbi nbi nbu nbu nbu
+nbt nbt nbt nbc nbc nbc oeo oeo oeo oeo oeo oeo bnb bnb bnb
+bnb bnb bnb oeo oeo bnb bnb oeo oeo bnb bnb oeo oeo bnb bnb
+oeb oeb oeb oen oen oen oeh oeh oeh oer oer oer oel oel oel
+oes oes oes oeg oeg oeg bno bno bno bne bne bne bna bna bna
+bni bni bni bnu bnu bnu bnt bnt bnt bnc bnc bnc eoe eoe oeo
+oeo nbn nbn bnb bnb eoa eoa oea oea nbh nbh bnh bnh eoi eoi
+oei oei nbr nbr bnr bnr eou eou oeu oeu nbl nbl bnl bnl eot
+eot oet oet nbs nbs bns bns eoc eoc oec oec nbg nbg bng bng
+also also also also noch noch noch noch aber aber aber aber
+been been been been into into into into gibt gibt gibt gibt
+born born born born long long long long both both both both
+ohne ohne ohne ohne song song song song soll soll soll soll
+best best best best sohn sohn sohn sohn habe habe habe habe
+bis bis bis bis not not not not bei bei bei bei one one one
+one but but but but out out out out gab gab gab gab ort ort
+ort ort got got got got lot lot lot lot son son son son too
+also also also also other other other other noch noch noch
+noch about about about about aber aber aber aber been been
+been been into into into into because because because
+because haben haben haben haben gibt gibt gibt gibt born
+born born born bereits bereits bereits bereits being being
+being being through through through through long long long
+long both both both both selbst selbst selbst selbst began</text>
+  </lesson>
+  <lesson>
+   <id>{cc5c0c4a-f324-406f-a6ea-1d1abfc77daf}</id>
+   <title>Wir üben: o und b</title>
+   <newCharacters />
+   <text>to to to on on on bis bis bis be be be not not not or or or
+also also also bei bei bei one one one but but but other
+other other noch noch noch about about about aber aber aber
+been been been into into into because because because so so
+so ab ab ab out out out citation citation citation haben
+haben haben gibt gibt gibt born born born no no no bereits
+bereits bereits being being being gab gab gab through
+through through long long long both both both selbst selbst
+selbst began began began season season season ohne ohne ohne
+begann begann begann october october october schon schon
+schon another another another song song song soll soll soll
+best best best sohn sohn sohn ort ort ort saison saison
+saison built built built british british british school
+school school countries countries countries go go go
+national national national together together together leben
+leben leben sollte sollte sollte blieb blieb blieb besteht
+besteht besteht thought thought thought got got got habe
+habe habe berlin berlin berlin starb starb starb south south
+south north north north lot lot lot son son son too too too
+bereich bereich bereich original original original those
+those those neben neben neben songs songs songs tochter
+tochter tochter along along along arbeitete arbeitete</text>
+  </lesson>
+  <lesson>
+   <id>{1bdb1b2d-4b93-492f-9810-4f03548007ec}</id>
+   <title>Sicherheitstest für o und b</title>
+   <newCharacters />
+   <text>to on bis be not or also bei one but other noch about aber
+been into because so ab out citation haben gibt born no
+bereits being gab through long both selbst began season ohne
+begann october schon another song soll best sohn ort saison
+built british school countries go national together leben
+sollte blieb besteht thought got habe berlin starb south
+north lot son too bereich original those neben songs tochter
+along arbeitete arbeit total short able though bau beginn
+innerhalb club role gebiet others station lost sieben local
+rolle control better big betrieb cannot house geboren longer
+region once election buch international going union enough
+strong close schrieb sogar goes ob council across burg
+although euro sollten soon arbeiten bisher actor brother
+hohen sollen color gebaut hohe stories battle social bietet
+lebten schools schloss college business ebenso court hoch
+george hours selben brought bestehen birth oben robert
+beginnt betrug besten angaben beginning reason
+internationalen liebe blieben gebracht our abschnitt
+besuchte roles goals ago lebt basis religious osten brachte</text>
+  </lesson>
+  <lesson>
+   <id>{6cfc068f-2176-4971-b2ae-cd4c2dd9b9d0}</id>
+   <title>Wichtige Buchstaben: x und p</title>
+   <newCharacters>xp</newCharacters>
+   <text>eae exe exe exe eae exe eae exe eae exe exe exe eae exe eae
+nhn npn npn npn nhn npn nhn npn nhn npn npn npn nhn npn nhn
+exc ext exi exe exo exc ext exi exe exo exc ext exi exe exo
+npg nps npr npn npb npg nps npr npn npb npg nps npr npn npb
+exb exp exn exh exr exl exs exg exb exp exn exh exr exl exs
+exg npo npx npe npa npi npu npt npc npo npx npe npa npi npu
+npt npc xox xex xax xix xux xtx xcx xox xex xax xix xux xtx
+xcx pbp pnp php prp plp psp pgp pbp pnp php prp plp psp pgp
+xbx xpx xnx xhx xrx xlx xsx xgx xbx xpx xnx xhx xrx xlx xsx
+xgx pop pxp pep pap pip pup ptp pcp pop pxp pep pap pip pup
+ptp pcp xeg xes xer xen xeg xes xer xen xeg xes xer xen xeg
+xes xer xer xer xer xib xib xib xer xer xer xib xib xib xer
+xer xer xte xte xte xcs xcs xcs xte xte xte xcs xcs xcs xte
+xte xte xer xib xte xcs xcs xte xib xer xer xib xte xcs xcs
+xte xib nhn npn npn npn nhn npn nhn npn nhn npn npn npn nhn
+npn nhn npg nps npr npg nps npr npg nps npr npg nps npr npg
+nps npr png pns pnr pne pni pnt pnc png pns pnr pne pni pnt
+pnc png iap iap iap pis pis pis iap pis iap pis iap pis iap
+pis iap</text>
+  </lesson>
+  <lesson>
+   <id>{0bda30f4-1f96-4b59-99c8-45831bc17dbb}</id>
+   <title>Wir üben: x und p</title>
+   <newCharacters />
+   <text>people people part part place place person person population
+population popular popular parts parts personen personen put
+put public public point point pro pro places places
+political political politician politician possible possible
+per per points points parents parents position position
+press press police police process process politischen
+politischen partei partei plants plants peter peter present
+present politische politische past past plant plant prison
+prison poor poor pieces pieces paris paris paul paul piece
+piece painting painting plan plan paper paper plane plane
+prince prince preis preis protect protect pressure pressure
+picture picture particular particular pass pass patienten
+patienten personal personal purpose purpose page page piano
+piano praxis praxis paintings paintings polen polen politics
+politics passengers passengers plans plans post post
+practice practice pair pair parallel parallel parties</text>
+  </lesson>
+  <lesson>
+   <id>{342e0451-5860-49ca-b119-56c65375550d}</id>
+   <title>Sicherheitstest für x und p</title>
+   <newCharacters />
+   <text>people up part group place person april population popular
+help next parts personen species top put gruppe public
+groups spielte special point pro spieler six places spiel
+political politician europe capital europa possible beispiel
+european support per open points parents position press stop
+police cup space process politischen sprache spiele spanish
+truppen partei plants gruppen peter present politische past
+plant sports prison spielt spielen poor pieces separate
+paris republic spent paul happens tropical shape ship piece
+helps except copies entspricht relationship appear troops
+happen painting plan paper upon appears exist sex plane
+prince preis protect appearance existiert pressure spain
+text split super sexual couple ships picture particular pass
+patienten geplant opera personal purpose box spricht page
+piano praxis paintings polen spielten gespielt opening
+escape politics responsible passengers existieren texte
+upper plans extra operation post practice airport pair
+parallel parties experience sprachen spanien price port
+parteien pictures apart texas speech opposite path report
+peace paar percent republican step pages positions sixth
+hospital sport represents philosophie represent concept
+prisoners phase anspruch operating partner spot replace
+patients capture schauspieler presse bishop captain response
+planet properties posten sleep spring particles polish prix
+corporation persons pattern exact sprechen opponent approach</text>
+  </lesson>
+  <lesson>
+   <id>{34d8ecdf-b108-4092-8df1-e2c942e46b7d}</id>
+   <title>Neue Buchstaben: ä und z</title>
+   <newCharacters>äz</newCharacters>
+   <text>eae eäe eäe eäe eae eäe eäe eäe eae eäe eäe eäe nhn nzn nzn
+nzn nhn nzn nzn nzn nhn nzn nzn nzn eäe eäg eäs eär eän eäb
+nzn nzc nzt nzi nze nzo eäe eäg eäs eär eän eäb nzn nzc nzt
+nzi nze nzo eän eär eäl eäh eäp eäb nze nzi nzu nza nzx nzo
+eän eär eäl eäh eäp eäb nze nzi nzu nza nzx nzo aea äeä äeä
+äeä aea äeä äeä äeä aea äeä äeä äeä hnh znz znz znz hnh znz
+znz znz hnh znz znz znz äeä äeg äes äer äen äeb znz znc znt
+zni zne zno äeä äeg äes äer äen äeb znz znc znt zni zne zno
+äen äer äel äeh äep äeb zne zni znu zna znx zno äen äer äel
+äeh äep äeb zne zni znu zna znx zno ääh ääp ääb ään zza zzx
+zzo zze ääa ääx ääo ääe zzh zzp zzb zzn ääh ääp ääb ään zza
+zzx zzo zze ääa ääx ääo ääe zzh zzp zzb zzn äiuzxegeu
+zu zu zur zur zeit zeit zunächst zunächst zahlreiche
+zahlreiche zeigt zeigt zehn zehn ziel ziel zog zog zahl zahl
+zahlreichen zahlreichen zuge zuge zeigen zeigen zusätzlich
+zusätzlich zeitung zeitung zuletzt zuletzt ähnlich ähnlich
+zählt zählt älteren älteren zugleich zugleich zeigte zeigte
+älteste älteste zugang zugang zeiten zeiten zuschauer
+zuschauer zieht zieht zeichen zeichen z z zugänglich
+zugänglich zusätzliche zusätzliche ziehen ziehen zuerst
+zuerst zählte zählte zug zug ziele ziele zogen zogen zählen
+zählen ältesten ältesten zentralen zentralen ältere ältere
+zahlreicher zahlreicher zahlen zahlen zentrale zentrale zero
+zero zugelassen zugelassen zugunsten zugunsten zeichnungen
+zeichnungen zone zone zeigten zeigten zusätzlichen
+zusätzlichen ähnliche ähnliche zellen zellen zulassung
+zulassung zeitungen zeitungen zeugen zeugen ähnlichen
+ähnlichen älter älter zuschauern zuschauern zähne zähne</text>
+  </lesson>
+  <lesson>
+   <id>{8d951e41-6106-49e2-8ae8-d84a95c6f815}</id>
+   <title>Wir üben: ä und z</title>
+   <newCharacters />
+   <text>zu zu zur zur zeit zeit später später zunächst zunächst
+platz platz letzten letzten bezeichnet bezeichnet tätig
+tätig zahlreiche zahlreiche genutzt genutzt lässt lässt
+prozent prozent eingesetzt eingesetzt zeigt zeigt einsatz
+einsatz zehn zehn ziel ziel letzte letzte size size setzte
+setzte zog zog länge länge zahl zahl ganz ganz bezeichnung
+bezeichnung einzelnen einzelnen beträgt beträgt nächsten
+nächsten anzahl anzahl einzige einzige besitzt besitzt
+ersetzt ersetzt zahlreichen zahlreichen nähe nähe besitz
+besitz gegensatz gegensatz trägt trägt leipzig leipzig
+erzielte erzielte enthält enthält hätte hätte hauptsächlich
+hauptsächlich trotz trotz polizei polizei setzt setzt
+gleichzeitig gleichzeitig geprägt geprägt sitz sitz zuge
+zuge zeigen zeigen zusätzlich zusätzlich gezeigt gezeigt
+zeitung zeitung hätten hätten europäischen europäischen
+grenze grenze hält hält häuser häuser ganze ganze nahezu
+nahezu zuletzt zuletzt schutz schutz späteren späteren
+besitzen besitzen ähnlich ähnlich zählt zählt spitze spitze
+gesetz gesetz nutzung nutzung organization organization
+älteren älteren zugleich zugleich beziehung beziehung
+spielzeit spielzeit zeigte zeigte beiträge beiträge älteste
+älteste szene szene zugang zugang hinzu hinzu tatsächlich
+tatsächlich zeiten zeiten erhält erhält ausgezeichnet
+ausgezeichnet benutzt benutzt zuschauer zuschauer prozess
+prozess einzelne einzelne zieht zieht zeichen zeichen
+bezeichnete bezeichnete einzigen einzigen länger länger</text>
+  </lesson>
+  <lesson>
+   <id>{e7931dea-11ed-48c0-95e2-1f7bca026e22}</id>
+   <title>Sicherheitstest für ä und z</title>
+   <newCharacters />
+   <text>zu zur zeit später zunächst platz letzten bezeichnet tätig
+zahlreiche genutzt lässt prozent eingesetzt zeigt einsatz
+zehn ziel letzte size setzte zog länge zahl ganz bezeichnung
+einzelnen beträgt nächsten anzahl einzige besitzt ersetzt
+zahlreichen nähe besitz gegensatz trägt leipzig erzielte
+enthält hätte hauptsächlich trotz polizei setzt gleichzeitig
+geprägt sitz zuge zeigen zusätzlich gezeigt zeitung hätten
+europäischen grenze hält häuser ganze nahezu zuletzt schutz
+späteren besitzen ähnlich zählt spitze gesetz nutzung
+organization älteren zugleich beziehung spielzeit zeigte
+beiträge älteste szene zugang hinzu tatsächlich zeiten
+erhält ausgezeichnet benutzt zuschauer prozess einzelne
+zieht zeichen bezeichnete einzigen länger sozialen z gesetzt
+ganzen prize zugänglich zusätzliche bezug besitzer
+beziehungen unabhängig nutzen soziale späten ziehen zuerst
+besetzt holz zählte zug bestätigt erzählt ergänzt täglich
+elizabeth besetzung ziele citizens grenzen geschätzt bezieht
+häusern zogen besatzung arzt zählen sänger ältesten sizes
+zentralen hochzeit blätter begrenzt satz pläne letztlich
+prinzip spätere ältere plätze täter erhältlich zahlreicher
+erzielt präsentiert beigesetzt herzog netz zahlen existenz
+näher längere zentrale brazil einsätzen szenen abhängig zero
+bronze spezielle setzen nutzte bezogen anhänger regulären
+längeren hängt erzeugt zugelassen zugunsten citizen
+organizations zeichnungen gezogen nutzt gezählt gespräch
+zone prinz salzburg nächste setzten sitze zeigten
+zusätzlichen speziell ähnliche sängerin europäische einziger
+letztes säulen zellen spielzeiten schlagzeuger träger
+beziehen auszeichnung einsätze geräte prozesse anlässlich
+schlägt spätestens zulassung ausgesetzt zeitungen
+unabhängige gäste erzählungen erzielen letzter einzeln
+nutzer neuzeit bauzeit gerät polizisten plänen betätigte
+czech zeugen herz ähnlichen älter hierzu popularität</text>
+  </lesson>
+  <lesson>
+   <id>{b17b2d6f-22dd-4c45-b3c0-eef204b2b14c}</id>
+   <title>Neue Buchstaben: ö und y</title>
+   <newCharacters>öy</newCharacters>
+   <text>eäe eöe eöe eöe eäe eöe eöe eöe eäe eöe eöe eöe nzn nyn nyn
+nyn nzn nyn nyn nyn nzn nyn nyn nyn eäe eöe eoe eöe eäe eöe
+eoe nzn nyn nbn nyn nzn nyn nnb eöe nyn eöe nyn eöe nyn eöe
+nyn eöe nyn eöh eöp eöb eöy eöz eön nya nyx nyo nyö nyä nye
+eöz eöy eöb eöp eöh eön nyä nyö nyo nyx nya nye äeä öeö öeö
+öeö äeä öeö öeö öeö äeä öeö öeö öeö znz yny yny yny znz yny
+yny yny znz yny yny yny äeä öeö oeo öeö äeä öeö oeo znz yny
+bnb yny znz yny bnb öeö yny öeö yny öeö yny öeö yny öeö yny
+öeh öep öeb öey öez öen yna ynx yno ynö ynä yne öez öey öeb
+öep öeh öen ynä ynö yno ynx yna yne ctie eoöä gsrn nbyz ctie
+oöäe gsrn byzn ctie eäöo gsrn nzyb ctie äöoe gsrn zybn eöe
+years years years year year year you you you young young
+young your your your österreich österreich österreich yet
+yet yet younger younger younger östlichen östlichen
+östlichen östlich östlich östlich youngest youngest youngest
+youth youth youth österreichischen österreichischen
+österreichischen örtlichen örtlichen örtlichen
+österreichische österreichische österreichische östliche
+östliche östliche y y y öl öl öl örtliche örtliche örtliche
+youtube youtube youtube österreichs österreichs österreichs
+yes yes yes yale yale yale österreicher österreicher
+österreicher yearly yearly yearly österreichischer
+österreichischer österreichischer yang yang yang östlicher
+östlicher östlicher years years years year year year you you
+you young young young your your your österreich österreich
+österreich yet yet yet younger younger younger östlichen
+östlichen östlichen östlich östlich östlich youngest
+youngest youngest youth youth youth österreichischen
+österreichischen österreichischen örtlichen örtlichen
+örtlichen österreichische österreichische österreichische
+östliche östliche östliche y y y öl öl öl örtliche örtliche
+örtliche youtube youtube youtube österreichs österreichs
+österreichs yes yes yes yale yale yale österreicher
+österreicher österreicher yearly yearly yearly
+österreichischer österreichischer österreichischer yang yang</text>
+  </lesson>
+  <lesson>
+   <id>{8b898e6d-6934-4ced-82f9-1c57fd11fc97}</id>
+   <title>Wir üben: ö und y</title>
+   <newCharacters />
+   <text>by by by they they they years years years only only only
+city city city year year year usually usually usually any
+any any early early early century century century play play
+play you you you country country country player player
+player history history history story story story young young
+young type type type say say say gehörte gehörte gehörte
+playing playing playing players players players höhe höhe
+höhe types types types party party party says says says
+gehört gehört gehört style style style energy energy energy
+county county county category category category plays plays
+plays especially especially especially gehören gehören
+gehören currently currently currently try try try society
+society society originally originally originally your your
+your zerstört zerstört zerstört österreich österreich
+österreich henry henry henry royal royal royal generally
+generally generally theory theory theory really really
+really probably probably probably nearly nearly nearly stay
+stay stay trying trying trying pay pay pay actually actually
+actually ability ability ability easily easily easily eyes
+eyes eyes getötet getötet getötet anything anything anything
+easy easy easy italy italy italy höchste höchste höchste
+territory territory territory nearby nearby nearby boy boy
+boy söhne söhne söhne yet yet yet gehörten gehörten gehörten
+saying saying saying buy buy buy happy happy happy carry
+carry carry physical physical physical younger younger
+younger höheren höheren höheren baby baby baby secretary
+secretary secretary bayern bayern bayern property property
+property bay bay bay recently recently recently layer layer
+layer erhöht erhöht erhöht prey prey prey höher höher höher
+harry harry harry technology technology technology höchsten
+höchsten höchsten slightly slightly slightly lösung lösung
+lösung policy policy policy östlichen östlichen östlichen
+hören hören hören oxygen oxygen oxygen anyone anyone anyone
+highly highly highly boys boys boys höhere höhere höhere</text>
+  </lesson>
+  <lesson>
+   <id>{29f7a244-0681-438b-8b1d-5057bb73c60c}</id>
+   <title>Sicherheitstest für ö und y</title>
+   <newCharacters />
+   <text>by they years only city year usually any early century play
+you country player history story young type say gehörte
+playing players höhe types party says gehört style energy
+county category plays especially gehören currently try
+society originally your zerstört österreich henry royal
+generally theory really probably nearly stay trying pay
+actually ability easily eyes getötet anything easy italy
+höchste territory nearby boy söhne yet gehörten saying buy
+happy carry physical younger höheren baby secretary bayern
+property bay recently layer erhöht prey höher harry
+technology höchsten slightly lösung policy östlichen hören
+oxygen anyone highly boys höhere library typical östlich
+poetry angry security typ styles löste eye lyrics exactly
+töchter particularly zerstörung youngest supply necessary
+popularity rarely personality lay colony percy youth closely
+egyptian analysis typically benötigt österreichischen egypt
+entirely reality persönlichen guilty partly örtlichen nötig
+copy philosophy cycle healthy electricity authority stanley
+göttingen capacity analyse töten largely regularly tiny
+persönliche höhle typischen shortly carrying taylor possibly
+österreichische treaty östliche persönlich religiösen holy
+surgery roughly erhöhte plötzlich lösungen religiöse
+properly physics layers anthony y tony apply prayer
+psychology opportunity lösen thirty typs artillery clearly
+responsibility penalty initially greatly gay zerstörten
+benötigten stays angehörigen erhöhung ray grey agency
+psychologie biology laboratory literally erhöhen abgelöst
+tötet zeitgenössischen zerstörte currency strongly seriously
+gray entry billy öl literary literacy gary constituency
+synagoge bayerischen hört therapy beauty battery ryan pretty
+sexually loyal naturally hölzerne örtliche zerstören ägypten
+schönen prototyp höhen internationally correctly
+historically unhappy pregnancy nancy buying roy trophy
+anhöhe söhnen typische belly array ancestry gregory barry
+paying partially occasionally lays youtube attorney busy
+possibility secretly gallery larry benötigen störungen</text>
+  </lesson>
+  <lesson>
+   <id>{9768f3cc-dab8-4b64-ad79-44973e47a557}</id>
+   <title>Wir wiederholen viele Wörter</title>
+   <newCharacters />
+   <text>the in to a is zu sich ist als er on that are eine as ein by
+he an it auch his aus bis sie at be nicht nach einer not or
+has also bei es they people this einen can one zur their but
+nur other her noch she about hat seiner aber there seine
+hatte unter been its all into sein than years only eines
+zeit because up so ab ersten ihre out citation part seinen
+haben then seit gegen until ihrer später gibt use three ihn
+ihr born erste later heute no bereits these city year each
+being area sehr teil gab alle through long usually such
+ihren get both selbst group began place liegt neue sei
+series any still person april season states ohne august
+erhielt zunächst since statt geschichte begann october last
+large schon population hier things another platz neuen nun
+song soll best erst sohn einige ort early saison again
+against century built state british school play popular you
+ins hatten countries go english national country together
+leben erhalten sollte player history help blieb seines age
+letzten titel high using next career besteht parts art
+genannt ging personen species single steht thought got story
+see habe s top berlin starb put near south sechs lang north
+lot change eigenen largest son bezeichnet set less right
+gruppe too seen trat bereich original neu those neben line
+tätig public gilt language songs tochter young ihnen along
+lassen arbeitete arbeit haus errichtet groups spielte erneut
+total lange allen short seite able zahlreiche though bau
+beginn genutzt erschien innerhalb great late club areas role
+gebiet lässt prozent others alten special type eingesetzt
+station lost geht light say point pro gehörte spieler alter
+six zeigt hinaus erreichte schule start air playing sieben
+lag local places rolle players control höhe better spiel
+erreicht big einsatz eigene betrieb tag cannot gut little
+zehn house ziel types current letzte stehen political size
+title politician setzte geboren party race sehen run says
+list sea hin richtung longer region gehört once stellte sent
+general ihres europe capital acht uses gets stellt gelang
+europa election possible buch beispiel regierung
+international changes european character car least going
+union aller support enough either style strong result liegen
+einigen zog stage heraus certain länge characters close east
+zahl case ganz energy tage per open points schrieb heutigen
+sogar goes parents county ob gleichen reihe council across
+burg nie league bezeichnung although cause position euro
+sollten chinese tells press soon einzelnen beträgt arbeiten
+stop serie police real alte bisher actor brother hohen
+nächsten teile australia ehe hit eher anzahl sollen</text>
+  </lesson>
+  <lesson>
+   <id>{9b65af70-e780-45f9-9955-5d602b874d44}</id>
+   <title>Wir wiederholen alle Buchstaben</title>
+   <newCharacters />
+   <text>eee aaa xxx ooo ööö äää nnn hhh ppp bbb yyy zzz äää ööö ooo
+xxx aaa eee zzz yyy bbb ppp hhh nnn eea eex eeo eeö eeä nnh
+nnp nnb nny nnz eeä eeö eeo eex eea nnz nny nnb nnp nnh
+eaxoöäe nhpbyzn aae xxe ooe ööe ääe hhn ppn bbn yyn zzn ääe
+ööe ooe xxe aae zzn yyn bbn ppn hhn eäöoxae nzybphn eae exe
+eoe eöe eäe nhn npn nbn nyn nzn eäe eöe eoe exe eae nzn nyn
+nbn npn nhn eaxoöäe nhpbyzn eae exe eoe eöe eäe nhn npn nbn
+nyn nzn eäe eöe eoe exe eae nzn nyn nbn npn nhn eaxoöäe
+nhpbyzn eee aaa xxx ooo ööö äää nnn hhh ppp bbb yyy zzz äää
+ööö ooo xxx aaa eee zzz yyy bbb ppp hhh nnn eae exe eoe eöe
+eäe nhn npn nbn nyn nzn eäe eöe eoe exe eae nzn nyn nbn npn
+nhn eaxoöäe nhpbyzn ctieouaxäö gsrnlhpzy ctieouaxäö
+gsrnlhpzy ctiuaxoöäeitc gsrlhpbyznrsg ctieäöoxauitc
+gsrnzybphlrsg öäoeitcxau yzbnrsgphl uaxctieoäö lhpgsrnbzy
+xauoeitcöä phlbnrsgyz äöctieouax zygsrnblhp</text>
+  </lesson>
+  <lesson>
+   <id>{fa7abfa1-318f-4ded-a2e6-73bd46bbb6c4}</id>
+   <title>Neues Satzzeichen: , das Komma</title>
+   <newCharacters>,</newCharacters>
+   <text>nzn r,r r,r r,r r,r r,r r,r r,c r,t r,i r,e r,g r,s r,r r,n
+r,c r,t r,i r,e r,g r,s r,r r,n r,n r,r r,s r,g r,e r,i r,t
+r,c r,n r,r r,s r,g r,e r,i r,t r,c r,r r,r r,r r,r r,r r,r
+the, the, the, the, in, in, in, in, to, to, to, to, is, is,
+is, is, zu, zu, zu, zu, sich, sich, sich, sich, ist, ist,
+ist, ist, als, als, als, als, er, er, er, er, on, on, on, on
+that, that, that, that, are, are, are, are, eine, eine, eine
+eine, as, as, as, as, ein, ein, ein, ein, by, by, by, by, he
+he, he, he, an, an, an, an, it, it, it, it, auch, auch, auch
+auch, his, his, his, his, aus, aus, aus, aus, bis, bis, bis,
+the, in, to, a, is, zu, sich, ist, als, er, on, that, are,
+eine, as, ein, by, he, an, it, auch, his, aus, bis, sie, at,
+be, nicht, nach, einer, not, or, has, also, bei, es, they,
+people, this, einen, can, one, zur, their, but, nur, other,
+her, noch, she, about, hat, seiner, aber, there, seine,
+hatte, unter, been, its, all, into, sein, than, years, only,
+eines, zeit, because, up, so, ab, ersten, ihre, out,
+citation, part, seinen, haben, then, seit, gegen, until,
+ihrer, später, gibt, use, three, ihn, ihr, born, erste,
+later, heute, no, bereits, these, city, year, each, being,
+area, sehr, teil, gab, alle, through, long, usually, such,
+ihren, get, both, selbst, group, began, place, liegt, neue,</text>
+  </lesson>
+  <lesson>
+   <id>{b3a6c572-ab07-4597-8aff-f937b7dd8774}</id>
+   <title>Wir üben das Komma</title>
+   <newCharacters />
+   <text>being, area, sehr, teil, gab, alle, through, long, usually,
+such, ihren, get, both, selbst, group, began, place, liegt,
+neue, sei, series, any, still, person, april, season, states
+ohne, august, erhielt, zunächst, since, statt, geschichte,
+begann, october, last, large, schon, population, hier,
+things, another, platz, neuen, nun, song, soll, best, erst,
+sohn, einige, ort, early, saison, again, against, century,
+built, state, british, school, play, popular, you, ins,
+hatten, countries, go, english, national, country, together,
+leben, erhalten, sollte, player, history, help, blieb,
+seines, age, letzten, titel, high, using, next, career,
+besteht, parts, art, genannt, ging, personen, species,
+single, steht, thought, got, story, see, habe, s, top,
+berlin, starb, put, near, south, sechs, lang, north, lot,
+change, eigenen, largest, son, bezeichnet, set, less, right,
+gruppe, too, seen, trat, bereich, original, neu, those,
+neben, line, tätig, public, gilt, language, songs, tochter,
+young, ihnen, along, lassen, arbeitete, arbeit, haus,
+errichtet, groups, spielte, erneut, total, lange, allen,
+short, seite, able, zahlreiche, though, bau, beginn, genutzt
+erschien, innerhalb, great, late, club, areas, role, gebiet,
+lässt, prozent, others, alten, special, type, eingesetzt,
+station, lost, geht, light, say, point, pro, gehörte,
+spieler, alter, six, zeigt, hinaus, erreichte, schule, start
+air, playing, sieben, lag, local, places, rolle, players,
+control, höhe, better, spiel, erreicht, big, einsatz, eigene
+betrieb, tag, cannot, gut, little, zehn, house, ziel, types,
+current, letzte, stehen, political, size, title, politician,
+setzte, geboren, party, race, sehen, run, says, list, sea,
+hin, richtung, longer, region, gehört, once, stellte, sent,
+general, ihres, europe, capital, acht, uses, gets, stellt,
+gelang, europa, election, possible, buch, beispiel,
+regierung, international, changes, european, character, car,
+least, going, union, aller, support, enough, either, style,
+strong, result, liegen, einigen, zog, stage, heraus, certain
+länge, characters, close, east, zahl, case, ganz, energy,
+tage, per, open, points, schrieb, heutigen, sogar, goes,
+parents, county, ob, gleichen, reihe, council, across, burg,
+nie, league, bezeichnung, although, cause, position, euro,
+sollten, chinese, tells, press, soon, einzelnen, beträgt,
+arbeiten, stop, serie, police, real, alte, bisher, actor,</text>
+  </lesson>
+  <lesson>
+   <id>{cfd12869-8323-4de4-ab45-f2c51dc61e4e}</id>
+   <title>Neues Satzzeichen: . der Punkt</title>
+   <newCharacters>.</newCharacters>
+   <text>nzn r,r s.s s.s s.s s.s s.s s.s s.c s.t s.i s.e s.g s.s s.n
+s.r s.c s.t s.i s.e s.g s.s s.r s.n znz ,r, .s. nzn r,r s.s
+s.e s.i s.t s.c s.n s.r s.s s.g s.e s.i s.t s.c s.n s.r s.s
+liga. liga. liga. liga. true. true. true. true. hall. hall.
+hall. hall. rang. rang. rang. rang. our. our. our. our. care
+care. care. care. tree. tree. tree. tree. ago. ago. ago. ago
+lebt. lebt. lebt. lebt. poor. poor. poor. poor. turn. turn.
+turn. turn. cut. cut. cut. cut. sitz. sitz. sitz. sitz. zuge
+zuge. zuge. zuge. stay. stay. stay. stay. blue. blue. blue.
+blue. ich. ich. ich. ich. la. la. la. la. runs. runs. runs.
+see. habe. s. top. berlin. starb. put. near. south. sechs.
+lang. north. lot. change. eigenen. largest. son. bezeichnet.
+set. less. right. gruppe. too. seen. trat. bereich. original
+neu. those. neben. line. tätig. public. gilt. language.</text>
+  </lesson>
+  <lesson>
+   <id>{7011646a-9e71-4141-9c64-5a603653f0c4}</id>
+   <title>Wir üben den Punkt</title>
+   <newCharacters />
+   <text>höhe. better. spiel. erreicht. big. einsatz. eigene. betrieb
+tag. cannot. gut. little. zehn. house. ziel. types. current.
+letzte. stehen. political. ca.. size. title. politician.
+setzte. geboren. party. race. sehen. run. says. list. sea.
+hin. richtung. longer. region. gehört. once. stellte. sent.
+general. ihres. europe. capital. acht. uses. gets. u..
+stellt. gelang. europa. election. possible. buch. beispiel.
+regierung. international. changes. european. character. car.
+least. going. union. st.. aller. support. enough. either.
+style. strong. result. liegen. einigen. zog. stage. heraus.
+certain. länge. characters. close. east. zahl. case. ganz.
+energy. tage. per. open. points. schrieb. heutigen. sogar.
+goes. parents. county. ob. gleichen. reihe. council. across.
+a.. burg. z.. nie. league. bezeichnung. although. cause.
+position. euro. sollten. chinese. tells. press. soon.
+einzelnen. beträgt. arbeiten. stop. serie. police. real.
+alte. bisher. actor. brother. hohen. nächsten. teile.
+australia. ehe. hit. eher. anzahl. sollen. erreichen.
+languages. einzige. arten. regel. category. color. besitzt.
+cup. china. stelle. leicht. gebaut. plays. space. hohe.
+stories. lage. process. seien. night. literatur. insel.
+center. battle. eat. cases. ersetzt. hielt. politischen.
+range. linie. social. uhr. seiten. bietet. lebten. length.
+rest. staaten. cities. health. neun. zahlreichen. especially</text>
+  </lesson>
+  <lesson>
+   <id>{f432dea8-0e1b-4393-a96a-44025a924662}</id>
+   <title>Sicherheitstest</title>
+   <newCharacters />
+   <text>council. across, a.. burg. z., nie, league. bezeichnung.
+although. cause, position, euro, sollten, chinese. tells,
+press. soon, einzelnen. beträgt, arbeiten. stop. serie,
+police. real, alte, bisher. actor. brother, hohen. nächsten.
+teile, australia. ehe. hit, eher. anzahl. sollen. erreichen.
+languages, einzige, arten, regel, category, color. besitzt,
+cup. china. stelle. leicht. gebaut. plays. space, hohe.
+stories, lage. process. seien. night, literatur, insel.
+center, battle, eat, cases. ersetzt. hielt. politischen,
+range. linie, social. uhr. seiten. bietet, lebten, length,
+rest. staaten, cities, health, neun, zahlreichen, especially
+census. schools, ten, highest. nähe. church. schloss, eight.
+college, higher, stieg. gehören, business. ebenso, court,
+return. nr., sprache. spiele, rather. spanish. hoch,
+currently, schnell. truppen, george, hours, partei, larger.
+selben. call. rule. try. brought, singer. society. earth,
+nichts. site. research, originally, your, besitz. plants,
+gruppen, sieht. bestehen. success. birth. galt, peter.
+zerstört. oben, release, present. robert. österreich,
+gegensatz, here. politische, beginnt. natural, trägt, hinter
+betrug. past. eltern. leipzig. besten, gehen. henry. royal,
+angaben. italian. erster, plant. beginning, anlage, erzielte
+tell, sports. reason. green. liga. true. prison, hall.
+ancient. rang. enthält, hätte, internationalen. hrsg.,
+heiratete, culture, generally, eingestellt, hauptsächlich,
+liebe, selten. learn. blieben, gebracht, gestellt, trotz.
+gingen, australian, our. abschnitt, besuchte. tiere. science
+erschienen, care, lines. rules. polizei, spielt, tree,
+charles. central, roles. theory, allein, setzt, goals.
+causes. rennen, ago, gleichzeitig. lebt, stuttgart. spielen.
+really, poor. basis. geprägt. heart. pieces. probably. neuer
+separate. religious. stars. turn. osten. brachte. nearly.</text>
+  </lesson>
+  <lesson>
+   <id>{3eff4592-6f11-40a2-8293-41a4aab70cdb}</id>
+   <title>Wir wiederholen</title>
+   <newCharacters />
+   <text>iui rlr eae nhn exe npn eoe nbn eäe nzn eöe nyn r,r s.s iui
+exeöe npnyn exeöe npnyn exeöe npnyn exeöe npnyn exeöe npnyn
+iui rlr eae nhn exe npn eoe nbn eäe nzn eöe nyn r,r s.s iui
+exeöe npnyn exeöe npnyn exeöe npnyn exeöe npnyn exeöe npnyn
+the in to a is zu sich ist als er on that are eine as ein by
+he an it auch his aus bis sie at be nicht nach einer not or
+has also bei. es they people, this einen can, one zur their
+but nur other her noch she. about hat seiner aber there.
+seine hatte unter been its all into sein than years only
+eines zeit because up so ab, ersten. ihre out, citation part
+seinen haben then seit gegen until ihrer, später gibt use
+three ihn ihr born erste later heute no bereits these city
+year each, being area sehr teil gab alle through long
+usually such ihren get both selbst group began place liegt,
+neue sei series any still person april, season states ohne
+august erhielt zunächst since. statt. geschichte begann
+october last large schon population hier things, another
+platz neuen. nun song soll best, erst sohn einige ort early
+saison again against century built state, british school
+play popular you ins hatten countries go english national
+country together leben erhalten sollte player history help
+blieb seines age letzten titel, high using next career
+besteht parts art genannt ging personen. species single
+steht thought got story see habe s top berlin starb put,
+near south sechs lang north lot change eigenen largest son
+bezeichnet. set, less right gruppe too seen trat bereich
+original neu those neben line tätig public gilt language
+songs tochter young ihnen along lassen p. arbeitete arbeit
+haus errichtet groups spielte, erneut total lange allen
+short seite able zahlreiche though bau, beginn genutzt,
+erschien innerhalb great late club areas role, gebiet lässt
+prozent others alten special type eingesetzt station lost
+geht light say point pro gehörte spieler alter six zeigt
+hinaus erreichte schule start air playing sieben lag local
+places rolle players control höhe better spiel erreicht big
+einsatz. eigene betrieb, tag cannot gut little zehn house
+ziel types. current letzte stehen political ca. size title
+politician setzte geboren party race sehen run says list sea
+hin. richtung longer region. gehört once stellte sent
+general ihres europe capital. acht uses gets u. stellt
+gelang europa election possible, buch. beispiel regierung
+international changes european. character car least going.
+union st.. aller. support enough either style, strong result
+liegen einigen, zog stage heraus certain länge characters
+close east zahl case ganz energy tage per open points
+schrieb heutigen sogar goes parents county. ob gleichen
+reihe council across a. burg z. nie, league bezeichnung
+although cause position euro sollten. chinese tells press
+soon. einzelnen beträgt arbeiten stop. serie police real
+alte bisher actor brother hohen nächsten teile australia.
+ehe hit eher, anzahl sollen erreichen languages einzige
+arten regel category color besitzt cup china stelle leicht
+gebaut plays space hohe stories lage process seien night
+literatur insel center battle eat cases ersetzt hielt
+politischen range linie social uhr seiten bietet lebten,
+length rest staaten cities health neun zahlreichen
+especially census schools ten highest nähe church schloss
+eight college higher stieg gehören business ebenso court
+return nr. sprache spiele rather spanish hoch currently,
+schnell truppen george hours partei larger selben call rule
+try brought singer society, earth nichts site research
+originally your besitz plants gruppen sieht bestehen success
+birth galt peter zerstört oben release present robert
+österreich gegensatz here politische beginnt natural trägt
+hinter betrug past eltern leipzig besten gehen henry royal
+angaben italian erster plant beginning anlage erzielte tell
+sports reason green liga true prison hall ancient rang
+enthält, hätte internationalen hrsg. heiratete culture,
+generally eingestellt hauptsächlich liebe selten learn
+blieben gebracht gestellt trotz. gingen australian our
+abschnitt besuchte tiere science erschienen care lines rules
+polizei spielt tree charles. central roles, theory allein
+setzt goals. causes rennen ago gleichzeitig lebt stuttgart
+spielen really poor basis geprägt heart pieces, probably
+neuer separate religious stars turn osten brachte nearly</text>
+  </lesson>
+  <lesson>
+   <id>{cd94a6c9-c8e4-45de-a90c-3955a3c9b55f}</id>
+   <title>Linker Umschalter</title>
+   <newCharacters>BHPLRGSYNZ</newCharacters>
+   <text>Nen Nin Ntn Ncn Non Nxn Nan Nun Nön Nän Nen Nin Ntn Ncn Non
+Nxn Nan Nun Nön Nän Rer Rir Rtr Rcr Ror Rxr Rar Rur Rör Rär
+Rer Rir Rtr Rcr Ror Rxr Rar Rur Rör Rär Ses Sis Sts Scs Sos
+Sxs Sas Sus Sös Säs Ses Sis Sts Scs Sos Sxs Sas Sus Sös Säs
+Geg Gig Gtg Gcg Gog Gxg Gag Gug Gög Gäg Geg Gig Gtg Gcg Gog
+Gxg Gag Gug Gög Gäg Beb Bib Btb Bcb Bob Bxb Bab Bub Böb Bäb
+Beb Bib Btb Bcb Bob Bxb Bab Bub Böb Bäb Yey Yiy Yty Ycy Yoy
+Yxy Yay Yuy Yöy Yäy Yey Yiy Yty Ycy Yoy Yxy Yay Yuy Yöy Yäy
+Zez Ziz Ztz Zcz Zxz Zaz Zuz Zöz Zäz Zez Ziz Ztz Zcz Zxz Zaz
+Zuz Zöz Zäz Pep Pip Ptp Pcp Pop Pxp Pap Pup Pöp Päp Pep Pip
+Ptp Pcp Pop Pxp Pap Pup Pöp Päp Heh Hih Hth Hch Hoh Hxh Hah
+Huh Höh Häh Heh Hih Hth Hch Hoh Hxh Hah Huh Höh Häh Lel Lil
+Ltl Lcl Lol Lxl Lal Lul Löl Läl Lel Lil Ltl Lcl Lol Lxl Lal
+He He He He She She She She Sie Sie Sie Sie Nach Nach Nach
+Nach Zeit Zeit Zeit Zeit Bei Bei Bei Bei His His His His
+Seit Seit Seit Seit States States States States Geschichte
+Geschichte Geschichte Geschichte So So So So Platz Platz
+Platz Platz Sohn Sohn Sohn Sohn Saison Saison Saison Saison
+British British British British National National National
+National Zu Zu Zu Zu Leben Leben Leben Leben Seine Seine
+Seine Seine But But But But Bis Bis Bis Bis Sein Sein Sein
+Sein Personen Personen Personen Personen Her Her Her Her
+Berlin Berlin Berlin Berlin South South South South North
+North North North Gruppe Gruppe Gruppe Gruppe Bereich
+Bereich Bereich Bereich People People People People Neben
+Neben Neben Neben Haus Haus Haus Haus Because Because
+Because Because State State State State Seite Seite Seite</text>
+  </lesson>
+  <lesson>
+   <id>{8d7265b5-fd43-4d93-9706-cb2e4abed259}</id>
+   <title>Wir üben rechts GROẞ und klein im Wechsel</title>
+   <newCharacters />
+   <text>ebenso court return Nr. Sprache Spiele History rather east
+although Spanish hoch currently schnell George hours Partei
+larger selben call rule try teil brought singer Society
+nichts site research originally your Besitz plants Gruppen
+Nur sieht bestehen county success birth galt Peter zerstört
+oben release present Robert Gegensatz here politische
+beginnt natural trägt hinter betrug past Leipzig besten
+gehen Henry Royal High erster plant beginning erzielte tell
+leben sports reason green Liga true prison Hall ancient Rang
+enthält hätte internationalen Hrsg. heiratete culture
+generally eingestellt hauptsächlich Liebe selten Position
+learn blieben gebracht gestellt trotz gingen our besuchte
+science erschienen care lines rules Polizei spielt tree
+roles theory allein setzt goals causes Rennen ago
+gleichzeitig lebt Stuttgart No spielen really poor Basis
+geprägt heart pieces probably neuer separate religious stars
+turn brachte nearly Street league cut halten Sitz Zuge stay
+blue bleibt ich Russian Paris bringen zeigen Spielen La
+articles runs actress trying langen earlier throughout Recht
+Heinrich Hans create San Republic gegeben southern central
+nahe base eggs reach rights train breit hingegen zusätzlich
+spent source pay ran Herbst biggest action singles act Paul
+happens solche alles actually tropical sister shot shape
+artist Stil gezeigt contains getting ability engine bleiben
+ship See erscheint starts ice seasons easily laut sah
+britischen Situation Berliner structure Schulen Lehrer
+Person piece cells helps geben charge goal stations except
+copies recent thing ones neues entspricht gleich stellen
+arbeitet abgeschlossen Zeitung benannt units recht eyes hot
+nature trees relationship legs appear Leiter hätten ernannt
+geschlossen getötet heutige rechts results stets Big class
+troops running startete beteiligt europäischen happen Noch
+ball letter painting Grenze entlang nine schloss erbaut
+siehe Leistung location regular plan Britain let hält Senate</text>
+  </lesson>
+  <lesson>
+   <id>{d7761d19-1390-4815-ad52-2f751dc3a398}</id>
+   <title>Kurze Trainingssätze</title>
+   <newCharacters />
+   <text>He lost to Shorten.
+He sees people clearly.
+He is a blue cat.
+She returns hours later.
+Sie besitzt noch gotische Reste.
+Pagan has been in anarchy.
+He is also her coach.
+Gulls are not usually eaten by people.
+He has lost only once in his career.
+Sportler zugelassen.
+He plays as a prop.
+Gebieten bis heute prägt.
+Stellen zu beraten.
+You can get it by racing.
+National Geographic Learning.
+Bihaan tries to stop her.
+Scatters the ocean spray.
+Rinpoche soon began teaching in Paris.
+His suit is blue.
+Silicon, though is cheaper.
+Synapsen ist gering.
+Geschichten ist.
+Sport ist ein populäres Hobby.
+Heute ist sie stillgelegt.
+Selbst regiert hat er aber nicht.
+Peanut oil bottle.
+Letters to one another.
+He is currently a player agent.
+She tells Nero that she is guilty.
+Schloss Hellbrunn Salzburg.
+Gorillas are large apes.
+Herrings can be eaten.
+Gleichzeitig ist er als Spieler tätig.
+None but the Lonely Heart.
+His position is center.
+Status erhalten hat.
+He taught her to be an actress.
+Louisiana the Pelican State.
+Sie ist nicht selten.
+But this is rare.
+He changes her into a spirit.
+Sie arbeitet hier.
+He gets hit in the eye.
+Pears sang the title role.
+Partnern erlaubt.
+Not a political entity.
+Stolzenburg lebt allein.</text>
+  </lesson>
+  <lesson>
+   <id>{d725644b-6d17-4a75-8b4f-13097f4fe9ed}</id>
+   <title>Rechter Umschalter</title>
+   <newCharacters>ÖITXCAEUOÄ</newCharacters>
+   <text>Ene Ere Ese Ege Ebe Epe Ehe Ele Eye Eze Ene Ere Ese Ege Ebe
+Epe Ehe Ele Eye Eze Ini Iri Isi Igi Ibi Ipi Ihi Ili Iyi Izi
+Ini Iri Isi Igi Ibi Ipi Ihi Ili Iyi Izi Tnt Trt Tst Tgt Tbt
+Tpt Tht Tlt Tyt Tzt Tnt Trt Tst Tgt Tbt Tpt Tht Tlt Tyt Tzt
+Cnc Crc Csc Cgc Cbc Cpc Chc Clc Cyc Czc Cnc Crc Csc Cgc Cbc
+Cpc Chc Clc Cyc Czc Ono Oro Oso Ogo Obo Opo Oho Olo Oyo Ozo
+Ono Oro Oso Ogo Obo Opo Oho Olo Oyo Ozo Önö Örö Ösö Ögö Öbö
+Öpö Öhö Ölö Öyö Özö Önö Örö Ösö Ögö Öbö Öpö Öhö Ölö Öyö Özö
+Änä Ärä Äsä Ägä Äbä Äpä Ähä Älä Äyä Äzä Änä Ärä Äsä Ägä Äbä
+Äpä Ähä Älä Äyä Äzä Xnx Xrx Xsx Xgx Xbx Xpx Xhx Xlx Xyx Xzx
+Xnx Xrx Xsx Xgx Xbx Xpx Xhx Xlx Xyx Xzx Ana Ara Asa Aga Aba
+Apa Ahe Ale Aya Aza Ana Ara Asa Aga Aba Apa Ahe Ale Aya Aza
+Unu Uru Usu Ugu Ubu Uhu Ulu Uyu Uzu Unu Uru Usu Ugu Ubu Uhu
+The The The The It It It It In In In In This This This This
+Er Er Er Er They They They They Es Es Es Es There There
+There There Als Als Als Als Eine Eine Eine Eine Ein Ein Ein
+Ein On On On On Auch Auch Auch Auch Teil Teil Teil Teil
+These These These These At At At At As As As As April April
+April April August August August August October October
+October October Ort Ort Ort Ort One One One One Ab Ab Ab Ab
+English English English English Titel Titel Titel Titel Art
+Art Art Art All All All All An An An An Aus Aus Aus Aus
+Tochter Tochter Tochter Tochter Arbeit Arbeit Arbeit Arbeit
+Its Its Its Its City City City City Alter Alter Alter Alter
+Einsatz Einsatz Einsatz Einsatz Their Their Their Their Tag
+Tag Tag Tag That That That That Unter Unter Unter Unter Erst
+Erst Erst Erst Other Other Other Other Europe Europe Europe</text>
+  </lesson>
+  <lesson>
+   <id>{4a0b5478-83c6-4a54-8c82-e00480237c23}</id>
+   <title>Wir üben links GROẞ und klein im Wechsel</title>
+   <newCharacters />
+   <text>turn Osten brachte nearly league cut halten stay blue bleibt
+ich Organisation bringen zeigen articles runs actress About
+trying langen earlier throughout create Christian Italien
+Church gegeben southern central Trotz nahe Anteil base eggs
+reach rights train breit hingegen zusätzlich Institute spent
+source pay ran Ausgabe biggest action singles act Center
+happens solche alles actually tropical sister shot shape
+Court artist gezeigt Association contains Congress getting
+ability engine bleiben ship erscheint starts ice seasons
+easily laut sah britischen Chr. structure piece cells helps
+geben charge goal stations except copies recent Interesse
+thing ones neues entspricht gleich stellen arbeitet
+abgeschlossen benannt units recht eyes hot nature trees
+relationship legs appear Catholic hätten ernannt geschlossen
+getötet heutige rechts results stets class troops running
+startete beteiligt europäischen happen Institut ball letter
+painting entlang Aber nine Abschluss schloss erbaut siehe
+location regular plan let hält Autor centre artists anything
+houses Anschluss girl easy betrieben gehalten letters ganze
+test taught cars brain paper nahezu zuletzt legte Air Once
+host table hair upon appears author coast exist training
+erhielten Italy acting rich angelegt scheint sogenannte
+score legal internationale angeboten society sex enthalten
+oberen späteren trug gas beschrieben begonnen höchste genau
+regions Only lebte besitzen Ortes ähnlich zählt lots star
+territory reasons tour seat plane sogenannten entire college
+sure Theater leitete Ergebnis continue hergestellt protect
+organization nearby elections Three Ich historischen älteren
+appearance zugleich northern historical starting gar
+existiert Act boy billion status rate clear belegte arbeiten
+Tore Teilen tritt eingerichtet Anna increase interest
+pressure begins Untersuchungen begannen gute unten zeigte
+cost tries section article bring yet älteste erstes Tonnen
+Text eastern erreichten split gehörten Trainer Asia Chicago</text>
+  </lesson>
+  <lesson>
+   <id>{d70224b3-c422-497c-9644-ca900e265376}</id>
+   <title>Kurze Trainingssätze</title>
+   <newCharacters />
+   <text>The nearest airport is Raipur Airport.
+It is an ocean.
+Also, it only applies to corporations.
+Each line represents a political party.
+Its legs are long.
+This can also increase your thirst.
+It is a Catholic church.
+It has a lighter belly.
+Each species has subspecies.
+This is usually less than one year.
+Sie ist nur noch in Teilen erhalten.
+But this is rare.
+Louisiana the Pelican State.
+The case goes to court.
+The largest one is Great Nicobar.
+Sie ist nicht selten.
+She is also a philanthropist.
+She returns hours later.
+It is the biggest constellation.
+The capital is Enugu.
+Statistics about this are not clear.
+It has a police station.
+The thin blue line is its tributary.
+The opposite is polyphony.
+He is a blue cat.
+Arch Resources, Inc.
+This is a rebus.
+It has one piece.
+Pears sang the title role.
+This causes her to lose the ability.
+They are separate postal authorities.
+The santeria experience.
+The capital is Asaba.
+None but the Lonely Heart.
+Unripe bananas are green.
+It has a natural basic engine balance.
+The nearest business city is Sri City.
+Currently no longer operational.
+The people are happy.
+It is a Britsh National Trail.
+Gleichzeitig ist er als Spieler tätig.
+Gulls are not usually eaten by people.
+Cancerous cells are the exception.
+The heat exchanger is on top.
+Ben is a technical genius.
+It is high in energy.
+They hunt their prey using echolocation.</text>
+  </lesson>
+  <lesson>
+   <id>{1bd944bd-dec1-40c4-887e-1331fdec0514}</id>
+   <title>Unser Sicherheitstest</title>
+   <newCharacters />
+   <text>The He It In This Er They She Sie A Nach Es There Zeit S.
+Als Bei Eine Ein His On Auch Seit Teil These At As April
+States I August Geschichte October So Platz Sohn Ort One
+Saison British Ab English National Zu Leben Seine But Bis
+Titel Sein Art Personen Her All Berlin South North An Aus
+Gruppe Bereich People Tochter Neben Arbeit Haus Its Because
+City State B. Seite By Bau Beginn Since Gebiet Prozent
+Spieler Alter Hier Zur Schule School USA Rolle Höhe Spiel
+Einsatz Their Betrieb Tag Ziel That Unter Richtung Erst
+Other House Europe Then Europa Ihre Buch Beispiel Regierung
+International European U.S. To Union St. Länge Party East
+Zahl Bereits Each Tage Ihr You County Reihe Council Burg
+League Bezeichnung Although Heute Euro Chinese Press
+Arbeiten Serie Also Teile II Australia Ehe Later Anzahl US
+Alle Arten Regel Region Cup Später China Stelle Lage
+Literatur Insel Another Great Both Linie Uhr Seiten ISBN
+These press tangents against the strings.
+He lost to Shorten.
+He has lost only once in his career.
+They hunt their prey using echolocation.
+Schloss Berg genutzt.
+Ten characters are playable.
+Tess ist eine Rapperin.
+Gorillas are large apes.
+Sein Sprechen entspricht eher einer Art Geblubber.
+Sie ist nicht selten.
+It is on its east loop.
+Its capital is Gorgan.
+Catalan galley sailing a long.
+Letters to one another.
+The legislature is usually a city council.
+It is the largest city in the Pilbara Region.
+The capital is Baler.
+Sportler zugelassen.
+The nearest airport is Raipur Airport.
+Instructional Resources Corporation.</text>
+  </lesson>
+  <lesson>
+   <id>{3cc30c0d-4628-4c6d-9aad-4a4b3555fc8a}</id>
+   <title>Neue Buchstaben: d und m</title>
+   <newCharacters>dmDM</newCharacters>
+   <text>eae iui tdt tdt tdt iui tdt tdt eae tdt tdt tdt iui tdt tdt
+tdt eae nhn rlr sms sms sms rlr sms sms nhn sms sms sms rlr
+sms sms sms nhn tdt tdg tds tdr tdn tde tdi tdt tdc sms smc
+smt smi sme smn smr sms smg tdt tdg tds tdr tdn tde tdi tdt
+tdc sms smc smt smi sme smn smr sms smg dtd dtn dtr dts dtg
+dtz dty msm mse msi mst msc msä msö ded did dtd dcd dud däd
+dad död dxd dod mnm mrm msm mgm mlm mzm mhm mym mpm mbm cdt
+tdt idt edt odt udt ädt adt xdt odt gms sms rms nms bms lms
+zms hms yms pms odt edt idt cdt bms nms rms gms tdt iui eae
+der der der die die die den den den des des des mit mit mit
+das das das dem dem dem durch durch durch dass dass dass
+many many many more more more made made made dieser dieser
+dieser most most most mehr mehr mehr diese diese diese drei
+drei drei man man man do do do may may may did did did
+diesem diesem diesem dann dann dann during during during da
+da da died died died music music music dort dort dort damit
+damit damit married married married means means means dabei
+dabei dabei main main main much much much death death death
+dessen dessen dessen deren deren deren million million
+million does does does member member member m m m denen</text>
+  </lesson>
+  <lesson>
+   <id>{6c10fbb6-49c3-4ec0-a3b7-de98fc574d31}</id>
+   <title>Wir üben d und m</title>
+   <newCharacters />
+   <text>der die den des mit. das dem durch dass, many more, made
+dieser most mehr diese drei man do may did diesem dann
+during da died music dort damit married means dabei main
+much death dessen deren million. does member m denen mehrere
+diesen day dieses de deutschen muss members musste must
+money dazu meist men, days, doch meisten. dies done mother
+möglich daher deutlich damals modern due months, daughter
+military machen district decided deutsche, match mehreren
+might meaning danach mostly directed data mm machte dritten
+darunter mussten denn dadurch dar director, macht design
+designed male destroyed diente deshalb mindestens meant dead
+damage mean middle matches mainly darin described model met
+minutes. date. doing marriage department, medical, material,
+musical miles disease dance dagegen dient dritte metal.
+meters machine dahin, debut dargestellt. mass mountain dry,
+deutscher daran decision method damaligen month my males
+degree meet magazine dienen mixed deep. multiple directly
+dennoch distance media meeting methods morning dangerous
+medal dog, managed. drama mind memory manchmal deaths
+describe direction. drugs me, minor double mountains museum
+municipality modernen deal declared districts. miteinander,
+metres musician mayor map matter manager du doctor mittels
+daraus. derzeit marry medicine mal möchte, depending,</text>
+  </lesson>
+  <lesson>
+   <id>{668f7a13-93ed-4c9f-bd95-a676af17ebbf}</id>
+   <title>Sicherheitstest für d und m</title>
+   <newCharacters />
+   <text>der, die, den, des, mit. das, dem. durch, dass. many. more.
+made. dieser. most, mehr. diese, drei, man. do, may, did.
+diesem. dann. during, da. died, music, dort. damit, married.
+means, dabei, main. much, death. dessen. deren, million,
+does. member, m, denen. mehrere. diesen, day, dieses, de.
+deutschen. muss, members, musste, must. money, dazu. meist.
+men. days. doch. meisten. dies, done. mother. möglich, daher
+deutlich. damals. modern. due. months, daughter. military,
+It is the largest shopping center on Staten Island.
+Neue Texte Brandenburger Autoren.
+This is called diabetic neuropathy.
+Barbers also shape and trim beards and mustaches.
+A toy car is similar to a real car.
+They are designed to protect head and ears.
+She died unmarried.
+It is near the MRT station and bus interchange.
+This is called thermionic emission.
+He studied at Augsburg College.
+Die prächtige Grabanlage in Berlin blieb erhalten.
+The mascot character is Clutch and Clutchyna.
+Oder Lehrbuch Der Deutschen Sprache.
+Das Neue Testament hatte Parallelstellen am Rand.
+Many important institutions are in Oslo.
+Dot got the part.
+Eines Tages aber ist alles anders.
+She is an only child.
+Sein Regierungsantritt steht unter einem schlechten Stern.
+Rare changes occur, and these changes can be inherited.
+The Chicago Sun Times.</text>
+  </lesson>
+  <lesson>
+   <id>{e2d3f816-d2d3-470a-86e7-e14cbee91b7e}</id>
+   <title>Die Buchstaben: ü und v </title>
+   <newCharacters>üvÜV</newCharacters>
+   <text>iui iüi iui iüi iui iüi iüc iüt iüi iüe iüo iüu iüa iüx iüä
+iüö tdt tvt tdt tvt tdt tvt tvc tvt tvi tve tvo tvu tva tvx
+tvä tvö ügi üsi üri üni übi ümi üli ühi üpi ü.i ü,i üzi üyi
+vgt vst vrt vnt vbt vmt vlt vht vpt v.t v,t vzt vyt uiu üiü
+uiu üiü uiu üiü üci üti üii üei üoi üui üai üxi üäi üöi dtd
+vtv dtd vtv dtd vtv vct vtt vit vet vot vut vat vxt vät vöt
+iui iüi tdt tvt iui iüi tdt tvt iui iüi tdt tvt uiu üiü dtd
+vtv iui üiü tdt vtv iüe tvc iüe tvc eüi cvt eüi cvt eüi cvt
+von have über vor vom very over Von movie vier several
+convert November government University lived live even given
+living viele Vater every verschiedenen davon gegründet
+television moved never version move Verlag Verein received
+gave gegenüber served verschiedene Universität level River
+übernahm give München above Über verheiratet vielen movies
+müssen river having love video event service various viel
+ever average themselves zuvor events ursprünglich darüber
+village developed Süden divided verbunden lives seven
+believed Verbindung available vollständig believe versucht
+movement Unterstützung relativ Version leave Vor development
+Darüber gründete gives verloren Vertrag David bevor Gründung
+Soviet novel active Viele Bürgermeister services province
+vorhanden discovered Schüler vote leaves absolvierte
+Vergleich Even verlassen eventually Vom involved
+Vorsitzender verlor university übernommen vermutlich
+Vereinigten v. hervor covered travel unterstützt private
+moving Over levels giving individual Vertreter vertreten
+ursprünglichen Gründen Division südlich leaving positive</text>
+  </lesson>
+  <lesson>
+   <id>{b87e8a76-1e7d-45a5-975b-3c7048903738}</id>
+   <title>Wir üben ü und v</title>
+   <newCharacters />
+   <text>von, have. über, vor. vom, very. over. Von. movie. vier.
+several, convert, November. government, University, lived.
+live, even, given. living, viele. Vater. every.
+verschiedenen, davon. gegründet. television. moved, never.
+version. move, Verlag, Verein, received, gave, gegenüber.
+served, verschiedene. Universität, level, River. übernahm,
+give, München. above, Über, verheiratet. vielen, movies,
+müssen, river. having, love, video, event. service, various,
+viel, ever. average, themselves, zuvor, events, ursprünglich
+darüber, village, developed. Süden. divided, verbunden.
+lives. seven. believed, Verbindung. available. vollständig,
+believe. versucht. movement. Unterstützung. relativ. Version
+leave. Vor, development. Darüber. gründete. gives. verloren.
+Vertrag. David. bevor. Gründung. Soviet. novel, active,
+Viele, Bürgermeister. services, province. vorhanden,
+discovered, Schüler. vote. leaves. absolvierte, Vergleich.
+Even, verlassen, eventually, Vom. involved, Vorsitzender,
+verlor, university, übernommen. vermutlich. Vereinigten, v.,
+The cenermony can last several days.
+Screen Gems distributes the movie.
+Northern Illinois University Press.
+More than one hundred thousand people live there.
+Neither the altar nor the statue survive.
+She became good at giving public speeches and preaching.
+It teaches students over the Internet.
+Den Pirol gibt es als Standvogel im Göttiner Revier.
+These are also called pulmonary alveoli.
+Living in the settlement is more attractive.
+Der Gesangsrhythmus blieb unverändert.
+More than three million people live in the Montreal region.
+It can be given only once to the same person.
+Tamino remains calm and brave.
+It lives in Asia.
+The house especially values ambition and determination.</text>
+  </lesson>
+  <lesson>
+   <id>{b6b1db0a-cf65-499e-bf40-b695de2f1898}</id>
+   <title>Sicherheitstest für ü und v</title>
+   <newCharacters />
+   <text>Several computer products are sold unter the brand.
+Alle Amphoe liegen in der Provinz Loei.
+That plant is very similar.
+Montenegrin movie director.
+It does not have a permanent collection.
+Later, he betrays Percy and leaves him almost dead.
+The Complete Annotated Gilbert and Sullivan.
+Many azides are explosive and very toxic.
+Today, some cars have six or even eight airbags.
+Television is most used.
+Iamani hatte selbst seinen Vorgänger Achimeti gestürzt.
+Data rates vary.
+Osborne County is very Republican.
+A subdistrict level may exists in some cities.
+Eine Sammlung von Einzelinterpretationen.
+A large reservoir is built at Poulaphouca.
+His story is told by various ancient authors.
+The pie chart and the bar chart have the same data.
+Er schlug ihr vor, in seiner Gruppe zu singen.
+Eritrea is divided into six administrative regions.
+Die Vögel sind standorttreu.</text>
+  </lesson>
+  <lesson>
+   <id>{3272c983-22c4-44b6-95e8-932f17eec7f7}</id>
+   <title>Neue Buchstaben: f und k</title>
+   <newCharacters>fkFK</newCharacters>
+   <text>eäe iüi tvt cfc cfc cfc tvt cfc cfc cfc iüi cfc cfc cfc nzn
+r,r s.s gkg gkg gkg s.s gkg gkg gkg r,r gkg gkg gkg cfc tft
+ifi efe ofo dfd ufu afa xfx öfö äfä üfü vfv gkg sks rkr nkn
+bkb mkm lkl hkh pkp yky zkz ,k, .k. cfc cft cfi cfe cfo cfu
+cfa cfx cfv cfd cfü cfä cfö gkg gks gkr gkn gkb gkm gkl gkh
+gkp gk. gk, gkz gky fcc ftc fic fec foc föc fäc füc fvc fxc
+fac fuc fdc kgg ksg krg kng kbg kyg kzg k,g k.g kpg khg klg
+of of of for for for auf auf auf für für für from from from
+first first first after after after kann kann kann different
+different different konnte konnte konnte make make make like
+like like können können können often often often keine keine
+keine kam kam kam before before before zurück zurück zurück
+if if if back back back found found found life life life
+family family family ebenfalls ebenfalls ebenfalls four four</text>
+  </lesson>
+  <lesson>
+   <id>{26d42078-069e-431d-91d8-51a6a7294b4a}</id>
+   <title>Wir üben f und k</title>
+   <newCharacters />
+   <text>of for auf für from first after kann different konnte make
+like können often keine kam After before zurück if back Für
+found Kirche Oktober Auf life family ebenfalls four left For
+bekannt befindet If fünf Februar Familie book February Film
+Frau killed take fand took konnten father Anfang form famous
+Kinder führte five makes fast darauf finden kommt off oft
+making erfolgte stark York Form books From findet French
+folgenden km kein food aufgrund founded Folge Frauen find
+himself Bevölkerung führt taken black Mannschaft häufig
+kamen kleinen veröffentlicht King France kurz kommen
+befinden formed Dorf think kleine Gesellschaft dafür look
+attack king former office official final Strecke female
+Krieg takes fire Musik Frankreich successful film friends
+direkt Fläche information Erfolg Hälfte kehrte folgte free
+aufgenommen keep full Karriere veröffentlichte half Fall
+fanden feet finished keinen Aufgrund Kilometer force fight
+Zeitpunkt König performed umfasst kind Hilfe football kaum
+surface daraufhin Kunst far itself forces difficult führen</text>
+  </lesson>
+  <lesson>
+   <id>{a1e2f4f6-df0b-4eee-84c4-2383b3be3154}</id>
+   <title>Sicherheitstest für f und k</title>
+   <newCharacters />
+   <text>Nur Du kannst es.
+The Himeyuri Monument is the most famous symbol.
+Friedrich Neurath, mit der er sechs Kinder bekam.
+The service is hourly from Charing Cross to Ashford.
+This caused a lot of stress.
+The idea of an astronomical clock is ancient.
+The second one has sex and the first one does not.
+Thy Lord hath provided a rivulet beneath thy feet.
+They sent a message to him, asking to meet in person.
+They had a religious significance to Ismaili Muslims.
+Fiddleheads are a type of vegetable.
+Samuel Nicholas founded it.
+Florida Museum of Natural History.
+Players in the field try to catch the ball.
+Auf der Bühne und doch im Schatten.
+After six months she left StreetSounds.
+Mittig im Chor befindet sich der Altartisch aus hellem Holz.
+Das bedeutete für ihn einen künstlerischen Durchbruch.
+Hochblätter am Blütenstandsstiel fehlen meist.
+The Hoff hat endlich einen Namen.
+National Safety Council.
+Über illegal in der Bundesrepublik lebende Lateinamerikaner.
+Dort sind die Hyperebenen per Definition die Geraden.
+The cables often look like braids.
+The Atelidae family have long tails that can grip things.
+Er setzte Abomey in Brand und floh nach Norden.
+Ihre familiäre Herkunft ist unsicher.
+If the disability is too bad they can not get an education.
+Die Dreimänner verkriechen sich.
+There are several variants of both scripts.</text>
+  </lesson>
+  <lesson>
+   <id>{44f94cd9-e3c0-454b-a117-00c5a41be1e9}</id>
+   <title>Wir wiederholen</title>
+   <newCharacters />
+   <text>cäctdtiuieae gkgsmsrlrnhn cäctdtiuieae gkgsmsrlrnhn cäctdti
+eäeiüinznr,r eäeiüinznr,r eäeiüinznr,r eäeiüinznr,r eäeiüin
+sich that eine from auch nach also sind have they dass über
+Haus Hier Höhe High Hall Hand Hans Hill Holz Here Hong Heft</text>
+  </lesson>
+  <lesson>
+   <id>{6d39d534-6a4d-4817-ad7a-016090a293d7}</id>
+   <title>Neue Buchstaben: j und w</title>
+   <newCharacters>jwJW</newCharacters>
+   <text>ngk njk ngk njk ngk njk ngk ngw ngk ngw ngk ngw ngk gkg gjg
+gwg gkg gjg gwg gkg gjg gwg kjw kjw kjw gkg gjg gwg wjk wjk
+wjk eoe gjg gjg gjg eoe gjg gjg gjg eoe gjb gjn gjr gjs gjg
+exe gwg gwg gwg exe gwg gwg gwg exe gwb gwn gwr gws gwg eoe
+gjg gjg gjg eoe gjg gjg gjg eoe gjz gj, gj. gjk exe gwg gwg
+gwg exe gwg wg gwg exe gwz gw, gw. gwk bjb bjb rhj rhj öju
+öju yij yij sjä sjä hjl hjl bjz bjz ähj ähj cwg twg iwg ewg
+owg cwe twe iwe ewe owe bjb bjb rhj rhj öju öju yij yij sjä
+sjä hjl hjl bjz bjz ähj ähj cwg twg iwg ewg owg cwe twe iwe
+was was was wurde wurde wurde with with with war war war
+werden werden werden were were were wird wird wird wurden
+wurden wurden which which which who who who two two two wie
+wie wie zwei zwei zwei when when when waren waren waren
+known known known jedoch jedoch jedoch wieder wieder wieder
+zwischen zwischen zwischen will will will would would would
+sowie sowie sowie new new new etwa etwa etwa between between
+between where where where work work work won won won world
+world world well well well weitere weitere weitere während
+während während worden worden worden what what what water</text>
+  </lesson>
+  <lesson>
+   <id>{da71fdcd-9ba2-408c-93f7-0b3e3ecdbb55}</id>
+   <title>Wir üben j und w</title>
+   <newCharacters />
+   <text>was. wurde. with, war. werden, were, wird, wurden, which,
+Jahr, who, two, wie. zwei, Jahre, when. waren, known. jedoch
+wieder, Jahren, zwischen. will. would, sowie, new. etwa.
+between, where, When. work. won. However, New, world. well.
+Jahrhundert. weitere, während, worden, what, Januar, Juni.
+water, way. January. how, while, World, show. now, Juli.
+Jahrhunderts. July, wo. down. own, wenn, wrote, went. June,
+Während. written, Einwohner, just. town. bzw., few, zweiten,
+wobei. word. jeweils. weiter, power, away. wegen. worked,
+weiteren, without, John. wanted, welche. Japan, major.
+gewann, Welt, etwas. works. zweite. white. we, verwendet,
+weil. je. women. words. teilweise. Entwicklung. War. sowohl,
+Japanese, shows. wife, Wasser. always. want, gewesen. Werk,
+within, wenig, law, allowed. woman, gewählt. erwähnt,
+Zwischen, Jahres, however. working. joined, writing, weniger</text>
+  </lesson>
+  <lesson>
+   <id>{72e4698a-6bb6-44b9-a47e-4905fdeb59f9}</id>
+   <title>Sicherheitstest für j und w</title>
+   <newCharacters />
+   <text>It can be used for both men and women.
+Sometimes, paintings were also done on cliff faces.
+Radujevac ist eine der ältesten Siedlungen in diesem Gebiet.
+The image below called Truth shows this pose.
+She is one of the main characters and is in both shows.
+Die Todesurteile gegen Oswald Pohl und Otto Ohlendorf.
+He was taught by his father, who was a football player.
+The additional vocals were sung by Ranbir Kapoor.
+This was the last Griffith movie to star the Gish sisters.
+The empire was defeated in World War I and broke apart.
+Im Vicusbereich wurde der Gebäudekomplex weiter untersucht.
+Der Chauffeur der Sternwoods sitzt tot hinter dem Steuer.
+Nachts wird dieser sehr aufwändig beleuchtet.
+Präsident des Gemeindeverbandes war zuletzt Guy Billoudet.
+She changed her surname when she married a man called Meir.
+Von da an nimmt Murakami jedes Jahr an einem Marathon teil.
+This is very useful when sitting on a nest.
+At school, Evan meets with Alana and Jared.
+He has an unusual hairstyle and cuts his own hair.
+Griffith was an extra.
+She was then buried next to her husband in Sceaux, France.
+It is part of the province KwaZulu Natal.
+They established a glass workshop there at Monkwearwolf.
+Peter and Ruth went out.
+The game system did not sell very well.
+He performed and composed new music.
+Large crowds appear on the street to try to see the nose.
+Sie wurde von Klotens AB, dem Klotenverken, erbaut.
+It was directed by Gordon Douglas.
+There is no objective morality in the New Age philosophy.</text>
+  </lesson>
+  <lesson>
+   <id>{894993db-c57f-4103-bacc-d7326d667850}</id>
+   <title>Neue Buchstaben: q und ß</title>
+   <newCharacters>qßQ</newCharacters>
+   <text>ccc fff ccc qqq cfc cqc fcf qcq ccc qqq ccc qqq ggg kkk ggg
+ßßß gkg gßg kgk ßgß ggg ßßß ggg ßßß eae iui tdt cqc cqc cqc
+cqo cqe cqi cqt cqc cqx cqa cqu cqd cqq cqö cqä cqü cqv cqf
+nhn rlr sms gßg gßg gßg gßb gßn gßr gßs gßg ggßp gßh gßl gßm
+gßß gßw gßy gßz gß, gß. gßk gßj qco qce qci qct qcq qcx qca
+qcu qcd qcq qcö qcä qcü qcv qcf ßgb ßgn ßgr ßgs ßgß ßgj ßgp
+ßgh ßgl ßgm ßgß ßgw ßgh ßgl ßgm ßgß ßgw ßgy ßgz ßg, ßg. ßg.k
+große große große großen großen großen schließlich
+schließlich schließlich Außerdem Außerdem Außerdem Straße
+Straße Straße ließ ließ ließ außerdem außerdem außerdem
+größte größte größte größten größten größten quickly quickly
+quickly großer großer großer anschließend anschließend
+anschließend regelmäßig regelmäßig regelmäßig ausschließlich
+ausschließlich ausschließlich Größe Größe Größe außerhalb
+außerhalb außerhalb Anschließend Anschließend Anschließend
+größeren größeren größeren quite quite quite square square
+square Quellen Quellen Quellen weiß weiß weiß größere
+größere größere verließ verließ verließ groß groß groß heißt
+heißt heißt Queen Queen Queen hieß hieß hieß Schließlich
+Schließlich Schließlich Großbritannien Großbritannien
+Großbritannien außen außen außen Straßen Straßen Straßen</text>
+  </lesson>
+  <lesson>
+   <id>{7c9bc8a9-5cfd-415f-873e-ebc67d483fd5}</id>
+   <title>Wir üben q und ß</title>
+   <newCharacters />
+   <text>große. großen. schließlich Außerdem Straße ließ. außerdem,
+größte größten quickly großer anschließend regelmäßig
+ausschließlich Größe außerhalb. Anschließend größeren quite
+square Quellen. weiß, größere. verließ groß heißt Queen hieß
+Schließlich Großbritannien außen Straßen, Großteil besaß
+außer Quelle Maßnahmen required. equal quality. schließt
+equipment größer question unique. Fuß Qualität. fließt
+großes ließen Großen einschließlich weißen Große liquid,
+äußerst headquarters schließen questions, weiße Preußen.
+quit sequence anschließenden. queen require. gemäß
+Qualifikation, größtenteils äußeren techniques requires
+beschließt frequently daß vergrößert besaßen preußischen saß
+Maße. maßgeblich. technique. großem. Quadratkilometer äußere
+conquered verließen acquired Square qualifizierten frequency
+Her mast and equipment were removed.
+The King and Queen were taken prisoner.
+Liquid water is essential for life.
+In Drüsedau herrscht gemäßigtes Klima.
+Amahl pesters them with many questions.
+Then Alexander conquered these areas.</text>
+  </lesson>
+  <lesson>
+   <id>{11924d96-5451-47f7-8721-6808aff61785}</id>
+   <title>Sicherheitstest für q und ß</title>
+   <newCharacters />
+   <text>Er zögert erst, dann schmeißt er ihn vom Dach.
+Die Stielspitze ist mehr oder weniger weißlich.
+In der Qualifikation blieb die Wertung unverändert.
+The amputation process itself was done quickly.
+Dort war das Video bereits ein großer Erfolg.
+In these places quinine can be used.
+A contestant who landed on this space was asked a question.
+Die Vorwürfe wurden in anderen Quellen hinterfragt.
+Es war die erste in Deutschland für ein Straßenradrennen.
+An der übrigen Unterseite ist das Gefieder grauweiß gefärbt.
+Dieses traurige Ereignis führte zu ernsthaften Konsequenzen.
+They will feed on mosquito larvae.
+AOL later acquired Mirabilis, the creators of ICQ.
+Aktivitäten bei sehr hohen Temperaturen und großem Druck.
+He moved frequently between British camps.
+This situation is actually quite common across languages.
+Historische Bautechnik und die Qualität des Details.
+Ordinary differential equations with applications.
+Die Situation blieb allerdings äußerst instabil.
+Byzantion later conquered Chalcedon, across the Bosporus.
+They live mainly in equatorial regions.
+It involved four questions and their answers.
+That liquid helps digest fat.
+Er war außerdem Arbeitsrichter.
+This qualified her as a NASA Astronaut.
+It comes in various forms, mostly round and square sections.
+It was eventually acquired by the Ingersoll family.</text>
+  </lesson>
+  <lesson>
+   <id>{27938b36-4a14-473b-bf17-fb55a80e4154}</id>
+   <title>Rechtschreibklippen und häufige Rechtschreibfehler</title>
+   <newCharacters />
+   <text>gar gären, die Gebärde, malen Gemälde, hämisch, Haar
+Härchen, zäh Zähheit, laden lädt, klar klären, Märchen, Kran
+Kräne, Name nämlich, Paar Pärchen, säen Sämann, Dänen,
+ähnliches allmähliche, Draht Drähte, fahren Fähre, Fähnchen,
+gähnen, gewahr gewähren Gewähr, Naht Nähte, sah, sähen,
+spähen spähte spähten, stehlen stahl, Stahl Stähle stählern,
+Kapitän, Sekretäre, Atmosphäre, Trainer Training, Gäste
+Geste, Ähre Ehre. aggressiv, Akustik, Armaturenbrett,
+asozial, Attrappe, autorisiert, Autorisierung, Billard,
+bisschen, Biskuit, bombardieren, brillant, Cappuccino,
+detailliert, dilettantisch, Diphtherie, Eigenbrötler,
+Entgelt, endgültig, erfahrenste, Ekstase, frönen,
+Galionsfigur, Gebaren, gesät, gotisch, Gratwanderung, Grieß,
+grölen, hältst, Inbusschlüssel, Ingredienzien, Lappalie,
+Liliputaner, lizenzieren, Lizenzierung, manieriert, niesen,
+Obolus, original, Pavillon, piken, piksen, projizieren,
+Prophezeiung, Reling, Religiosität, Reparatur, Ressource,
+Rückgrat, Rhythmus, selig, separat, Seriosität, skurril, so
+was, Standard, Stegreif, subsumieren, Silvester, Terabyte,
+todlangweilig, todschick, unterstützt, unterstützen,
+Verlies, Verwandtschaft, voraus, Wermutstropfen,
+widerspiegeln</text>
+  </lesson>
+  <lesson>
+   <id>{613150b2-65dd-481b-b39a-5db1b999f489}</id>
+   <title>English test—1000 frequently used words</title>
+   <newCharacters />
+   <text>sister gun total company oxygen similar deal radio plural
+death determine various score evening is not then action
+agreed forward nor capital opposite stretched rope factories
+wrong experience cotton settled chart rose apple yellow
+prepared allow details pretty fear entire southern solution
+workers corn truck fresh Washington substances fair shop
+Greek smell printed suffix women tools would not especially
+bought conditions ahead shoes led cows chance actually march
+track born nose northern arrived level afraid create located
+triangle dead British sir molecules sugar difficult seat
+France adjective match division repeated fig win effect
+column office does not underline the or will number of one
+up no and had other way a by about could to word out people
+in but many my than you what them first that all these water
+it were so been he we some call was when her who for your on
+can make its are said like now as there him find with use
+into long his an time down they each has look did at she two
+get be do more come his how write made have their go may
+from if see part set over say try put new great kind end
+sound where hand does western huge steel view church day I
+which take help picture another only through again well
+little much change large work before off must know line play
+big place right spell even year too air such live mean away
+because man three America me old animal turn back any house
+here give same point why most tell page ask move think small
+world very boy letter went after follow mother men thing
+came answer read our want found need would oil just show
+study land name also still different good around learn home
+sentence form should us high saw important miss every left
+until idea near children enough add few side eat food while
+feet face between along car watch own might mile far below
+close night Indian country something walk really plant seem
+white almost last next sea let school hard began above
+father open grow girl keep example took sometimes tree begin
+river mountain never life four cut start always carry young
+city those state talk earth both once soon eye paper book
+list light together hear song fact base thought got stop
+being head group without leave under often second family
+story run later done decided plane filled English contain
+system heat road course behind full halt surface ran hot ten
+produce round check fly building boat object gave ocean game
+am box class force rule equation finally note brought among
+wait nothing understand noun street stood government built
+yet include correct rest warm power oh carefully common
+cannot quickly scientists bring able person inside explain
+six became wheels dry size shown stay though dark minutes
+green language ball strong known shape material verb island
+deep special stars week thousands heavy front less yes fine
+feel machine clear pair picked beside legs simple gone
+matter sat cells sky square main paint glass syllables
+winter mind million perhaps wide love west bill written
+cause lay felt length rain weather suddenly reason exercise
+root test kept eggs instruments direction interest train
+meet center arms circle inches ago blue third farmers
+brother wish months ready race drop paragraph anything
+present developed raised divided beautiful window represent
+general store difference soft energy job members happy
+everything distance whether subject edge heart clothes
+Europe past sit flowers moon sign sum shall region record
+summer teacher return finished wall held believe discovered
+forest describe dance wild probably drive already hair
+rolled cross instead age bear speak phrase amount wonder
+solve soil scale smiled appear bed pounds angle metal copy
+although fraction son free per Africa either hope broken
+killed dictionary sail ice spring moment melody sleep case
+tiny bottom village laughed possible trip factors nation
+gold hole result quite milk poor jumped type quiet let us
+snow themselves natural fight ride temperature lot surprise
+care bright stone French floor lead act died fingers tall
+hill everyone build beat pushed method middle exactly baby
+section speed remain buy lake count dress century consonant
+cat iron outside within someone could president caught row
+yourself brown fell least control trouble team catch
+practice cool God climbed report cloud captain wrote
+straight lost direct shouted rise sent ring continued
+statement symbols serve itself stick wear child else party
+bad desert plains seeds save increase gas suppose experiment
+history England woman engine cost burning coast alone maybe
+design bank Germany drawing business joined period east
+separate foot wire pay break law choose single uncle ears
+clean touch hunting grass visit information flow you are bit
+express lady grew whose mouth students skin received yard
+human valley garden equal art cents please guess thick major
+supply silent blood observe corner trade lie tube electric
+rather spot necessary insects compare bell weight crops
+crowd fun meat tone poem loud lifted hit enjoy consider
+process sand elements suggested army doctor indicate thin
+hat provide except position property thus expect entered
+flat fruit swim cook seven tied terms bones interesting rich
+current tail sense dollars park particular board string send
+sell modern blow sight shoulder compound famous chief
+industry mine value Japanese wash was not wings stream block
+fit movement planets spread addition pole rhythm cattle
+belong exciting eight wife safe branches science sharp
+soldiers heard reached map upon decimal feeling key strange
+body order listen farm music red wind pulled color door rock
+draw stand sure space voice sun become covered seen question
+top fast cold fish ship several cried area across hold plan
+mark today himself notice dog during toward south horse
+short five sing birds better step war problem best morning
+ground complete however passed fall room low vowel king knew
+hours true town since black hundred will ever products
+against unit piece happened pattern figure told whole
+numeral certain usually measure table field did not remember
+north travel friends early slowly wood easy waves money fire</text>
+  </lesson>
+  <lesson>
+   <id>{b7281278-3927-4c28-982e-4d6fbeb7b3b4}</id>
+   <title>Deutsche Wörter – 1000 häufigst benutzte Wörter</title>
+   <newCharacters />
+   <text>der die und in den von zu das mit sich des auf für ist im
+dem nicht ein eine als auch es an werden aus er hat dass sie
+nach wird bei einer um am sind noch wie einem über einen so
+zum war haben nur oder aber vor zur bis mehr durch man sein
+wurde sei in Prozent hatte kann gegen vom können schon wenn
+habe seine Euro ihre dann unter wir soll ich eines es Jahr
+zwei Jahren diese wieder keine Uhr seiner worden und will
+zwischen immer Millionen ein was sagte er gibt alle diesem
+seit muss wurden beim doch jetzt waren drei Jahre mit neue
+neuen damit bereits da auch ihr seinen müssen ab ihrer nach
+ohne sondern selbst ersten nun etwa bei heute ihren weil ihm
+seien Menschen Deutschland anderen werde ich sagt wir eine
+rund für aber ihn Ende jedoch Zeit sollen ins wenn so seinem
+uns Stadt geht doch sehr hier ganz erst wollen Berlin vor
+allem sowie hatten kein deutschen machen lassen als
+Unternehmen andere ob dieses steht dabei wegen weiter denn
+beiden einmal etwas wie nichts allerdings vier gut viele wo
+viel dort alles wäre kommt vergangenen denen fast fünf
+könnte nicht nur hätten Frau am dafür kommen diesen letzten
+zwar diese großen dazu von Mann da sollte würde also bisher
+Leben Milliarden Welt Regierung konnte ihrem Frauen während
+Land zehn würden stehen ja USA heißt dies zurück Kinder
+dessen ihnen deren sogar Frage gewesen erste gab liegt gar
+davon gestern geben Teil Polizei dass hätte eigenen kaum
+sieht große denn weitere was sehen macht Angaben weniger
+gerade lässt Geld München deutsche allen darauf wohl später
+könne deshalb aller kam Arbeit mich gegenüber nächsten
+bleibt wenig lange gemacht wer dies Fall mir gehen Berliner
+mal Weg wollte sechs keinen Woche dagegen alten möglich gilt
+erklärte müsse dabei könnten Geschichte zusammen finden Tag
+Art erhalten man Dollar Wochen jeder nie bleiben besonders
+Deutschen den zu zunächst derzeit allein deutlich
+Entwicklung weiß einige sollten Präsident geworden statt
+Bonn Platz inzwischen nur Freitag um pro seines damit Montag
+Europa schließlich Sonntag einfach gehört eher oft Zahl
+neben hält weit Partei meisten Thema zeigt Politik aus
+zweiten Januar insgesamt je musste Anfang hinter ebenfalls
+ging Mitarbeiter darüber vielen Ziel darf Seite fest hin
+erklärt Namen Haus an Frankfurt Gesellschaft Mittwoch damals
+Dienstag Hilfe Mai Markt seit Tage Donnerstag halten gleich
+nehmen solche Entscheidung besser alte Leute Ergebnis
+Samstag sagen System März tun Monaten kleinen lang nicht
+knapp bringen wissen Kosten Erfolg bekannt findet daran
+künftig acht schnell Grund scheint Zukunft Stuttgart bin
+liegen politischen Gruppe Rolle stellt Juni sieben September
+nämlich Männer Oktober überhaupt eigene dann gegeben
+außerdem Stunden eigentlich Meter ließ Probleme vielleicht
+ebenso Bereich zum Beispiel Höhe Familie während Bild
+Ländern Informationen Frankreich Tagen schwer zuvor vor
+genau April stellen neu erwartet Hamburg sicher führen Mal
+über mehrere Wirtschaft Programm offenbar hier weiteren
+natürlich konnten stark Dezember Juli ganze kommenden Kunden
+bekommen eben kleine trotz wirklich Lage Länder leicht
+gekommen Spiel laut November kurz politische führt innerhalb
+unsere meint immer wieder Form anders ihres völlig
+beispielsweise gute bislang August Hand jede GmbH Film
+Minuten erreicht beide Musik Kritik Mitte Verfügung Buch
+dürfen unter jeweils einigen zum Umsatz spielen Daten welche
+müssten hieß paar nachdem Kunst gebracht Problem noch jeden
+Sprecher recht erneut längst europäischen sein Eltern Beginn
+besteht mindestens machte jetzt bietet außerdem Bürger
+Trainer bald Deutsche schon Fragen klar durch gehören dort
+erstmals Februar zeigen Titel Stück größten setzt Wert Staat
+möchte daher wolle Bundesregierung lediglich Nacht Krieg
+Opfer Tod nimmt Firma zuletzt Werk hohen leben unter anderem
+dieser Kirche weiterhin gestellt Mitglieder Rahmen zweite
+Paris Situation gefunden Wochenende internationalen Wasser
+Recht sonst Möglichkeit versucht blieb junge Mehrheit Straße
+Sache arbeiten Seiten gebe stand Hälfte Monate Mutter
+berichtet letzte Gericht wollten zwölf zumindest Wahl genug
+Weise Vater Bericht amerikanischen hoch beginnt Wort obwohl
+Kopf spielt Interesse Westen verloren Preis erst jedem
+erreichen setzen spricht früher teilte Landes zudem
+einzelnen bereit Blick Druck Bayern Kilometer gemeinsam
+Bedeutung Chance Politiker dazu besten Ansicht endlich
+Stelle direkt beim Bevölkerung viele solchen alle solle
+jungen Einsatz richtig größte sofort neuer ehemaligen
+unserer dürfte schaffen Augen Russland Internet allerdings
+Raum Mannschaft neun kamen Ausstellung Zeiten einzige meine
+nun Verfahren Angebot Richtung Projekt niemand Kampf weder
+tatsächlich Personen heute geführt Gespräch Kreis Hamburger
+Schule guten Hauptstadt durchaus Zusammenarbeit darin Amt
+Schritt meist groß zufolge Sprache Region Punkte Vergleich
+genommen gleichen du ob Soldaten Universität verschiedenen
+Kollegen neues Bürgermeister Angst Unterstützung stellte
+Sommer danach anderer gesagt Sicherheit Macht Bau handelt
+Folge Bilder lag Osten Handel sprach Aufgabe Chef frei
+dennoch hohe Firmen Koalition Mädchen zur entwickelt fand
+Diskussion bringt deshalb Hause Gefahr per zugleich früheren
+dadurch ganzen Abende erzählt Streit Vergangenheit Parteien
+Verhandlungen jedenfalls gesehen französischen Trotz
+darunter Spieler forderte Meinung wenigen Publikum sowohl
+meinte mag Auto Lösung Boden hinaus war verletzt weltweit
+Sohn bevor mussten keiner Produktion Ort braucht
+Zusammenhang Kind Verein sprechen gleichzeitig London
+sogenannten Richter geplant Italien Mittel her freilich
+Mensch großer wenige öffentlichen dritten nahm
+Bundesrepublik Arbeitsplätze bedeutet Feld Bank oben Aktien
+Präsident gesetzt Ausland Ministerpräsident Vertreter jedes
+ziehen Parlament berichtete dieses China aufgrund Stellen
+warum Kindern heraus heutigen Anteil Herr Öffentlichkeit
+Abend selbst Liebe neben rechnen fällt New York Industrie
+wären Vorjahr Sicht Idee Banken verlassen Leiter Bühne
+insbesondere offen stets Theater ändern entschieden Staaten
+Experten Gesetz Geschäft Tochter angesichts gelten mehr
+erwarten läuft fordert Japan Sieg ist Stimmen wählen
+russischen gewinnen bieten Nähe jährlich Bremen Schüler Rede
+Funktion Zuschauer hingegen anderes Führung Besucher Drittel
+Moskau immerhin Vorsitzende Urteil schließlich Kultur
+betonte mittlerweile Saison Konzept suchen Zahlen Roman
+Gewalt Position alt Luft Studenten Köln gesamte indem Stunde
+ehemalige Auftrag entscheiden genannt tragen Börse langen
+häufig Chancen übernehmen stärker ohnehin zeigte geplanten
+Reihe darum verhindern begann Medien verkauft Minister
+wichtig amerikanische sah gesamten einst verwendet vorbei
+Behörden helfen Folgen bezeichnet</text>
+  </lesson>
+  <lesson>
+   <id>{df899c4b-a900-48ba-9656-f49cd566af1b}</id>
+   <title>Die Ziffern</title>
+   <newCharacters>1234567890-°§ℓ»«$€„“”</newCharacters>
+   <text>Die gewohnten Tasten über dem Buchstabenfeld sind auch
+unter dem Tastaturlayout Neo die Ziffern.
+111 Kleiner Finger 111 u1 x1 u1 ü1 u 1 x1x x1x 111
+222 Kleiner Finger 222 u2 x2 u2 ü2 u2 x2x x2x 222
+333 Ringfinger 333 i3 v3 i3 ö3 i3 v3v v3v 333
+444 Mittelfinger 444 a4 l4 a4 ä4 a4 l4l l4l 444
+555 Zeigefinger 555 e5 c5 e5 p5 e5 c5c c5c 555
+666 Zeigefinger 666 o6 w6 o6 z6 o6 w6w w6w 666
+777 Zeigefinger 777 s7 k7 s7 b7 s7 k7k k7k 777
+888 Zeigefinger 888 n8 h8 n8 m8 n8 h8h h8h 888
+999 Mittelfinger 999 r9 g9 r9 ,9 r9 g9g g9g 999
+000 Ringfinger 000 t0 f0 t0 .0 t0 f0f f0f 000
+--- Kleiner Finger --- d- q- d- j- d- q-q q-q ---
+Mit der Hochstelltaste ändert sich bereits die gewohnte
+Belegung. Probiere es aus.
+1° 2§ 3ℓ 4» 5« 6$ 7€ 8„ 9“ 0” -- nocheinmal 1° 2§ 3ℓ 4» 5«
+6$ 7€ 8„ 9“ 0” --
+Die Ziffern können auch mittels der M4-Taste dargestellt
+werden, die Taste links vom ü drücken und die gewünschte
+andere Taste
+m m1m 111 1m1 111 m m1m 111 1m1 111
+, ,2, 222 2,2 222 , ,2, 222 2,2 222
+. .3. 333 3.3 333 . .3. 333 3.3 333
+n n4n 444 4n4 444 n n4n 444 4n4 444
+r r5r 555 5r5 555 r r5r 555 5r5 555
+t t6t 666 6t6 666 t t6t 666 6t6 666
+h h7h 777 7h7 777 h h7h 777 7h7 777
+g g8g 888 8g8 888 g g8g 888 8g8 888
+f f9f 999 9f9 999 f f9f 999 9f9 999
+Null bleibt 000</text>
+  </lesson>
+  <lesson>
+   <id>{02c5f398-0f3a-41ae-a735-4536058f930d}</id>
+   <title>Die Sonderzeichen</title>
+   <newCharacters>!&lt;&gt;=&amp;?()@:+%"';^[]_…*{}/\`~|#</newCharacters>
+   <text>Mittels der M3-Taste, die über der Hochstelltaste, können
+verschiedene Sonderzeichen erzeugt werden.
+k ! k!k !!! k ! k!k !!! h &lt; h&lt;h &lt;&lt;&lt; h &lt; h&lt;h &lt;&lt;&lt;
+g &gt; g&gt;g &gt;&gt;&gt; g &gt; g&gt;g &gt;&gt;&gt; f = f=f === f = f=f ===
+q &amp; &amp;q&amp; &amp;&amp;&amp; q &amp; &amp;q&amp; &amp;&amp;&amp; s ? s?s ??? s ? s?s ???
+n ( n(n ((( n ( n(n ((( r ) r)r ))) r ) r)r )))
+t - t-t --- t - t-t --- d : d:d ::: d : d:d :::
+y @ y@y @@@ y @ y@y @@@ b + +b+ +++ b + +b+ +++
+m % %m% %%% m % %m% %%% , " "," """ , " "," """
+. ' .'. ''' . ' .'. ''' j ; ;j; ;;; j ; ;j; ;;;
+Mittels der M3-Taste, die rechts vom y, können verschiedene
+Sonderzeichen erzeugt werden.
+w ^ ^w^ ^^^ w ^ ^w^ ^^^ c ] ]c] ]]] c ] ]c] ]]]
+l [ [l[ [[[ l [ [l[ [[[ v _ _v_ ___ v _ _v_ ___
+x … …x… ……… x … …x… ……… o * *o* *** o * *o* ***
+e } }e} }}} e } }e} }}} a { {a{ {{{ a { {a{ {{{
+i / /i/ /// i / /i/ /// u \ \u\ \\\ u \ \u\ \\\
+z ` `z` ``` z ` `z` ``` p ~ ~p~ ~~~ p ~ ~p~ ~~~
+ä | |ä| ||| ä | |ä| ||| ö $ $ö$ $$$ ö $ $ö$ $$$
+ü # #ü# ### ü # #ü# ###</text>
+  </lesson>
+  <lesson>
+   <id>{19f97204-3ef3-45e0-aa06-9ff7f7ac29e8}</id>
+   <title>Wir üben ein paar Sonderzeichen</title>
+   <newCharacters />
+   <text>Das darfst du nicht! Hilfe! Betreten verboten! Polizei!
+Halt! Dieb! Schließen Sie nach dem Unterricht die Fenster!
+Wo wohnen Sie? Gehst du in die Mensa? Du kommst heute?
+Universität oder Fachhochschule? Wer? Der! Was? Das! Wann?
+Dann! Wohin? Dahin! Warum? Darum! Wo? Da! Wer? Der! Was?
+Das! Wann? Dann! Wohin? Dahin! Warum? Darum! Wo? Da!
+name@email.de, jemand@web.de, einer@gmx.de,
+irgendwer@gmail.com, Max &amp; Sohn, C&amp;A, H&amp;M, GmbH &amp; Co Joachim
+(Vater), Klara (Mutter), Tobias (Sohn), Stefanie (Tochter),
+Walter (Opa), Heidi (Oma).</text>
+  </lesson>
+  <lesson>
+   <id>{b9a72613-5ee3-4724-bf4f-a401501f246b}</id>
+   <title>Typografie und neue Zeichen</title>
+   <newCharacters>‚‘’–ẞſ</newCharacters>
+   <text>Man beachte die Setzung von Leerzeichen beim Schrägstrich/
+Slash, bei Klammern (wie hier) und bei anderen Satzzeichen.
+Neo bietet die echten deutschen Anführungszeichen auf der
+zweiten Ebene der Zahlen 8 und 9. Zitat: „In dubio pro Neo.“
+Auf der dritten Ebene sind die ‚einfachen‘
+Anführungszeichen, auf der 9 und 0 die “englischen” und die
+entsprechenden ‘einfachen englischen’.
+Auf der dritten Ebene der 0 ist der echte Apostroph, den man
+für Felix’ Katze braucht. Er ist aber sonst ’n seltenes
+Zeichen, ohne geht’s meistens auch.
+Für Programmierung verwendet man immer die "normalen" oder
+die 'einfachen' Ersatzzeichen.
+Auf dem X gibt es die Auslassungspunkte … Davor und danach
+muss ein Leerzeichen stehen. Außer, wenn man mitten im Wort
+abbric…
+Auf dem T gibt’s den Binde-Strich. Aber besser Bindestrich.
+Beim Komma den Gedankenstrich – man beachte den Unterschied
+in der Breite.
+Dieser ist auch ein Gegen-Strich – etwa bei „Schalke –
+Frankfurt“ (mit Leerzeichen) – sowie ein Bis-Strich – wie
+bei „14–16 Uhr“ (ohne Leerzeichen).
+Da „und“ ein eigenständiges Wort ist, setzt man bei „Müller
+&amp; Söhne“ Leerzeichen. Dies gilt auch z. B. bei „i. d. R.“
+u. a.
+Neo bietet das große Eszett: ẞ.
+Und ſchließlich iſt es mit Neo möglich, das lange s zu
+tippen.</text>
+  </lesson>
+  <lesson>
+   <id>{d01c273b-e507-4546-9c62-11fdb787de90}</id>
+   <title>Abkürzungen</title>
+   <newCharacters />
+   <text>Wird eine Abkürzung abgekürzt ausgesprochen, so wird sie
+grundsätzlich ohne Punkt und stets ohne Leerzeichen
+geschrieben.
+Beispiele: ARD, GmbH, KPMG, StGB, StVO, UdSSR, UNHCR
+Maßeinheiten werden als Wort gesprochen, aber dennoch ohne
+Punkt abgekürzt. Beispiel: 10 m (gesprochen „10 Meter“)
+Abkürzungen, die nicht abgekürzt ausgesprochen werden,
+werden grundsätzlich mit Punkten abgekürzt.
+Wenn die Abkürzung mehrteilig ist, stehen Leerzeichen
+zwischen den Bestandteilen. Beispiele: Dr., z. B., d. h.,
+i. d. R., ges. gesch.
+Eine Ausnahme stellt das verbreitete „usw.“ dar, das sich
+anstelle des eigentlich korrekten „u. s. w.“ als Abkürzung
+für „und so weiter“ durchgesetzt hat,
+ebenso wie die lateinische Variante „etc.“ bzw. „&amp;c.“ für
+„et cetera“.
+Weitere Ausnahmen bilden „svw.“ für „so viel wie“.
+Die Abkürzungsweise mit Punkten, aber ohne Leerzeichen, ist
+seit Langem veraltet. Einige Beispiele:
+ABS  Anti-Blockier-System (Sicherheitssystem für Bremsen)
+ADAC Allgemeiner Deutscher Automobil Club
+AEG  Aus Erfahrung gut – Allgemeine
+     Elektrizitäts-Gesellschaft (Haushaltsgerätefirma)
+AKW  Atomkraftwerk
+BKA  Bundeskriminalamt
+BMW  Bayerische Motorenwerke
+BMX  Bicycle Motocross
+BPM  Beats Per Minute (Einheit für Liedgeschwindigkeit)
+BRD  Bundesrepublik Deutschland
+BSE  Bovine Spongiforme Encephalopathie (Rinderwahnsinn)
+BWL  Betriebswirtschaftslehre
+DDR  Deutsche Demokratische Republik
+DFB  Deutscher Fußballbund
+DLRG Deutsche Lebens-Rettungs-Gesellschaft
+DPA  Deutsche Presseagentur
+DPD  Deutscher Paketdienst
+DRK  Deutsches Rotes Kreuz
+DVD  Digitale Video Disc
+EDV  Elektronische Datenverarbeitung
+EKG  Elektrokardiogramm
+EKZ  Einkaufszentrum
+FCKW Fluor-Chlor-Kohlenwasserstoff (Treibgas)
+FDH  Friss die Hälfte
+FKK  Freikörperkultur
+GbR  Gesellschaft bürgerlichen Rechts (Rechtsform)
+GmbH Gesellschaft mit beschränkter Haftung (Rechtsform)
+HIV  Human Immunodeficiency Virus (AIDS)
+HNO  Hals-Nasen-Ohren
+IBM  International Business Machines (Computerfirma)
+ICE  Intercity Express (Zug der Deutschen Bahn AG)
+IHK  Industrie- und Handelskammer
+IRA  Irisch Republikanische Armee
+KKK  Ku Klux Klan (rechtsradikale amerikanische
+     Organisation)
+KMH  Kilometer Pro Stunde (Maßeinheit für Geschwindigkeit)
+LSD  Lysergsäurediethylamid (halluzinogene Droge)
+MfG  Mit freundlichen Grüßen
+NDW  Neue Deutsche Welle (Poptrend der 80er)
+NTV  Nachrichten Television
+PLZ  Postleitzahl
+PVC  Polyvinyl-Chlorid (Kunststoff)
+RAF  Rote Armee Fraktion (linksradikale deutsche
+     Terrorvereinigung aus den 70ern)
+SOS  Morsenotruf ... --- ... (Eselsbrücke: „Save Our Souls“)
+THW  Technisches Hilfswerk
+TNT  Trinitrotoluol (Sprengstoff)
+TÜV  Technischer Überwachungsverein
+UKW  Ultrakurzwelle
+UPS  United Parcel Service (Paketdienst)
+USW  Und so weiter …
+WWW  World Wide Web</text>
+  </lesson>
+  <lesson>
+   <id>{da432bd8-f9ba-4c3b-a1ec-c9e667c790c4}</id>
+   <title>Glückwunsch</title>
+   <newCharacters />
+   <text>Herzlichen Glückwunsch zum Erlernen des Neo-Tastaturlayouts.
+Ich hoffe, die Lektionen haben trotz der Mühe ein wenig Spaß
+gemacht.
+Natürlich muss jetzt noch viel geübt werden. Die bisher
+erlernten Schriftzeichen müssen gefestigt werden, dazu fol-
+gen noch ein paar Testtexte.
+Wie Sie schon bemerkt haben, besitzt Neo eine große Anzahl
+von Sonderzeichen, die Sie mit Hilfe der M4-Taste, auch
+zusammen mit der Hochstelltaste erreichen können. Des Wei-
+teren finden Sie auf der Akzent-, der Zirkumflex- und der
+Tilde-Taste sogenannte tote Tasten, die, vor einer Taste
+gedrückt, diese modifizieren. Außerdem gibt es für jede
+Taste eine Alternativ-Belegung, mit griechischen Zeichen
+oder anderen häufig gebräuchlichen.
+Den Umgang mit den Sonderzeichen übt man auch besser außer-
+halb dieses Programms. Üben Sie damit!
+Spielen Sie damit ein wenig. Werden Sie schneller als je
+zuvor. Viel Spaß!</text>
+  </lesson>
+  <lesson>
+   <id>{89c2a92c-1684-40b8-aa5a-ff39f05b0a85}</id>
+   <title>Testtext „Esperanto“</title>
+   <newCharacters />
+   <text>Esperanto ist sowohl die einfachste als auch die ausdrucks-
+stärkste Sprache der Welt, die Basis einer blühenden inter-
+nationalen Kultur.
+Esperanto-Sprecher gibt es in jedem Land der Erde, von
+Frankreich bis Japan, von Island bis Chile, und alle benu-
+tzen die Sprache Esperanto um ihre Gedanken, Literatur und
+Musik miteinander zu teilen und auszutauschen.
+Doktoro Esperanto (Esperanto „Hoffender“) war das Pseudonym,
+unter dem Dr. Ludwik Lejzer Zamenhof (im Deutschen manchmal:
+Ludwig Lazarus Samenhof) 1887 die Grundlagen der Sprache
+veröffentlichte. Seine Absicht war es, eine leicht erlern-
+bare, neutrale Sprache für die internationale Verständigung
+zu entwickeln, die jedoch andere Sprachen nicht ersetzen
+sollte. Auf Initiative Zamenhofs entstand eine internatio-
+nale Sprachgemeinschaft, die das Esperanto seither für viele
+Zwecke anwendet, vor allem für Reisen, Brieffreundschaften,
+internationale Treffen und kulturellen Austausch (Literatur,
+Musik u. a.).
+Bald fand diese Sprache auch Verwendung in Radiosendungen,
+im Amateurfunk, im mündlichen und fernmündlichen Verkehr,
+in Telegrammen, Zeitungen und Zeitschriften und später im
+Internet. Esperanto wird sowohl in Israel als auch im Iran
+gesprochen, in Russland und China als auch in den USA. Erle-
+ben Sie afrikanische Gesänge, brasilianischen Tanz, korea-
+nische Kampfkunst, deutsches Bier und nepalesische Küche,
+möglicherweise alles während des gleichen Treffens. Erleben
+Sie die Leichtigkeit der Kommunikation über Sprachgrenzen
+hinweg, wie Sie sie noch nie bisher gefühlt haben. Tauchen
+Sie ein, nehmen Sie teil am Austausch der Kulturen. Die
+Vielfalt der Welt liegt vor Ihnen. Denken Sie nicht mehr an
+Ihr Schulenglisch oder Schulfranzösisch – schon allein das
+Wort „Schulenglisch“ impliziert das Ergebnis:
+Dass die allermeisten Menschen nach 3 Jahren noch nichts in
+der Bäckerei bestellen können und sich selbst nach 9 Jahren
+noch nicht frei in der Fremdsprache ausdrücken. Stattdessen
+lernen Sie 1 Jahr lang Esperanto und Sie werden bereits viel
+mehr ausdrücken können (und in mehr Ländern). Esperanto
+wurde mit Absicht so geplant, dass man es so einfach wie
+möglich lernen kann, so dass alle Menschen in allen Ländern,
+selbst ohne Talent für Sprachen, ungezwungen und gemütlich
+miteinander reden können, ohne Unbeholfenheit, genau wie in
+der Muttersprache.
+Wenn Sie es schwierig finden, unregelmäßige Verben oder das
+Geschlecht von Substantiven zu behalten, ist Esperanto etwas
+für Sie, denn Esperanto hat solche unnötigen Ärgernisse
+abgeschafft. Aber es hat auch das Vokabeln-Lernen sehr ver-
+einfacht, indem Sie viel mehr mit weniger Wörtern ausdrücken
+können. Wenn Sie 500 Wörter Esperanto lernen, ist es das
+Äquivalent von einem Englisch- oder Französisch-Wortschatz
+von mindestens 3000 Wörtern.</text>
+  </lesson>
+  <lesson>
+   <id>{74d3c916-0e16-49e1-95f1-2e6443abd463}</id>
+   <title>Testtext „Der kleine Prinz“</title>
+   <newCharacters />
+   <text>Der kleine Prinz ist eine vom Autor illustrierte Erzählung
+von Antoine de Saint-Exupery. Sie ist das bekannteste Werk
+des französischen Autors und erschien zuerst 1943 in New
+York, wo Saint-Exupery sich im Exil aufhielt.
+Das Werk ist ein modernes Märchen, das sowohl Kinder als
+auch Erwachsene anspricht. Es stellt einerseits ein Plädoyer
+für Freundschaft und Menschlichkeit dar, enthält jedoch auch
+politische Anspielungen. Der orientalische Astronom, dessen
+Entdeckung erst dann ernst genommen wird, als er sie in
+einem westlichen Anzug vorträgt, kann als Hinweis auf die
+Reformen in der Türkei durch Atatürk verstanden werden.
+Die Erstausgabe des Kleinen Prinzen wurde am 6. April 1943
+vom Verlag Reynal &amp; Hitchcock in New York veröffentlicht.
+Das Buch erschien zeitgleich im französischen Original („Le
+petit prince“) und in einer englischen Übersetzung („The
+little prince“) von Katherine Woods. Von der Erstauflage
+wurden auch limitierte und signierte Ausgaben in englisch
+(525 Exemplare) und französisch (260 Exemplare) verkauft.
+1950 erschien die erste deutsche Übersetzung von Grete und
+Josef Leitgeb beim Arche Verlag in Zürich. Bis heute wurde
+das Werk weltweit in über 180 Sprach- und Dialektvarianten
+übersetzt.
+Der Erzähler berichtet zunächst, wie er als sechsjähriges
+Kind seine erste Zeichnung vollendet hatte. Wenn er sie den
+„großen Leuten“ mit der Frage zeigte, ob sie ihnen nicht
+Angst mache, hätten sie geantwortet: „Warum sollen wir vor
+einem Hut Angst haben?“ Die Zeichnung sollte jedoch eine
+Riesenschlange darstellen,  die einen Elefanten verdaut.
+Zufällig begegnet der Erzähler, nachdem er mit seinem Flug-
+zeug in der Sahara notgelandet ist, dem kleinen Prinzen, der
+ihn bittet: „Zeichne mir ein Schaf …“ Da der Prinz aber mit
+allen Zeichnungen, die der Flieger anfertigt, unzufrieden
+ist, zeichnet jener eine Kiste und erklärt: „Das Schaf, das
+du willst, steckt da drin.“
+Der Prinz hat im Übrigen keine Mühe, eine Zeichnung mit dem
+Elefanten und der Riesenschlange als solche zu erkennen. Tag
+für Tag erzählt nun der kleine Prinz dem Erzähler seine
+Geschichte.
+Er stammt nicht von der Erde, sondern von einem kleinen
+Asteroiden, „kaum größer als ein Haus“. Einmal war auf dem
+Planeten des kleinen Prinzen eine Blume gewachsen, hatte
+ihre Knospe entwickelt, ordnete ihre Blütenblätter und ent-
+hüllte sich gerade zur Stunde des Sonnenaufgangs.
+Der kleine Prinz unterhielt sich mit ihr, doch quälte sie
+ihn bald mit ihrer Eitelkeit. „Man darf den Blumen nicht
+zuhören, man muss sie anschauen und einatmen.“ Schließlich
+verließ der Prinz seinen Planeten. Auf der Suche nach Freun-
+den besucht er weitere Asteroiden in der Region. Und so
+kommt der kleine Prinz auf den siebten Planeten, die Erde.</text>
+  </lesson>
+  <lesson>
+   <id>{02d13601-355e-442b-be1f-b6b16582e25d}</id>
+   <title>Testtext „Sprichwörter“</title>
+   <newCharacters />
+   <text>Abends wird der Faule fleißig. An jedem Gerücht ist ein
+kleines bisschen Wahrheit. Andere Länder, andere Sitten.
+Andere Mütter haben auch schöne Töchter. Angriff ist die
+beste Verteidigung. Alte Liebe rostet nicht. Berg und Tal
+kommen nicht zusammen, aber Menschen. Besser ein Ende mit
+Schrecken, als ein Schrecken ohne Ende. Besser spät als nie.
+Bellende Hunde beißen nicht. Bier auf Wein, lass das sein.
+Wein auf Bier, das rat ich dir. Das Herz ist auf dem rechten
+Fleck. Den letzten beißen die Hunde. Der Krug geht so lange
+zum Brunnen, bis er bricht. Der Apfel fällt nicht weit vom
+Stamm. Der dümmste Bauer hat die dicksten Kartoffeln. Der
+Mensch lebt nicht vom Brot allein. Eigener Herd ist Goldes
+wert. Eine Hand wäscht die andere. Eine Schwalbe macht noch
+keinen Sommer. Eine Krähe hackt der anderen kein Auge aus.
+Einem geschenkten Gaul sieht man nicht ins Maul. Gegen
+Dummheit ist kein Kraut gewachsen. Geld allein macht nicht
+glücklich. Geld verdirbt den Charakter. Geld regiert die
+Welt. Gelegenheit macht Diebe. Geteiltes Leid ist halbes
+Leid. Gleich und gleich gesellt sich gern. Habgier ist die
+Wurzel allen Übels. Handwerk hat goldenen Boden. Hilf dir
+selbst, so hilft dir Gott. Hochmut kommt vor dem Fall. Hunde
+die bellen, beißen nicht. In der Kürze liegt die Würze. In
+der Not frisst der Teufel Fliegen. Irren ist menschlich.
+Jedem Tierchen sein Pläsierchen. Jeder kehre vor seiner
+eigenen Tür. Jeder Topf findet seinen Deckel. Jedes Ding hat
+seine zwei Seiten. Keine Antwort ist auch eine Antwort.
+Keine Kette ist stärker als ihr schwächstes Glied. Klappe
+zu, Affe tot. Kinder und Narren sagen die Wahrheit. Kleider
+machen Leute. Kleine Geschenke, erhalten die Freundschaft.
+Lachen ist gesund. Lachen ist die beste Medizin. Lange Rede,
+kurzer Sinn. Langes Fädchen, faules Mädchen. Langsam, aber
+sicher. Lass laufen, was du nicht halten kannst. Leben und
+leben lassen. Lehrjahre sind keine Herrenjahre. Man muss die
+Feste feiern, wie sie fallen. Man soll den Teufel nicht an
+die Wand malen. Man soll den Tag nicht vor dem Abend loben.
+Man wird alt wie eine Kuh, und lernt immer noch dazu.
+Morgen, morgen nur nicht heute, sagen alle faulen Leute.
+Nach dem Essen sollst du stehen. oder tausend Schritte
+gehen. Nachts sind alle Katzen grau. Neue Besen kehren gut.
+Ohne Fleiß kein Preis. Ordnung ist das halbe Leben. Pech in
+der Liebe Glück im Spiel. Probieren geht über studieren.
+Quäle nie ein Tier zum Scherz, denn es fühlt wie du den
+Schmerz. Rache ist süß. Reden ist Silber, Schweigen ist
+Gold. Schadenfreude ist die schönste Freude. Scherben
+bringen Glück. Schlafende Hunde soll man nicht wecken.
+Selbsterkenntnis ist der erste Weg zur Besserung. Schmiede
+das Eisen, solange es heiß ist. Steter Tropfen höhlt den
+Stein. Torheit und Stolz wachsen auf einem Holz. Tadeln ist
+leicht, loben ist schwer. Taten sagen mehr als Worte. Tue
+Gutes, dann wird auch dir Gutes getan. Tue nichts Böses, so
+widerfährt dir nichts Böses. Träume sind Schäume. Übung
+macht den Meister. Undank ist der Welt Lohn. Unkraut vergeht
+nicht. Unter Blinden ist der Einäugige König. Verbotene
+Frucht schmeckt süß. Vergeben ist leichter als vergessen.
+Viele Köche verderben den Brei. Vögel, die morgens singen,
+holt am Abend die Katze. Von nichts kommt nichts. Vorbeugen
+ist besser als heilen. Was du heute kannst besorgen, das
+verschiebe nicht auf morgen. Was dem einen recht ist, ist
+dem andern billig. Was der Bauer nicht kennt, frisst er
+nicht. Was Hänschen nicht lernt, lernt Hans nimmermehr. Wer
+den Teufel reinlegen will, muss früh aufstehen. Wer schläft,
+der sündigt nicht. Wo gehobelt wird, fallen Späne. Zeige mir
+deine Freunde und ich sage dir, wer du bist. Zu einem Ohr
+hinein, zum andern heraus. Zuviel ist zuviel, und zu wenig
+ist nicht genug. Zwei Hähne auf einem Mist vertragen sich
+nicht.</text>
+  </lesson>
+  <lesson>
+   <id>{e06cd135-30e4-41e6-bb63-50f763ad31ae}</id>
+   <title>Testtext „Yoga“</title>
+   <newCharacters />
+   <text>Yoga ist eine indische philosophische Lehre, die eine Reihe
+geistiger und körperlicher Übungen wie Yama, Niyama,
+Kriyas, Meditation und/oder Askese umfasst.
+Der Begriff Yoga kann sowohl als „Vereinigung“ oder „Inte-
+gration“ als auch im Sinne von „Anschirren“ und „Anspannen“
+des Körpers an die Seele zur Sammlung und Konzentration ver-
+standen werden. Welcher Weg zur Verwirklichung dieser Ziele
+ einzuschlagen ist, darin unterscheiden sich die verschie-
+denen Richtungen erheblich voneinander.
+Wurzeln: Da Yoga ursprünglich aus Indien stammt, liegen die
+Wurzeln der Yoga-Philosophie im Hinduismus und Teilen des
+Buddhismus. Das Individuum wird hier als ein Reisender im
+Wagen des materiellen Körpers gesehen. Der Wagen ist der
+Körper, der Kutscher der Verstand, die fünf Pferde die fünf
+Sinnesorgane, der Fahrgast die Seele, und das Geschirr heißt
+im Indischen „Yoga“. Darüber hinaus enthält die Bhagavad-
+Gita direkte Anweisungen für den Yogi.
+So heißt es im 5. Kapitel, Vers 27: „Sich lösend von der
+Außenwelt, starr auf die Nasenwurzel (‚Nasikagra‘) schauend
+– den Hauch und Aushauch (Ein-/Ausatmung) regelnd gleich,
+die durch der Nase Innres gehen“. (Anmerkung: „Nasikagra“
+verwechseln einige Übersetzer mit „Nasenspitze“ – die meis-
+ten Yogis schielen aber nicht etwa, sondern blicken als Kon-
+zentrationsübung auf die Nasenwurzel zwischen den Augen-
+brauen, angeblich einen wichtigen Nerventreffpunkt).
+Vers 28 wendet sich den spirituellen Zielen zu: „Zügelnd die
+Sinne, Herz und Geist, ganz der Erlösung zugewandt – Befreit
+von Wünschen, Furcht und Zorn, so ist für immer er erlöst.“
+Im 6. Kapitel geht es um Versenkung (Dhyana) und die rich-
+tige Lebensweise. In Vers 10 heißt es: „yogi yunjita satatam
+atmanam rahasi sthitah – ekaki yatachittama nirashir
+aparigraha.“ ‚Der Yogi soll beständig sich mühen in der Ein-
+samkeit – allein, bezähmend Sinn und Selbst, nichts hoffend,
+ohne Besitz.‘
+Grundsätzlich hat Yoga nachweislich einige positiv bewertete
+Effekte sowohl auf die physische als auch auf die psychische
+Gesundheit. Yoga kann unter Umständen zu einer Linderung bei
+verschiedensten Krankheitsbildern führen, etwa bei Durchblu-
+tungsstörungen, Schlafstörungen, nervösen Beschwerden (Angst
+und Depression), chronischen Kopfschmerzen oder Rücken-
+schmerzen. Der Nutzen von Yoga bei Krankheit oder zur Erhal-
+tung der Gesundheit wird unterschiedlich bewertet. In
+Deutschland können Kosten für Yogakurse von den Krankenkas-
+sen vor allem im Rahmen des Präventionsprinzips der Vermei-
+dung spezifischer Risiken und stressabhängiger Krankheiten
+erstattet werden. Yoga hat auf viele Menschen eine beruhi-
+gende, ausgleichende Wirkung und kann somit den Folgeer-
+scheinungen von Stress entgegenwirken.</text>
+  </lesson>
+  <lesson>
+   <id>{7631aa83-492a-4ea4-9f75-e42fa801f1a8}</id>
+   <title>Testtext „Psyche“</title>
+   <newCharacters />
+   <text>Das heute sachlich vorherrschende Verständnis von Psyche
+bezieht sich auf das „Gesamtsystem“ aller jener (Lebens-)
+„Regungen“, das „der Volksmund“ seit langem als Innenleben
+oder auch Seelenleben bezeichnet und dabei wie die wissen-
+schaftliche Psychologie in Denken und Gefühlsleben unter-
+teilt. Damit ist zuerst die Gesamtheit solcher „Lebensäuß-
+erungen“ oder Eigenreaktionen gemeint, die zuerst oder über-
+haupt nur der Selbst- oder Eigenwahrnehmung zugänglich sind
+und damit nur aus der subjektiven oder heute sog. „Ersten-
+Person-Perspektive“ beobachtet und beschrieben werden kön-
+nen: Das erlebende Wahrnehmen, das vorstellende Erinnern
+vorgängiger Erfahrungen, das Träumen, spontane oder willkür-
+liche Ausdenken oder Phantasieren möglicher oder andersarti-
+ger Erfahrungen aller nur denkbaren Art bis hin zum vielfäl-
+tigen emotionalen Reagieren darauf (und gegebenenfalls damit
+in Zusammenhang stehendem gewohnheitsmäßigen, also gelernten
+Verhalten und absichtlichen oder bewussten und eventuell so-
+gar geplanten bis strategischen Handeln). Traditionell wird
+außerdem „dem Psychischen“ der „physische“ Leib oder „soma-
+tische“ Körper gegenüber gestellt.
+Als „psychosomatisch“ werden dann solche „leib-seelischen“
+Vorgänge bezeichnet, bei denen die bewussten und unbewussten
+psychischen Aktivitäten mit solchen Vorgänge im Menschen in
+Zusammenhang stehen, die nur physiologisch, biochemisch oder
+anderweitig festgestellt und beobachtet werden können. In
+erster Linie handelt es sich dabei um Veränderungen von
+vegetativ gesteuerten und hormonell vermittelten Vitalfunk-
+tionen wie Muskeltonus, Atmung, Herzschlag, Blutdruck oder
+Verdauung, einschließlich evtl. dadurch bedingter krankhaf-
+ter Auswirkungen wie etwa chronischer oder sogar schmerzhaf-
+ter Verspannung, um nur ein Beispiel davon anzuführen. Auf-
+grund dieser besonderen Fähigkeit sind ältere Kinder und vor
+allem erwachsene Menschen zu jener Art von bewusstem, insbe-
+sondere absichtlichen Denken und Planen fähig, das bei Tie-
+ren bislang nicht beobachtet werden konnte. Menschen werden
+deswegen für ihre Taten verantwortlich gemacht, nicht dage-
+gen Tiere und Kleinkinder vor Entwicklung ausreichender
+Erinnerungsfähigkeit und Beherrschung eines gezielten und
+kontrollierten, insbesondere regelgeleiteten und allein „in
+der Vorstellung“ oder „im Geiste“ stattfindenden Kombinie-
+rens von Vorstellungselementen jeder Art („Denken“).</text>
+  </lesson>
+  <lesson>
+   <id>{70e1d7d0-acb3-401c-a4eb-d7d926c706aa}</id>
+   <title>Testtext „Linux und Freie Software“</title>
+   <newCharacters />
+   <text>Als Linux oder GNU/Linux werden in der Regel freie,
+portable, Unix-ähnliche Mehrbenutzer-Betriebssysteme
+bezeichnet, die auf dem Linux-Kernel und wesentlich auf
+GNU-Software basieren.
+Die weite, auch kommerzielle Verbreitung ermöglichte ab
+1992 die Lizenzierung des Linux-Kernels unter der GPL.
+Das modular aufgebaute Betriebssystem wird von
+Softwareentwicklern auf der ganzen Welt weiterentwickelt,
+die an den verschiedenen Projekten mitarbeiten.
+Es sind sowohl Unternehmen als auch
+Non-Profit-Organisationen und Einzelpersonen beteiligt, die
+dies als Hobby betreiben.
+Im praktischen Einsatz werden meist sogenannte
+Linux-Distributionen genutzt, in denen verschiedene
+Software zu einem fertigen Paket zusammengestellt ist.
+Jede Distribution enthält somit Linux beziehungsweise den
+Linux-Kernel.
+Es gibt eine Vielzahl von Linux-Distributionen, aber für
+die aktuellen Kernel 2.2.x, 2.4.x und 2.6.x jeweils nur
+eine stabile, eine aktiv gepflegte und eine weiter
+entwickelte Version –
+nebenbei wird der (stabile) 2.6.29er-Zweig noch gepflegt
+und es werden Patches für vorhergehende Versionen
+bereitgestellt.
+Allerdings passen viele Distributoren und versierte
+Benutzer den Betriebssystemkern mehr oder weniger für ihre
+Zwecke an.
+Die Einsatzbereiche von Linux sind vielfältig und umfassen
+unter anderem die Nutzung auf Desktop-Rechnern, Servern,
+Mobiltelefonen, Routern, Multimedia-Endgeräten und
+Supercomputern.
+Dabei variiert die Verbreitung von Linux in den einzelnen
+Bereichen drastisch. So ist Linux im Server-Markt eine
+feste Größe, während es auf dem Desktop bisher nur eine
+geringe Rolle spielt.
+Ebenfalls spielt die wirtschaftliche und geographische Lage
+einer Region eine wichtige Rolle. So planen vorrangig
+südamerikanische Schwellenländer den verstärkten Einsatz
+von Linux.
+Freie Software (engl.: free software) ist Software, die für
+jeden Zweck genutzt, studiert, bearbeitet und in
+ursprünglicher oder veränderter Form weiterverbreitet
+werden darf.
+Das schließt auch die kommerzielle Nutzung ein. Software,
+die auf Grundlage dieser Software entsteht, muss
+normalerweise ebenfalls Freie Software sein (Prinzip des
+Copyleft bzw. share alike).
+Freier Software steht die proprietäre oder „unfreie“
+Software gegenüber, die diese Freiheiten nicht oder nicht
+in vollem Umfang bietet. Diese Unterscheidung wurde von der
+Free Software Foundation (FSF) geprägt.
+Die Free Software Foundation (FSF) definiert Software als
+frei, wenn ihre Lizenz folgende Freiheiten einräumt:
+Freiheit 0: Das Programm zu jedem Zweck auszuführen.
+Freiheit 1: Das Programm zu studieren und zu verändern.
+Freiheit 2: Das Programm zu verbreiten.
+Freiheit 3: Das Programm zu verbessern und zu verbreiten,
+um damit einen Nutzen für die Gemeinschaft zu erzeugen.
+Für die Freiheiten (1) und (3) ist der Zugang zum Quelltext
+Voraussetzung, sonst wird das Verändern eines Programms
+schwierig bis unmöglich.
+Sind eine oder mehrere dieser Bedingungen nicht erfüllt,
+wird die Software als proprietär oder „unfrei“ bezeichnet.</text>
+  </lesson>
+  <lesson>
+   <id>{5a002791-8f37-4cf9-aa82-50ac19b53cf4}</id>
+   <title>Testtext „Alkohol“</title>
+   <newCharacters>₆₂</newCharacters>
+   <text>Ethanol ist eine farblose, leicht entzündliche Flüssigkeit
+mit brennendem Geschmack sowie charakteristischem, würzigem
+Geruch. Umgangssprachlich wird es als Alkohol bezeichnet.
+Ältere Nomenklaturen verwendeten die Bezeichnungen Äthanol,
+Äthylalkohol oder Ethylalkohol. Es gibt noch ältere Bezeich-
+nungen wie Weingeist und Spiritus (lateinisch „Geist“).
+In der Chemie wird Ethanol oft mit EtOH abgekürzt und in
+der Alltagsmedizin mündlich mit C2 bezeichnet (als Verkür-
+zung der Summenformel [₆=Composetaste+_+6] C₂H₆O). Bekannt
+ist Ethanol vor allem als Trinkalkohol, der als Anteil in
+Genussmittel (z. B. Wein, Bier, Likör) klassifiziert wird.
+Er ist allerdings zugleich ein Rauschmittel, sein Konsum
+ist in den meisten Staaten erlaubt. Das Führen von Fahrrä-
+dern, Kraftfahrzeugen, Schiffen und Flugzeugen unter Alko-
+holeinfluss ist jedoch meist unter Strafe gestellt.
+Die Hauptverwendungen von Ethanol betreffen neben der
+Genuss- und Lebensmittelindustrie vor allem in den letzten
+Jahren die Nutzung als Biokraftstoff in Form von Bioethanol.
+Außerdem handelt es sich um ein organisches Lösungsmittel
+sowie eine Grundchemikalie der Industrie. Für den Menschen
+ist Ethanol giftig.
+Die Aufnahme führt – ab etwa 0,5–1 Promille Alkoholkonzen-
+tration im Blut – zu typischen akuten Trunkenheitssymptomen
+wie Schwindel, Übelkeit, Orientierungsstörung, Redseligkeit
+und gesteigerter Aggressivität.
+Die Letale Dosis (LD) liegt etwa bei 3,0 bis 4,0 Promille
+für ungeübte Trinker. Es wurden jedoch schon Werte über 7
+Promille gemessen. Die LD50 beträgt für die Ratte 7.060
+mg/kg bei oraler Applikation.
+Bei einer akuten Ethanolvergiftung kann der noch im Magen
+befindliche Alkohol durch Herbeiführen von Erbrechen oder
+durch Auspumpen des Mageninhalts teilweise entfernt werden.
+Bei regelmäßiger Einnahme, die zu einer Abhängigkeit (Alko-
+holkrankheit) führen kann, werden alle Zellen des Körpers
+geschädigt. Insbesondere leiden das Nervensystem und Gehirn
+sowie die Leber. Der Vitamin-B1-Stoffwechsel wird durch lang
+anhaltenden Alkoholkonsum geschädigt, diese Schädigung kann
+eine Polyneuritis auslösen. Epilepsie, Psychosen, soziale
+Vereinsamung und der verfrühte Tod können die Folge sein.
+Die Wernicke-Enzephalopathie findet sich bei etwa 15 % der
+verstorbenen Alkoholiker, und bildet zusammen mit dem
+Korsakow-Syndrom das Wernicke-Korsakow-Syndrom.
+Bekannt ist auch die Schädigung des Zentralnervensystems
+beim Delirium tremens. Diese Nervenerscheinung tritt beim
+Alkoholentzug des Körpers auf. In Deutschland sterben über
+73000 Menschen jährlich vorzeitig aufgrund ihres Alkohol-
+missbrauchs.</text>
+  </lesson>
+  <lesson>
+   <id>{74caee7a-7069-4641-bf61-7b25196436a5}</id>
+   <title>Testtext „Säuren“</title>
+   <newCharacters>₃₄</newCharacters>
+   <text>Wohl die älteste bekannte Säure (lat. acidum) ist Essig
+(lat. acetum), eine etwa fünfprozentige wässrige Lösung der
+Verbindung Essigsäure. Säuren waren etwas Essigartiges
+(oxos od. acidus).
+In der Alchemie galt Säure als ein Urstoff. Die sauren
+Eigenschaften basierten auf einer einzigen Ursäure, die in
+verschiedenen Substanzen zur Wirkung kam.
+Säuren lassen Kalk bzw. Carbonate aufschäumen, haben eine
+ätzende Wirkung und einen sauren Geschmack. Bis Ende des
+13. Jh. waren wohl neben Essig und anderen Pflanzensäften
+keine Säuren bekannt.
+Erweiterte Kenntnisse bezüglich Säuren wurden dem im 8. Jh.
+lebenden Geber zugeschrieben, sie basieren jedoch auf
+Schriften der deutlich jüngeren, sogenannten Pseudo-Geber.
+Es entwickelten sich Kenntnisse über verschiedene anorga-
+nische Säuren, die alle den Varietäten des Elements Wasser
+zugeschrieben wurden. Ab dem 18. Jh. wurden sie als Mineral-
+säuren bezeichnet. Eine Herstellung von Salpetersäure (HNO₃)
+wurde von den Pseudo-Geber vermutlich nach dem 13. Jh. als
+„auflösendes Wasser“ (aqua dissolutiva) oder „starkes Was-
+ser“ (aqua fortis) beschrieben. Dabei wurde Kupfervitriol
+mit Salpeter und Alaun auf Rotglut erhitzt. Es entweichen
+nitrose Gase, die mit Wasser Salpetersäure bilden. Man
+nannte diese Säure auch Scheidewasser, da sie Silber in
+einer chemischen Reaktion löst, aber Gold nicht.
+J. R. Glauber beschrieb 1648 die Herstellung der konzen-
+trierten (rauchenden) Salpetersäure (spiritus acidus nitri)
+durch Umsetzung mit Schwefelsäure. Königswasser, aus heuti-
+ger Sicht eine Mischung aus Salpeter- und Salzsäure, dürfte
+ähnlich früh bekannt gewesen sein, da es sich relativ ein-
+fach durch Umsetzung von Salpetersäure mit dem bekannten
+Salmiak gewinnen lässt. Königswasser war die Königin aller
+Säuren, der nicht einmal Gold, der König der Metalle, wider-
+stehen konnte.
+Schweflige Säure (H₂SO₃) ist sicher lange bekannt, da sie
+durch Verbrennung von elementarem Schwefel zu erhalten ist.
+Sicherlich war bei vielen Prozessen auch Schwefelsäure
+(mit) dabei. Genauere Prozesse zur Darstellung von Schwefel-
+säure (H₂SO₄) wurden aber erst 1597 von A. Libavius genauer
+beschrieben:
+a) Glühen von Eisen- oder Kupfersulfat, dem sogenannten
+Eisen- bzw. Kupfervitriol – siehe hierzu auch Vitriolverfah-
+ren – zum Oleum vitrioli (rauchender Schwefelsäure) und
+b) Verbrennung von Schwefel und anschließende Oxidation, die
+zu verdünnten Lösungen (Oleum sulphuris) führten. Eine tech-
+nische Umsetzung gelang im 19. Jh. mit dem Bleikammerverfah-
+ren.
+Salzsäure (HCl) als eigenständige Verbindung wurde erst Ende
+des 16. Jh. bekannt. Durch Glühen einer Mischung Kochsalz
+und Ton beschrieb A. Libavius eine Synthese. B. Valentinus
+beschrieb die Umsetzung von Vitriol und Kochsalz zu aqua
+caustica, dem ätzenden Wasser. Intensive Untersuchungen
+durch J. R. Glauber im 17. Jh. führten zum Glaubers Salz-
+geist (Spiritus salis Glauberianus), der sehr konzentrier-
+ten, sogenannten rauchenden Salzsäure bzw. dem Gas Wasser-
+stoffchlorid.</text>
+  </lesson>
+  <lesson>
+   <id>{e46fc698-ae55-476d-89c4-37b3e968b157}</id>
+   <title>Shell-Einleitung</title>
+   <newCharacters />
+   <text>Es ist wichtig, auf einer Tastatur nicht nur effizient die
+Texteingabe zu beherrschen, sondern auch die Eingabe von
+üblichen Befehlen schnell und sicher zu erledigen. Fehler
+bei diesen Eingaben können teilweise verheerend sein, des-
+halb achten Sie im Folgenden auf ihre Fehlerfreiheit.
+cd Wechselt das aktuelle Verzeichnis.
+chmod Ändert die Zugriffsrechte einer Datei.
+chown Ändert den Besitzer einer Datei.
+cp Kopiert Dateien.
+gunzip Extrahiert eine komprimierte Datei.
+gzip Komprimiert die Datei.
+find Sucht nach Dateien.
+grep Durchsucht eine Textdatei.
+less name Zeigt die Textdatei name an.
+ls Zeigt das Inhaltsverzeichnis eines Ordners an.
+man name Zeigt eine meist englisch sprachige Hilfe zum
+Kommando name an.
+mkdir Erzeugt ein neues Verzeichnis.
+mv Verschiebt Dateien oder benennt Dateien um.
+passwd ändert das aktuelle Passwort des jeweiligen
+Benutzers.
+ps Liefert eine Liste aller Prozesse.
+rm löscht Dateien.
+rmdir Löscht ein leeres Verzeichnis.
+su Wechselt den aktuellen Benutzer.
+sudo Wird dieses Kommando vor ein anderes geschrieben (mit
+Leerzeichen) so wird es mit root-Rechten (Administrator)
+ausgeführt.
+top Zeigt eine Liste der laufenden Prozesse geordnet nach
+CPU-Leistung (Ende mit der Taste „Q“).</text>
+  </lesson>
+  <lesson>
+   <id>{4be9c1e4-a671-4856-b085-6ab14685b7cf}</id>
+   <title>Shell-Übung</title>
+   <newCharacters />
+   <text>man [Programm] Zeigt die Hilfe zu einem Programm an. man
+firefox
+cd [Verzeichnis] Wechselt in das Verzeichnis. cd /tmp
+cd .. Wechselt ein Verzeichnis höher. cd ../td
+cd / Wechselt ins Wurzelverzeichnis. cd /
+cd Wechselt das Verzeichnis. cd ..  cd /tmp
+cd - Wechselt in das vorherige Verzeichnis. cd -
+cp [Datei][Verz] Kopiert Datei in Verzeichnis. cp 123.txt
+/tmp
+mv Verschiebt eine Datei. mv 123.txt /tmp
+mv [Datei1] [Datei2] benennt Datei [DATEI1] in [DATEI2] um.
+mv 123.txt 456.txt
+rm Löscht eine Datei. rm /tmp/123.txt ; rm /tmp/*
+rm -rf alles unterhalb des Verzeichnis löschen. rm -rf
+/tmp/
+mkdir Erzeugt ein Verzeichnis. mkdir /home/test
+rmdir Löscht ein Verzeichnis. rmdir /home/test
+ls Zeigt Ordner-Inhalt an. ls /home/test
+ls -l Ausführliche Auflistung. ls -l /home/test
+ls -la Zeigt alle Dateien des Verzeichnis ausführlich. ls
+-la /home/test
+pwd Zeigt das aktuelle Verzeichnis an. pwd
+cat [Datei] Zeigt Inhalt einer Datei. cat 123.txt
+more [Datei] Zeigt Inhalt einer Datei seitenweise an. more
+123.txt
+touch [Datei] Erzeugt leere Datei. touch 123.txt
+whereis [Prog] Sucht nach Programm. whereis firefox
+find . | grep [DATEI] sucht eine Datei im Verzeichnis. find
+. | grep 123.txt
+grep [KEY] [DATEI] Sucht nach Begriff in einer Datei. grep
+Haus 123.txt
+locate [DATEI] Sucht nach Datei in der Datenbank. locate
+123.txt
+which Zeigt an, wo sich ein Programm befindet. which
+firefox
+$ vi variscript
+#
+#
+# Script to test MY knowledge about variables!
+#
+myname=Vivek
+myos = TroubleOS
+myno=5
+echo "My name is $myname"
+echo "My os is $myos"
+echo "My number is myno, can you see this number"</text>
+  </lesson>
+  <lesson>
+   <id>{da8bb5f8-cb0c-403a-8ee8-a9d9ca1b725c}</id>
+   <title>Shell Test</title>
+   <newCharacters />
+   <text>$ vi ginfo
+#
+#
+# Script to print user information who currently login,
+current date &amp; time
+#
+clear
+echo "Hello $USER"
+echo "Today is \c ";date
+echo "Number of user login: \c" ; who | wc -l
+echo "Calendar"
+cal
+exit 0
+$ vi demo
+#!/bin/sh
+#
+# Script that demos, command line args
+#
+echo "Total number of command line argument are $#"
+echo "$0 is script name"
+echo "$1 is first argument"
+echo "$2 is second argument"
+echo "All of them are:- $* or $@"
+# vi /etc/bashrc
+# At the end of file add following in /etc/bashrc file
+#
+# today() to print formatted date
+#
+# To run this function type today at the $ prompt
+# Added by Vivek to show function in Linux
+#
+today()
+{
+echo This is a `date +"%A %d in %B of %Y (%r)"`
+return
+}</text>
+  </lesson>
+ </lessons>
+</course>
